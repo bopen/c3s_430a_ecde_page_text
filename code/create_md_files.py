@@ -15,12 +15,13 @@ def write_md_files():
             if not os.path.exists(base_path):
                 os.makedirs(base_path)
 
-            mdFile = MdUtils(file_name=os.path.join(base_path, file_name), title=title)
+            mdFile = MdUtils(file_name=os.path.join(base_path, file_name))
+            mdFile.new_header(level=1, title=title)
             
-            mdFile.new_header(level=1, title='Main')
+            mdFile.new_header(level=2, title='Main')
             mdFile.new_paragraph(text['ConsolidatedText_Main'])
 
-            mdFile.new_header(level=1, title='Explore')
+            mdFile.new_header(level=2, title='Explore')
             mdFile.new_paragraph(text['ConsolidatedText_Explore'])
 
             mdFile.create_md_file()

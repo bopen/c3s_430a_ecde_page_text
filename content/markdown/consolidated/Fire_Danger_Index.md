@@ -1,8 +1,10 @@
 
-Fire Danger Index
-=================
 
-# Main
+
+
+# Fire Danger Index
+
+## Main
 
 
 Fire danger metrics are part of a dataset produced by the Copernicus Emergency Management Service (CEMS) for the [European Forest fire Information System (EFFIS)](https://effis.jrc.ec.europa.eu/about-effis/technical-background/fire-danger-forecast/). The fire danger index allows the EFFIS to be compared with the Australian Mark5 rating system.
@@ -22,7 +24,7 @@ The fire danger index based on historical ERA5 Reanalysis data is presented for 
 Historical fire danger index statistics are also available via the "Explore in Detail" button as national and sub-national area-means for which time series data can be plotted.
 
 The data was collated on behalf of the Copernicus Climate Change Service (C3S).  Further information about this indicator can be found in the C3S documentation resources in the [Climate Data Store](https://cds.climate.copernicus.eu/cdsapp#!/dataset/cems-fire-historical?tab=overview).
-# Explore
+## Explore
 
 
 The fire danger index is a metric related to the chances of a fire starting, its rate of spread, its intensity, and its difficulty of suppression.   The fire danger index is calculated using the Australian McArthur (Mark 5) rating system. The fire danger model used to produce the dataset is the Global ECMWF Fire Forecast model (GEFF).  The fire danger model takes into account temperature, relative humidity, wind speed, precipitation, drought conditions, fuel availability, vegetation characteristics and topography.

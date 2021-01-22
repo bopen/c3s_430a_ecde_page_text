@@ -1,8 +1,10 @@
 
-Climatic suitability for the tiger mosquito - suitability index
-===============================================================
 
-# Main
+
+
+# Climatic suitability for the tiger mosquito - suitability index
+
+## Main
 
 
 The tiger mosquito (Aedes albopictus) transmits vector-borne diseases, such as dengue and chikungunya. Environmental factors such as temperature and rainfall impact the survival chance and seasonal activity of the tiger mosquito which is a serious threat for human health in Europe.
@@ -18,7 +20,7 @@ The climatic suitability index for the tiger mosquito is presented for 2 CMIP5 s
 Statistics for the climatic suitability index of the tiger mosquito are also available via the "Explore in Detail" button as national and sub-national area-means for which time series data can be plotted.
 
 The data was collated on behalf of the Copernicus Climate Change Service (C3S).  Further information about this indicator can be found in the C3S documentation resources in the [Climate Data Store](https://cds.climate.copernicus.eu/cdsapp#!/dataset/sis-agroclimatic-indicators?tab=overview).
-# Explore
+## Explore
 
 
 The climatic suitability index for the presence of the tiger mosquito  (Aedes albopictus) is determined by temperature statistics that are calculated either for the season (winter and summer) or for the whole year. The data covers the period 1971 to 2099 and statistics are averaged for 30 years in overlapping time periods set 10 years apart.  Finally, the time series are averaged for the model ensemble.

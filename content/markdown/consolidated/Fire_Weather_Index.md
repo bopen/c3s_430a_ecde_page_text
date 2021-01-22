@@ -1,8 +1,10 @@
 
-Fire Weather Index
-==================
 
-# Main
+
+
+# Fire Weather Index
+
+## Main
 
 
 Fire danger metrics are part of a dataset produced by the Copernicus Emergency Management Service (CEMS) for the [European Forest fire Information System (EFFIS)](https://effis.jrc.ec.europa.eu/about-effis/technical-background/fire-danger-forecast/). The fire weather index is used to assess the fire danger level in a harmonized way throughout Europe.
@@ -19,7 +21,7 @@ The fire weather index based on historical ERA5 Reanalysis Short Model data is p
 Historical fire weather index statistics are also available via the "Explore in Detail" button as national and sub-national area-means for which time series data can be plotted.
 
 The data was collated on behalf of the Copernicus Climate Change Service (C3S).  Further information about this indicator can be found in the C3S documentation resources in the [Climate Data Store](https://cds.climate.copernicus.eu/cdsapp#!/dataset/cems-fire-historical?tab=overview).
-# Explore
+## Explore
 
 
 The fire weather index indicates fire intensity by combining the rate of fire spread with the amount of fuel being consumed.  The fire weather index is calculated using the Canadian Forest Service Fire Weather Index rating system (FWI). The fire danger model used to produce the dataset is the Global ECMWF Fire Forecast model (GEFF).  The fire danger model takes into account temperature, relative humidity, wind speed, precipitation, drought conditions, fuel availability, vegetation characteristics and topography.
