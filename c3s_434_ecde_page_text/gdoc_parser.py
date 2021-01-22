@@ -18,6 +18,8 @@ def dict_from_sheet_values(rows):
             record[header] = value
         
         records.append(record)
+
+    return records
             
 
 def parse_google_spreadsheet(sheet):
@@ -26,7 +28,7 @@ def parse_google_spreadsheet(sheet):
     discoveryUrl = ('https://sheets.googleapis.com/$discovery/rest?version=v4')
     service = discovery.build('sheets', 'v4', http=http, discoveryServiceUrl=discoveryUrl)
 
-    result = service.spreadsheets().values.get(
+    result = service.spreadsheets().values().get(
         spreadsheetId=SHEET[0], 
         range=SHEET[1]
     ).execute()
@@ -37,7 +39,7 @@ def parse_google_spreadsheet(sheet):
 
     records = dict_from_sheet_values(values)
 
-    with open('outputs/json/records.json') as writer:
+    with open('outputs/json/records.json', "w") as writer:
         simplejson.dump(records, writer, indent=4, sort_keys=True)
 
 

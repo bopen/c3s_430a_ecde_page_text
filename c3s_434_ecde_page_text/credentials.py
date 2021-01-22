@@ -16,7 +16,7 @@ APPLICATION_NAME = 'Google Sheets API Python Quickstart'
 
 if not os.path.isfile(CLIENT_SECRET_FILE):
     raise Exception(f'You must create file {CLIENT_SECRET_FILE} for this to work. '
-                     'See instructions at: https://developers.google.com/sheets/api/quickstart/python')
+                    f'See instructions at: https://developers.google.com/sheets/api/quickstart/python')
 
 
 def get_credentials():
