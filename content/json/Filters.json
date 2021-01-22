@@ -1,0 +1,50 @@
+[
+    {
+        "FilterName": "Time_30yr_1971_2099",
+        "FilterPopUpText": "Choose a 30-year period average",
+        "FilterSubTitle": "Choose a time period",
+        "FilterTitle": "Time period"
+    },
+    {
+        "FilterName": "Anomaly_MonAnn",
+        "FilterPopUpText": "Choose a monthly anomaly or an annual anomaly",
+        "FilterSubTitle": "Choose a month or annual",
+        "FilterTitle": "Anomaly period"
+    },
+    {
+        "FilterName": "Scenario_26_85",
+        "FilterPopUpText": "Choose a scenario with low (RCP2.6) or high (RCP8.5 greenhouse gas emissions",
+        "FilterSubTitle": "Choose a scenario",
+        "FilterTitle": "Scenario"
+    },
+    {
+        "FilterName": "Scenario_45_85",
+        "FilterPopUpText": "Choose a scenario with medium (RCP4.5) or high (RCP8.5) greenhouse gas emissions",
+        "FilterSubTitle": "Choose a Scenario",
+        "FilterTitle": "Scenario"
+    },
+    {
+        "FilterName": "NUTS_2",
+        "FilterPopUpText": "Select the size of the regions shown on the map, from largest (NUTS-0) to smallest (NUTS-2)",
+        "FilterSubTitle": "Choose a NUTS level",
+        "FilterTitle": "NUTS level"
+    },
+    {
+        "FilterName": "NUTS_3",
+        "FilterPopUpText": "Select the size of the regions shown on the map, from largest (NUTS-0) to smallest (NUTS-3)",
+        "FilterSubTitle": "Choose a NUTS level",
+        "FilterTitle": "NUTS level"
+    },
+    {
+        "FilterName": "Month",
+        "FilterPopUpText": "Display data for the chosen month for each year of the dataset",
+        "FilterSubTitle": "Choose a month",
+        "FilterTitle": "Month"
+    },
+    {
+        "FilterName": "Year",
+        "FilterPopUpText": "Choose a year",
+        "FilterSubTitle": "Choose a year",
+        "FilterTitle": "Year"
+    }
+]
