@@ -8,9 +8,15 @@ def find_table_contents(dicts, indicator, table_name):
     for dictionary in dicts:
         if dictionary['Indicator'] == indicator and table_name in dictionary.keys():
             rows = dictionary[table_name]
-            table = [list(rows[0].keys())]
-            for row in rows:
-                table.append(list(row.values()))
+            if isinstance(rows, list):
+                table = [list(rows[0].keys())]
+                for row in rows:
+                    values = [value.replace('\n', ' ') for value in list(row.values())]
+                    table.append(values)
+            else:
+                table = [list(rows.keys())]
+                values = [value.replace('\n', ' ') for value in list(rows.values())]
+                table.append(values)
 
             return table
     
@@ -53,6 +59,19 @@ def write_md_files():
                 mdFile.new_line()
                 mdFile.new_table(columns=len(explore_filter_table[0][:]), rows=len(explore_filter_table[:]), 
                                  text=list(chain.from_iterable(explore_filter_table)), text_align='left')
+
+            pop_up_plots_table = find_table_contents(pop_ups, indicator, 'PopUpElements')
+            if pop_up_plots_table:
+                mdFile.new_line()
+                mdFile.new_table(columns=len(pop_up_plots_table[0][:]), rows=len(pop_up_plots_table[:]), 
+                                 text=list(chain.from_iterable(pop_up_plots_table)), text_align='left')
+
+            climatology_plots_table = find_table_contents(pop_ups, indicator, 'ClimatologyElements')
+            if climatology_plots_table:
+                mdFile.new_line()
+                mdFile.new_table(columns=len(climatology_plots_table[0][:]), rows=len(climatology_plots_table[:]), 
+                                 text=list(chain.from_iterable(climatology_plots_table)), text_align='left')
+            
 
             mdFile.create_md_file()
 

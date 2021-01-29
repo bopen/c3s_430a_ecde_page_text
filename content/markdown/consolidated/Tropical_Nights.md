@@ -50,3 +50,13 @@ The data was collated on behalf of the Copernicus Climate Change Service (C3S). 
 |Anomaly period|Choose a month or annual|Choose a monthly anomaly or an annual anomaly|
 |Scenario|Choose a scenario|Choose a scenario with low (RCP2.6) or high (RCP8.5 greenhouse gas emissions|
 |NUTS level|Choose a NUTS level|Select the size of the regions shown on the map, from largest (NUTS-0) to smallest (NUTS-3)|
+  
+
+|Title|SubTitle|HorizontalAxis|VerticalAxis|Labels|
+| :--- | :--- | :--- | :--- | :--- |
+|The climate anomaly in the <anomaly period> number of tropical nights in <NUTS> under <scenario> for <time period>.|Showing the ensemble mean, ensemble maximum and ensemble minimum across 5 CMIP5 climate models. Hover over the time series to display the values and the action buttons.|Year|Days|"max", "mean", "min"|
+  
+
+|Title|SubTitle|HorizontalAxis|VerticalAxis|Labels|
+| :--- | :--- | :--- | :--- | :--- |
+|Climatology statistics for the monthly mean number of tropical nights for the period 1981-2010.|Based on ERA5 reanalysis data and showing the mean, standard deviation, and 5th and 95th percentiles of the climatology.|Month|Days|mean and standard deviation, 5th percentile, 95th percentile|

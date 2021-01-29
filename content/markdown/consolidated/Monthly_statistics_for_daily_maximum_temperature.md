@@ -48,3 +48,13 @@ The data was collated on behalf of the Copernicus Climate Change Service (C3S). 
 |Time period|Choose a time period|Choose a 30-year period average|
 |Anomaly period|Choose a month|Choose a monthly anomaly|
 |Scenario|Choose a scenario|Choose a scenario with low (RCP2.6) or high (RCP8.5 greenhouse gas emissions|
+  
+
+|Title|SubTitle|HorizontalAxis|VerticalAxis|Labels|
+| :--- | :--- | :--- | :--- | :--- |
+|The climate anomaly in <anomaly period> average daily maximum temperature in <NUTS> under <scenario> for <time period>.|Showing the ensemble mean, ensemble maximum and ensemble minimum across 5 CMIP5 climate models. Hover over the time series to display the values and the action buttons.|Year|°C|"max", "mean", "min"|
+  
+
+|Title|SubTitle|HorizontalAxis|VerticalAxis|Labels|
+| :--- | :--- | :--- | :--- | :--- |
+|Climatology statistics for the monthly mean of daily maximum temperature for the period 1981-2010.|Based on ERA5 reanalysis data and showing the mean, standard deviation, and 5th and 95th percentiles of the climatology.|Month|°C|mean and standard deviation, 5th percentile, 95th percentile|

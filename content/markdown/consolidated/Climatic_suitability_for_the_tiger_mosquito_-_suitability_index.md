@@ -47,3 +47,8 @@ The data was collated on behalf of the Copernicus Climate Change Service (C3S). 
 |Time period|Choose a time period|Choose a 30-year period average|
 |Scenario|Choose a scenario|Choose a scenario with medium (RCP4.5) or high (RCP8.5) greenhouse gas emissions|
 |NUTS level|Choose a NUTS level|Select the size of the regions shown on the map, from largest (NUTS-0) to smallest (NUTS-3)|
+  
+
+|Title|SubTitle|HorizontalAxis|VerticalAxis|Labels|
+| :--- | :--- | :--- | :--- | :--- |
+|The climatic suitability index for the tiger mosquito in <NUTS> under <scenario>.|Values represent a 30-year running average of the EURO-CORDEX ensemble mean and ensemble standard deviation (SD). Hover over the time series to display the values and the action buttons.|Year|Days|"+SD", "mean", "-SD"|

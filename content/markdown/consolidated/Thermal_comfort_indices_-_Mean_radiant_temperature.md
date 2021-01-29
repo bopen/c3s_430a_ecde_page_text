@@ -43,3 +43,8 @@ The data was collated on behalf of the Copernicus Climate Change Service (C3S). 
 |Month|Choose a month|Display data for the chosen month for each year of the dataset|
 |Year|Choose a year|Choose a year|
 |NUTS level|Choose a NUTS level|Select the size of the regions shown on the map, from largest (NUTS-0) to smallest (NUTS-2)|
+  
+
+|Title|SubTitle|HorizontalAxis|VerticalAxis|Labels|
+| :--- | :--- | :--- | :--- | :--- |
+|Time series of the Mean Radiant Temperature (MRT) in <NUTS>| Hover over the time series to display the values and the action buttons.|Year|°C||

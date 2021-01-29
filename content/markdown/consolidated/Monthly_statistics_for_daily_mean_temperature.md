@@ -33,4 +33,13 @@ The time series plot shows the ensemble mean and range of the temperature respon
 
 This indicator is expressed as an anomaly from a reference period so a reference climatology is also provided which displays the mean climatology, the standard deviation from the mean, and the 5th and 95th percentiles.
 
-The data was collated on behalf of the Copernicus Climate Change Service (C3S).  Further information about this indicator can be found in the C3S documentation resources in the [Climate Data Store](https://cds.climate.copernicus.eu/cdsapp#!/dataset/sis-agroclimatic-indicators?tab=overview).
+The data was collated on behalf of the Copernicus Climate Change Service (C3S).  Further information about this indicator can be found in the C3S documentation resources in the [Climate Data Store](https://cds.climate.copernicus.eu/cdsapp#!/dataset/sis-agroclimatic-indicators?tab=overview).  
+
+|Title|SubTitle|HorizontalAxis|VerticalAxis|Labels|
+| :--- | :--- | :--- | :--- | :--- |
+|The climate anomaly in <anomaly period> average daily mean temperature in <NUTS> under <scenario> for <time period>.|Showing the ensemble mean, ensemble maximum and ensemble minimum across 5 CMIP5 climate models. Hover over the time series to display the values and the action buttons.|Year|°C|"max", "mean", "min"|
+  
+
+|Title|SubTitle|HorizontalAxis|VerticalAxis|Labels|
+| :--- | :--- | :--- | :--- | :--- |
+|Climatology statistics for the monthly mean of daily mean temperature for the period 1981-2010.|Based on ERA5 reanalysis data and showing the mean, standard deviation, and 5th and 95th percentiles of the climatology.|Month|°C|mean and standard deviation, 5th percentile, 95th percentile|
