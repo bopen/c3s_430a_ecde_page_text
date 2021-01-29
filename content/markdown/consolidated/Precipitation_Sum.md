@@ -17,7 +17,14 @@ Monthly and annual anomalies of the precipitation sum are presented as 30-year m
 
 Statistics for the precipitation sum are also available via the "Explore in Detail" button as national and sub-national area-means for which time series data can be plotted.
 
-The data was collated on behalf of the Copernicus Climate Change Service (C3S).  Further information about this indicator can be found in the C3S documentation resources in the [Climate Data Store](https://cds.climate.copernicus.eu/cdsapp#!/dataset/sis-agroclimatic-indicators?tab=overview).
+The data was collated on behalf of the Copernicus Climate Change Service (C3S).  Further information about this indicator can be found in the C3S documentation resources in the [Climate Data Store](https://cds.climate.copernicus.eu/cdsapp#!/dataset/sis-agroclimatic-indicators?tab=overview).  
+
+|title|subtitle|popUpText|
+| :--- | :--- | :--- |
+|Time period|Choose a time period|Choose a 30-year period average|
+|Anomaly period|Choose a month or annual|Choose a monthly anomaly or an annual anomaly|
+|Scenario|Choose a scenario|Choose a scenario with low (RCP2.6) or high (RCP8.5 greenhouse gas emissions|
+
 ## Explore
 
 
@@ -33,4 +40,11 @@ The time series plot shows the ensemble mean and range of precipitation response
 
 This indicator is expressed as an anomaly from a reference period so a reference climatology is also provided which displays the mean climatology, the standard deviation from the mean, and the 5th and 95th percentiles.
 
-The data was collated on behalf of the Copernicus Climate Change Service (C3S).  Further information about this indicator can be found in the C3S documentation resources in the [Climate Data Store](https://cds.climate.copernicus.eu/cdsapp#!/dataset/sis-agroclimatic-indicators?tab=overview).
+The data was collated on behalf of the Copernicus Climate Change Service (C3S).  Further information about this indicator can be found in the C3S documentation resources in the [Climate Data Store](https://cds.climate.copernicus.eu/cdsapp#!/dataset/sis-agroclimatic-indicators?tab=overview).  
+
+|title|subtitle |popUpText|
+| :--- | :--- | :--- |
+|Time period|Choose a time period|Choose a 30-year period average|
+|Anomaly period|Choose a month or annual|Choose a monthly anomaly or an annual anomaly|
+|Scenario|Choose a scenario|Choose a scenario with low (RCP2.6) or high (RCP8.5 greenhouse gas emissions|
+|NUTS level|Choose a NUTS level|Select the size of the regions shown on the map, from largest (NUTS-0) to smallest (NUTS-3)|

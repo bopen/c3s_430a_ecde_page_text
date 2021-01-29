@@ -6,12 +6,14 @@ import simplejson
 SPREAD_SHEET = '1BHVHR1-3DC-AJ1ZQUtGUOs25fiGrt0adwmZcSNDFMk0'
 WORK_SHEETS = ['MainElements', 'ExploreElements', 'FilterElements', 'Consolidated', 'FiltersConsol', 'PUPlotsConsol']
 
+
 def empty_dict_check(dictionary):
     for value in dictionary.values():
         if value:
             return False
     
     return True
+
 
 def dicts_from_sheet_values(rows):
     records = []
@@ -30,6 +32,7 @@ def dicts_from_sheet_values(rows):
         records.append(record)
 
     return records
+
 
 def filters_consol_dicts_from_values(rows):
     records = []
@@ -132,7 +135,7 @@ def parse_google_spreadsheet():
             records = dicts_from_sheet_values(values)
 
         with open(f'content/json/{work_sheet}.json', "w") as writer:
-            simplejson.dump(records, writer, indent=4, sort_keys=True)
+            simplejson.dump(records, writer, indent=4)
 
 
 if __name__ == '__main__':

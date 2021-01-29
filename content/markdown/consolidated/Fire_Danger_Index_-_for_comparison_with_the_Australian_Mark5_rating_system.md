@@ -23,7 +23,12 @@ The fire danger index based on historical ERA5 Reanalysis data is presented for 
 
 Historical fire danger index statistics are also available via the "Explore in Detail" button as national and sub-national area-means for which time series data can be plotted.
 
-The data was collated on behalf of the Copernicus Climate Change Service (C3S).  Further information about this indicator can be found in the C3S documentation resources in the [Climate Data Store](https://cds.climate.copernicus.eu/cdsapp#!/dataset/cems-fire-historical?tab=overview).
+The data was collated on behalf of the Copernicus Climate Change Service (C3S).  Further information about this indicator can be found in the C3S documentation resources in the [Climate Data Store](https://cds.climate.copernicus.eu/cdsapp#!/dataset/cems-fire-historical?tab=overview).  
+
+|title|subtitle|popUpText|
+| :--- | :--- | :--- |
+|Month|Choose a month|Display data for the chosen month for each year of the dataset|
+
 ## Explore
 
 
@@ -39,4 +44,9 @@ The time series plot shows the area mean fire danger index for the chosen NUTS r
 
 Hover the mouse over the time series plot to view the data values.  Click on the plot to reveal the action buttons for features such as “zoom” and “download plot as a png”.
 
-The data was collated on behalf of the Copernicus Climate Change Service (C3S).  Further information about this indicator can be found in the C3S documentation resources in the [Climate Data Store](https://cds.climate.copernicus.eu/cdsapp#!/dataset/cems-fire-historical?tab=overview).
+The data was collated on behalf of the Copernicus Climate Change Service (C3S).  Further information about this indicator can be found in the C3S documentation resources in the [Climate Data Store](https://cds.climate.copernicus.eu/cdsapp#!/dataset/cems-fire-historical?tab=overview).  
+
+|title|subtitle |popUpText|
+| :--- | :--- | :--- |
+|Year|Choose a year|Choose a year|
+|NUTS level|Choose a NUTS level|Select the size of the regions shown on the map, from largest (NUTS-0) to smallest (NUTS-2)|

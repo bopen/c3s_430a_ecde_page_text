@@ -19,7 +19,12 @@ The season length of the climatic suitability for the tiger mosquito is presente
 
 Statistics for the season length of the climatic suitability for the tiger mosquito are also available via the "Explore in Detail" button as national and sub-national area-means for which time series data can be plotted.
 
-The data was collated on behalf of the Copernicus Climate Change Service (C3S).  Further information about this indicator can be found in the C3S documentation resources in the [Climate Data Store](https://cds.climate.copernicus.eu/cdsapp#!/dataset/sis-agroclimatic-indicators?tab=overview).
+The data was collated on behalf of the Copernicus Climate Change Service (C3S).  Further information about this indicator can be found in the C3S documentation resources in the [Climate Data Store](https://cds.climate.copernicus.eu/cdsapp#!/dataset/sis-agroclimatic-indicators?tab=overview).  
+
+|title|subtitle|popUpText|
+| :--- | :--- | :--- |
+|Scenario|Choose a scenario|Choose a scenario with medium (RCP4.5) or high (RCP8.5) greenhouse gas emissions|
+
 ## Explore
 
 
@@ -35,4 +40,10 @@ The time series plot shows the ensemble mean and standard deviation (SD) of the 
 
 Hover the mouse over the time series plot to view the data values.  Click on the plot to reveal the action buttons for features such as “zoom” and “download plot as a png”.
 
-The data was collated on behalf of the Copernicus Climate Change Service (C3S).  Further information about this indicator can be found in the C3S documentation resources in the [Climate Data Store](https://cds.climate.copernicus.eu/cdsapp#!/dataset/sis-agroclimatic-indicators?tab=overview).
+The data was collated on behalf of the Copernicus Climate Change Service (C3S).  Further information about this indicator can be found in the C3S documentation resources in the [Climate Data Store](https://cds.climate.copernicus.eu/cdsapp#!/dataset/sis-agroclimatic-indicators?tab=overview).  
+
+|title|subtitle |popUpText|
+| :--- | :--- | :--- |
+|Time period|Choose a time period|Choose a 30-year period average|
+|Scenario|Choose a scenario|Choose a scenario with medium (RCP4.5) or high (RCP8.5) greenhouse gas emissions|
+|NUTS level|Choose a NUTS level|Select the size of the regions shown on the map, from largest (NUTS-0) to smallest (NUTS-3)|

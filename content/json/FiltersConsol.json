@@ -1,442 +1,442 @@
 [
     {
-        "Explore Filters": [
-            {
-                "popUpText": "Choose a 30-year period average",
-                "subtitle ": "Choose a time period",
-                "title": "Time period"
-            },
-            {
-                "popUpText": "Choose a scenario with medium (RCP4.5) or high (RCP8.5) greenhouse gas emissions",
-                "subtitle ": "Choose a scenario",
-                "title": "Scenario"
-            },
-            {
-                "popUpText": "Select the size of the regions shown on the map, from largest (NUTS-0) to smallest (NUTS-3)",
-                "subtitle ": "Choose a NUTS level",
-                "title": "NUTS level"
-            }
-        ],
         "Indicator": "Climatic suitability for the tiger mosquito - season length",
         "Main Filters": [
             {
-                "popUpText": "Choose a scenario with medium (RCP4.5) or high (RCP8.5) greenhouse gas emissions",
+                "title": "Scenario",
                 "subtitle": "Choose a scenario",
-                "title": "Scenario"
+                "popUpText": "Choose a scenario with medium (RCP4.5) or high (RCP8.5) greenhouse gas emissions"
+            }
+        ],
+        "Explore Filters": [
+            {
+                "title": "Time period",
+                "subtitle ": "Choose a time period",
+                "popUpText": "Choose a 30-year period average"
+            },
+            {
+                "title": "Scenario",
+                "subtitle ": "Choose a scenario",
+                "popUpText": "Choose a scenario with medium (RCP4.5) or high (RCP8.5) greenhouse gas emissions"
+            },
+            {
+                "title": "NUTS level",
+                "subtitle ": "Choose a NUTS level",
+                "popUpText": "Select the size of the regions shown on the map, from largest (NUTS-0) to smallest (NUTS-3)"
             }
         ]
     },
     {
-        "Explore Filters": [
-            {
-                "popUpText": "Choose a 30-year period average",
-                "subtitle ": "Choose a time period",
-                "title": "Time period"
-            },
-            {
-                "popUpText": "Choose a scenario with medium (RCP4.5) or high (RCP8.5) greenhouse gas emissions",
-                "subtitle ": "Choose a scenario",
-                "title": "Scenario"
-            },
-            {
-                "popUpText": "Select the size of the regions shown on the map, from largest (NUTS-0) to smallest (NUTS-3)",
-                "subtitle ": "Choose a NUTS level",
-                "title": "NUTS level"
-            }
-        ],
         "Indicator": "Climatic suitability for the tiger mosquito - suitability index",
         "Main Filters": [
             {
-                "popUpText": "Choose a scenario with medium (RCP4.5) or high (RCP8.5) greenhouse gas emissions",
+                "title": "Scenario",
                 "subtitle": "Choose a scenario",
-                "title": "Scenario"
+                "popUpText": "Choose a scenario with medium (RCP4.5) or high (RCP8.5) greenhouse gas emissions"
+            }
+        ],
+        "Explore Filters": [
+            {
+                "title": "Time period",
+                "subtitle ": "Choose a time period",
+                "popUpText": "Choose a 30-year period average"
+            },
+            {
+                "title": "Scenario",
+                "subtitle ": "Choose a scenario",
+                "popUpText": "Choose a scenario with medium (RCP4.5) or high (RCP8.5) greenhouse gas emissions"
+            },
+            {
+                "title": "NUTS level",
+                "subtitle ": "Choose a NUTS level",
+                "popUpText": "Select the size of the regions shown on the map, from largest (NUTS-0) to smallest (NUTS-3)"
             }
         ]
     },
     {
-        "Explore Filters": [
-            {
-                "popUpText": "Choose a year",
-                "subtitle ": "Choose a year",
-                "title": "Year"
-            },
-            {
-                "popUpText": "Select the size of the regions shown on the map, from largest (NUTS-0) to smallest (NUTS-2)",
-                "subtitle ": "Choose a NUTS level",
-                "title": "NUTS level"
-            }
-        ],
         "Indicator": "Fire Weather Index",
         "Main Filters": [
             {
-                "popUpText": "Display data for the chosen month for each year of the dataset",
+                "title": "Month",
                 "subtitle": "Choose a month",
-                "title": "Month"
+                "popUpText": "Display data for the chosen month for each year of the dataset"
+            }
+        ],
+        "Explore Filters": [
+            {
+                "title": "Year",
+                "subtitle ": "Choose a year",
+                "popUpText": "Choose a year"
+            },
+            {
+                "title": "NUTS level",
+                "subtitle ": "Choose a NUTS level",
+                "popUpText": "Select the size of the regions shown on the map, from largest (NUTS-0) to smallest (NUTS-2)"
             }
         ]
     },
     {
-        "Explore Filters": [
-            {
-                "popUpText": "Choose a year",
-                "subtitle ": "Choose a year",
-                "title": "Year"
-            },
-            {
-                "popUpText": "Select the size of the regions shown on the map, from largest (NUTS-0) to smallest (NUTS-2)",
-                "subtitle ": "Choose a NUTS level",
-                "title": "NUTS level"
-            }
-        ],
         "Indicator": "Fire Danger Index",
         "Main Filters": [
             {
-                "popUpText": "Display data for the chosen month for each year of the dataset",
+                "title": "Month",
                 "subtitle": "Choose a month",
-                "title": "Month"
+                "popUpText": "Display data for the chosen month for each year of the dataset"
+            }
+        ],
+        "Explore Filters": [
+            {
+                "title": "Year",
+                "subtitle ": "Choose a year",
+                "popUpText": "Choose a year"
+            },
+            {
+                "title": "NUTS level",
+                "subtitle ": "Choose a NUTS level",
+                "popUpText": "Select the size of the regions shown on the map, from largest (NUTS-0) to smallest (NUTS-2)"
             }
         ]
     },
     {
-        "Explore Filters": [
-            {
-                "popUpText": "Choose either the health definition or climate definition for heat waves",
-                "subtitle ": "Choose a heat wave definition",
-                "title": "Definition"
-            },
-            {
-                "popUpText": "Choose a 30-year period average",
-                "subtitle ": "Choose a time period",
-                "title": "Time period"
-            },
-            {
-                "popUpText": "Choose a scenario with medium (RCP4.5) or high (RCP8.5) greenhouse gas emissions",
-                "subtitle ": "Choose a scenario",
-                "title": "Scenario"
-            },
-            {
-                "popUpText": "Select the size of the regions shown on the map, from largest (NUTS-0) to smallest (NUTS-3)",
-                "subtitle ": "Choose a NUTS level",
-                "title": "NUTS level"
-            }
-        ],
         "Indicator": "Number of Heat Wave Days",
         "Main Filters": [
             {
-                "popUpText": "Choose either the health definition or climate definition for heat waves",
+                "title": "Definition",
                 "subtitle": "Choose a heat wave definition",
-                "title": "Definition"
+                "popUpText": "Choose either the health definition or climate definition for heat waves"
             },
             {
-                "popUpText": "Choose a scenario with medium (RCP4.5) or high (RCP8.5) greenhouse gas emissions",
+                "title": "Scenario",
                 "subtitle": "Choose a scenario",
-                "title": "Scenario"
+                "popUpText": "Choose a scenario with medium (RCP4.5) or high (RCP8.5) greenhouse gas emissions"
+            }
+        ],
+        "Explore Filters": [
+            {
+                "title": "Definition",
+                "subtitle ": "Choose a heat wave definition",
+                "popUpText": "Choose either the health definition or climate definition for heat waves"
+            },
+            {
+                "title": "Time period",
+                "subtitle ": "Choose a time period",
+                "popUpText": "Choose a 30-year period average"
+            },
+            {
+                "title": "Scenario",
+                "subtitle ": "Choose a scenario",
+                "popUpText": "Choose a scenario with medium (RCP4.5) or high (RCP8.5) greenhouse gas emissions"
+            },
+            {
+                "title": "NUTS level",
+                "subtitle ": "Choose a NUTS level",
+                "popUpText": "Select the size of the regions shown on the map, from largest (NUTS-0) to smallest (NUTS-3)"
             }
         ]
     },
     {
-        "Explore Filters": [
-            {
-                "popUpText": "Display data for the chosen month for each year of the dataset",
-                "subtitle ": "Choose a month",
-                "title": "Month"
-            },
-            {
-                "popUpText": "Choose a year",
-                "subtitle ": "Choose a year",
-                "title": "Year"
-            },
-            {
-                "popUpText": "Select the size of the regions shown on the map, from largest (NUTS-0) to smallest (NUTS-2)",
-                "subtitle ": "Choose a NUTS level",
-                "title": "NUTS level"
-            }
-        ],
         "Indicator": "Mean Radiant Temperature",
         "Main Filters": [
             {
-                "popUpText": "Display data for the chosen month for each year of the dataset",
+                "title": "Month",
                 "subtitle": "Choose a month",
-                "title": "Month"
+                "popUpText": "Display data for the chosen month for each year of the dataset"
+            }
+        ],
+        "Explore Filters": [
+            {
+                "title": "Month",
+                "subtitle ": "Choose a month",
+                "popUpText": "Display data for the chosen month for each year of the dataset"
+            },
+            {
+                "title": "Year",
+                "subtitle ": "Choose a year",
+                "popUpText": "Choose a year"
+            },
+            {
+                "title": "NUTS level",
+                "subtitle ": "Choose a NUTS level",
+                "popUpText": "Select the size of the regions shown on the map, from largest (NUTS-0) to smallest (NUTS-2)"
             }
         ]
     },
     {
-        "Explore Filters": [
-            {
-                "popUpText": "Display data for the chosen month for each year of the dataset",
-                "subtitle ": "Choose a month",
-                "title": "Month"
-            },
-            {
-                "popUpText": "Choose a year",
-                "subtitle ": "Choose a year",
-                "title": "Year"
-            },
-            {
-                "popUpText": "Select the size of the regions shown on the map, from largest (NUTS-0) to smallest (NUTS-2)",
-                "subtitle ": "Choose a NUTS level",
-                "title": "NUTS level"
-            }
-        ],
         "Indicator": "Universal Thermal Climate Index",
         "Main Filters": [
             {
-                "popUpText": "Display data for the chosen month for each year of the dataset",
+                "title": "Month",
                 "subtitle": "Choose a month",
-                "title": "Month"
+                "popUpText": "Display data for the chosen month for each year of the dataset"
+            }
+        ],
+        "Explore Filters": [
+            {
+                "title": "Month",
+                "subtitle ": "Choose a month",
+                "popUpText": "Display data for the chosen month for each year of the dataset"
+            },
+            {
+                "title": "Year",
+                "subtitle ": "Choose a year",
+                "popUpText": "Choose a year"
+            },
+            {
+                "title": "NUTS level",
+                "subtitle ": "Choose a NUTS level",
+                "popUpText": "Select the size of the regions shown on the map, from largest (NUTS-0) to smallest (NUTS-2)"
             }
         ]
     },
     {
-        "Explore Filters": [
-            {
-                "popUpText": "Choose a 30-year period average",
-                "subtitle ": "Choose a time period",
-                "title": "Time period"
-            },
-            {
-                "popUpText": "Choose a monthly anomaly or an annual anomaly",
-                "subtitle ": "Choose a month or annual",
-                "title": "Anomaly period"
-            },
-            {
-                "popUpText": "Choose a scenario with low (RCP2.6) or high (RCP8.5 greenhouse gas emissions",
-                "subtitle ": "Choose a scenario",
-                "title": "Scenario"
-            },
-            {
-                "popUpText": "Select the size of the regions shown on the map, from largest (NUTS-0) to smallest (NUTS-3)",
-                "subtitle ": "Choose a NUTS level",
-                "title": "NUTS level"
-            }
-        ],
         "Indicator": "Climate Anomaly in Biologically Effetive Degree Days",
         "Main Filters": [
             {
-                "popUpText": "Choose a 30-year period average",
+                "title": "Time period",
                 "subtitle": "Choose a time period",
-                "title": "Time period"
+                "popUpText": "Choose a 30-year period average"
             },
             {
-                "popUpText": "Choose a monthly anomaly or an annual anomaly",
+                "title": "Anomaly period",
                 "subtitle": "Choose a month or annual",
-                "title": "Anomaly period"
+                "popUpText": "Choose a monthly anomaly or an annual anomaly"
             },
             {
-                "popUpText": "Choose a scenario with low (RCP2.6) or high (RCP8.5 greenhouse gas emissions",
+                "title": "Scenario",
                 "subtitle": "Choose a scenario",
-                "title": "Scenario"
+                "popUpText": "Choose a scenario with low (RCP2.6) or high (RCP8.5 greenhouse gas emissions"
+            }
+        ],
+        "Explore Filters": [
+            {
+                "title": "Time period",
+                "subtitle ": "Choose a time period",
+                "popUpText": "Choose a 30-year period average"
+            },
+            {
+                "title": "Anomaly period",
+                "subtitle ": "Choose a month or annual",
+                "popUpText": "Choose a monthly anomaly or an annual anomaly"
+            },
+            {
+                "title": "Scenario",
+                "subtitle ": "Choose a scenario",
+                "popUpText": "Choose a scenario with low (RCP2.6) or high (RCP8.5 greenhouse gas emissions"
+            },
+            {
+                "title": "NUTS level",
+                "subtitle ": "Choose a NUTS level",
+                "popUpText": "Select the size of the regions shown on the map, from largest (NUTS-0) to smallest (NUTS-3)"
             }
         ]
     },
     {
-        "Explore Filters": [
-            {
-                "popUpText": "Choose a 30-year period average",
-                "subtitle ": "Choose a time period",
-                "title": "Time period"
-            },
-            {
-                "popUpText": "Choose a monthly anomaly or an annual anomaly",
-                "subtitle ": "Choose a month or annual",
-                "title": "Anomaly period"
-            },
-            {
-                "popUpText": "Choose a scenario with low (RCP2.6) or high (RCP8.5 greenhouse gas emissions",
-                "subtitle ": "Choose a scenario",
-                "title": "Scenario"
-            },
-            {
-                "popUpText": "Select the size of the regions shown on the map, from largest (NUTS-0) to smallest (NUTS-3)",
-                "subtitle ": "Choose a NUTS level",
-                "title": "NUTS level"
-            }
-        ],
         "Indicator": "Climate Anomaly in the Number of Frost Days",
         "Main Filters": [
             {
-                "popUpText": "Choose a 30-year period average",
+                "title": "Time period",
                 "subtitle": "Choose a time period",
-                "title": "Time period"
+                "popUpText": "Choose a 30-year period average"
             },
             {
-                "popUpText": "Choose a monthly anomaly or an annual anomaly",
+                "title": "Anomaly period",
                 "subtitle": "Choose a month or annual",
-                "title": "Anomaly period"
+                "popUpText": "Choose a monthly anomaly or an annual anomaly"
             },
             {
-                "popUpText": "Choose a scenario with low (RCP2.6) or high (RCP8.5 greenhouse gas emissions",
+                "title": "Scenario",
                 "subtitle": "Choose a scenario",
-                "title": "Scenario"
+                "popUpText": "Choose a scenario with low (RCP2.6) or high (RCP8.5 greenhouse gas emissions"
+            }
+        ],
+        "Explore Filters": [
+            {
+                "title": "Time period",
+                "subtitle ": "Choose a time period",
+                "popUpText": "Choose a 30-year period average"
+            },
+            {
+                "title": "Anomaly period",
+                "subtitle ": "Choose a month or annual",
+                "popUpText": "Choose a monthly anomaly or an annual anomaly"
+            },
+            {
+                "title": "Scenario",
+                "subtitle ": "Choose a scenario",
+                "popUpText": "Choose a scenario with low (RCP2.6) or high (RCP8.5 greenhouse gas emissions"
+            },
+            {
+                "title": "NUTS level",
+                "subtitle ": "Choose a NUTS level",
+                "popUpText": "Select the size of the regions shown on the map, from largest (NUTS-0) to smallest (NUTS-3)"
             }
         ]
     },
     {
-        "Explore Filters": [
-            {
-                "popUpText": "Choose a 30-year period average",
-                "subtitle ": "Choose a time period",
-                "title": "Time period"
-            },
-            {
-                "popUpText": "Choose a monthly anomaly or an annual anomaly",
-                "subtitle ": "Choose a month or annual",
-                "title": "Anomaly period"
-            },
-            {
-                "popUpText": "Choose a scenario with low (RCP2.6) or high (RCP8.5 greenhouse gas emissions",
-                "subtitle ": "Choose a scenario",
-                "title": "Scenario"
-            },
-            {
-                "popUpText": "Select the size of the regions shown on the map, from largest (NUTS-0) to smallest (NUTS-3)",
-                "subtitle ": "Choose a NUTS level",
-                "title": "NUTS level"
-            }
-        ],
         "Indicator": "Climate Anomaly in the Number of Tropical Nights",
         "Main Filters": [
             {
-                "popUpText": "Choose a 30-year period average",
+                "title": "Time period",
                 "subtitle": "Choose a time period",
-                "title": "Time period"
+                "popUpText": "Choose a 30-year period average"
             },
             {
-                "popUpText": "Choose a monthly anomaly or an annual anomaly",
+                "title": "Anomaly period",
                 "subtitle": "Choose a month or annual",
-                "title": "Anomaly period"
+                "popUpText": "Choose a monthly anomaly or an annual anomaly"
             },
             {
-                "popUpText": "Choose a scenario with low (RCP2.6) or high (RCP8.5 greenhouse gas emissions",
+                "title": "Scenario",
                 "subtitle": "Choose a scenario",
-                "title": "Scenario"
+                "popUpText": "Choose a scenario with low (RCP2.6) or high (RCP8.5 greenhouse gas emissions"
+            }
+        ],
+        "Explore Filters": [
+            {
+                "title": "Time period",
+                "subtitle ": "Choose a time period",
+                "popUpText": "Choose a 30-year period average"
+            },
+            {
+                "title": "Anomaly period",
+                "subtitle ": "Choose a month or annual",
+                "popUpText": "Choose a monthly anomaly or an annual anomaly"
+            },
+            {
+                "title": "Scenario",
+                "subtitle ": "Choose a scenario",
+                "popUpText": "Choose a scenario with low (RCP2.6) or high (RCP8.5 greenhouse gas emissions"
+            },
+            {
+                "title": "NUTS level",
+                "subtitle ": "Choose a NUTS level",
+                "popUpText": "Select the size of the regions shown on the map, from largest (NUTS-0) to smallest (NUTS-3)"
             }
         ]
     },
     {
-        "Explore Filters": [
-            {
-                "popUpText": "Choose a 30-year period average",
-                "subtitle ": "Choose a time period",
-                "title": "Time period"
-            },
-            {
-                "popUpText": "Choose a monthly anomaly or an annual anomaly",
-                "subtitle ": "Choose a month or annual",
-                "title": "Anomaly period"
-            },
-            {
-                "popUpText": "Choose a scenario with low (RCP2.6) or high (RCP8.5 greenhouse gas emissions",
-                "subtitle ": "Choose a scenario",
-                "title": "Scenario"
-            },
-            {
-                "popUpText": "Select the size of the regions shown on the map, from largest (NUTS-0) to smallest (NUTS-3)",
-                "subtitle ": "Choose a NUTS level",
-                "title": "NUTS level"
-            }
-        ],
         "Indicator": "Climate Anomaly in Precipitation Sum",
         "Main Filters": [
             {
-                "popUpText": "Choose a 30-year period average",
+                "title": "Time period",
                 "subtitle": "Choose a time period",
-                "title": "Time period"
+                "popUpText": "Choose a 30-year period average"
             },
             {
-                "popUpText": "Choose a monthly anomaly or an annual anomaly",
+                "title": "Anomaly period",
                 "subtitle": "Choose a month or annual",
-                "title": "Anomaly period"
+                "popUpText": "Choose a monthly anomaly or an annual anomaly"
             },
             {
-                "popUpText": "Choose a scenario with low (RCP2.6) or high (RCP8.5 greenhouse gas emissions",
+                "title": "Scenario",
                 "subtitle": "Choose a scenario",
-                "title": "Scenario"
+                "popUpText": "Choose a scenario with low (RCP2.6) or high (RCP8.5 greenhouse gas emissions"
+            }
+        ],
+        "Explore Filters": [
+            {
+                "title": "Time period",
+                "subtitle ": "Choose a time period",
+                "popUpText": "Choose a 30-year period average"
+            },
+            {
+                "title": "Anomaly period",
+                "subtitle ": "Choose a month or annual",
+                "popUpText": "Choose a monthly anomaly or an annual anomaly"
+            },
+            {
+                "title": "Scenario",
+                "subtitle ": "Choose a scenario",
+                "popUpText": "Choose a scenario with low (RCP2.6) or high (RCP8.5 greenhouse gas emissions"
+            },
+            {
+                "title": "NUTS level",
+                "subtitle ": "Choose a NUTS level",
+                "popUpText": "Select the size of the regions shown on the map, from largest (NUTS-0) to smallest (NUTS-3)"
             }
         ]
     },
     {
-        "Explore Filters": [
-            {
-                "popUpText": "Choose a daily maximum temperature statistic (minimum, mean or maximum)",
-                "subtitle ": "Choose a temperature statistic",
-                "title": "Statistic"
-            },
-            {
-                "popUpText": "Choose a 30-year period average",
-                "subtitle ": "Choose a time period",
-                "title": "Time period"
-            },
-            {
-                "popUpText": "Choose a monthly anomaly",
-                "subtitle ": "Choose a month",
-                "title": "Anomaly period"
-            },
-            {
-                "popUpText": "Choose a scenario with low (RCP2.6) or high (RCP8.5 greenhouse gas emissions",
-                "subtitle ": "Choose a scenario",
-                "title": "Scenario"
-            }
-        ],
         "Indicator": "Climate Anomaly in Monthly Average of Daily Maximum Temperature",
         "Main Filters": [
             {
-                "popUpText": "Choose a 30-year period average",
+                "title": "Time period",
                 "subtitle": "Choose a time period",
-                "title": "Time period"
+                "popUpText": "Choose a 30-year period average"
             },
             {
-                "popUpText": "Choose a monthly anomaly",
+                "title": "Anomaly period",
                 "subtitle": "Choose a month",
-                "title": "Anomaly period"
+                "popUpText": "Choose a monthly anomaly"
             },
             {
-                "popUpText": "Choose a scenario with low (RCP2.6) or high (RCP8.5 greenhouse gas emissions",
+                "title": "Scenario",
                 "subtitle": "Choose a scenario",
-                "title": "Scenario"
+                "popUpText": "Choose a scenario with low (RCP2.6) or high (RCP8.5 greenhouse gas emissions"
+            }
+        ],
+        "Explore Filters": [
+            {
+                "title": "Statistic",
+                "subtitle ": "Choose a temperature statistic",
+                "popUpText": "Choose a daily maximum temperature statistic (minimum, mean or maximum)"
+            },
+            {
+                "title": "Time period",
+                "subtitle ": "Choose a time period",
+                "popUpText": "Choose a 30-year period average"
+            },
+            {
+                "title": "Anomaly period",
+                "subtitle ": "Choose a month",
+                "popUpText": "Choose a monthly anomaly"
+            },
+            {
+                "title": "Scenario",
+                "subtitle ": "Choose a scenario",
+                "popUpText": "Choose a scenario with low (RCP2.6) or high (RCP8.5 greenhouse gas emissions"
             }
         ]
     },
     {
-        "Explore Filters": [
-            {
-                "popUpText": "Choose a daily minimum temperature statistic (minimum, mean or maximum)",
-                "subtitle ": "Choose a temperature statistic",
-                "title": "Statistic"
-            },
-            {
-                "popUpText": "Choose a 30-year period average",
-                "subtitle ": "Choose a time period",
-                "title": "Time period"
-            },
-            {
-                "popUpText": "Choose a monthly anomaly",
-                "subtitle ": "Choose a month",
-                "title": "Anomaly period"
-            },
-            {
-                "popUpText": "Choose a scenario with low (RCP2.6) or high (RCP8.5 greenhouse gas emissions",
-                "subtitle ": "Choose a scenario",
-                "title": "Scenario"
-            }
-        ],
         "Indicator": "Climate Anomaly in Monthly Average of Daily Minimum Temperature",
         "Main Filters": [
             {
-                "popUpText": "Choose a 30-year period average",
+                "title": "Time period",
                 "subtitle": "Choose a time period",
-                "title": "Time period"
+                "popUpText": "Choose a 30-year period average"
             },
             {
-                "popUpText": "Choose a monthly anomaly",
+                "title": "Anomaly period",
                 "subtitle": "Choose a month",
-                "title": "Anomaly period"
+                "popUpText": "Choose a monthly anomaly"
             },
             {
-                "popUpText": "Choose a scenario with low (RCP2.6) or high (RCP8.5 greenhouse gas emissions",
+                "title": "Scenario",
                 "subtitle": "Choose a scenario",
-                "title": "Scenario"
+                "popUpText": "Choose a scenario with low (RCP2.6) or high (RCP8.5 greenhouse gas emissions"
+            }
+        ],
+        "Explore Filters": [
+            {
+                "title": "Statistic",
+                "subtitle ": "Choose a temperature statistic",
+                "popUpText": "Choose a daily minimum temperature statistic (minimum, mean or maximum)"
+            },
+            {
+                "title": "Time period",
+                "subtitle ": "Choose a time period",
+                "popUpText": "Choose a 30-year period average"
+            },
+            {
+                "title": "Anomaly period",
+                "subtitle ": "Choose a month",
+                "popUpText": "Choose a monthly anomaly"
+            },
+            {
+                "title": "Scenario",
+                "subtitle ": "Choose a scenario",
+                "popUpText": "Choose a scenario with low (RCP2.6) or high (RCP8.5 greenhouse gas emissions"
             }
         ]
     }
