@@ -1,0 +1,40 @@
+
+Heat waves in Europe
+====================
+
+# Number of Heat Wave Days
+
+## Main
+
+
+A heat wave is a prolonged period of extremely high temperature for a particular region.  Heat waves have consequences for health, agriculture, power, wildfire and infrastructure.  The annual number of heat wave days is based on two definitions, one used in the climate community and another used in the health community, both of which are presented here.
+
+A climate heat wave is considered to be a period of at least 3 consecutive days on which the daily maximal temperature exceeds the 99th percentile of the daily maximal temperatures of the May to September season for the control period of 1971 to 2000.
+
+Health heat waves are calculated for the summer period between June and August. Health heat waves are days in which the maximal apparent temperature (Tappmax) exceeds the 90th percentile of Tappmax for each month and the minimum temperature (Tmin) exceeds the 90th percentile of Tmin for each month for at least 2 days.  The apparent temperature is a measure of relative discomfort due to combined heat and high humidity.
+
+The data covers the period 1971 to 2099 and statistics are averaged for 30 years in overlapping time periods set 10 years apart.  Finally, the time series are averaged for the model ensemble.
+
+The heat wave statistics are calculated using bias-adjusted EURO-CORDEX data for 2 CMIP5 scenarios with different possible future greenhouse gas emissions; RCP4.5 (medium emissions) and RCP8.5 (high emissions). The horizontal resolution of the data is 0.1°x0.1°. 
+
+The number of heat wave days are presented for either the climatological or health definition of heat waves for 2 CMIP5 scenarios; RCP4.5 with medium greenhouse gas emissions or RCP8.5 with high greenhouse gas emissions.
+
+Statistics for the number of heat wave days are also available via the "Explore in Detail" button as national and sub-national area-means for which time series data can be plotted.
+
+The data was collated on behalf of the Copernicus Climate Change Service (C3S).  Further information about this indicator can be found in the C3S documentation resources in the [Climate Data Store](https://cds.climate.copernicus.eu/cdsapp#!/dataset/sis-heat-and-cold-spells?tab=overview).
+## Explore
+
+
+The annual number of heat wave days is based on two definitions, one used in the climate community and another used in the health community, both of which are presented here. The data covers the period 1971 to 2099 and statistics are averaged for 30 years in overlapping time periods set 10 years apart.  Finally, the time series are averaged for the model ensemble.
+
+The heat wave statistics are calculated using bias-adjusted EURO-CORDEX data for 2 CMIP5 scenarios with different possible future greenhouse gas emissions; RCP4.5 (medium emissions) and RCP8.5 (high emissions). 
+
+The map shows the 30-year average of the number of heat wave days for the chosen heat wave definition and scenario plotted as area means for each European NUTS region. The EUROSTAT NUTS classification ([Nomenclature of Territorial Units for Statistics](https://ec.europa.eu/eurostat/web/nuts/background)) is a hierarchical system for dividing up the economic territory of Europe. The size of the regions shown on the map can be adjusted by selecting the appropriate NUTS level; NUTS-0: Countries, NUTS-1: major socio-economic regions, NUTS-2: basic regions, and NUTS-3: small regions.
+
+The map of NUTS regions facilitates dynamic access to the underlying data. Hover the mouse pointer over a region to view the value of the area mean or click on a region to request a time series plot.
+
+The time series plot shows the ensemble mean and standard deviation (SD) of heat wave responses to the chosen scenario conditions across the EURO-CORDEX regional climate model ensemble. The values represent the centres of a 30-year running average from 1971 to 2100 which results in a time series covering the period from 1986 to 2085.
+
+Hover the mouse over the time series plot to view the data values.  Click on the plot to reveal the action buttons for features such as “zoom” and “download plot as a png”.
+
+The data was collated on behalf of the Copernicus Climate Change Service (C3S).  Further information about this indicator can be found in the C3S documentation resources in the [Climate Data Store](https://cds.climate.copernicus.eu/cdsapp#!/dataset/sis-heat-and-cold-spells?tab=overview).

@@ -1,6 +1,6 @@
 
-
-
+Climatic suitability for the tiger mosquito - suitability index
+===============================================================
 
 # Climatic suitability for the tiger mosquito - suitability index
 

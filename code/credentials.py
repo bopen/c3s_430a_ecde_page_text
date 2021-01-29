@@ -15,7 +15,7 @@ CLIENT_SECRET_FILE = 'client_secret.json'
 APPLICATION_NAME = 'Google Sheets API Python Quickstart'
 
 if not os.path.isfile(CLIENT_SECRET_FILE):
-    raise Exception(f'You must create file {CLIENT_SECRET_FILE} for this to work. '
+    raise Exception(f'You must create file {CLIENT_SECRET_FILE} for this to work. ' \
                     f'See instructions at: https://developers.google.com/sheets/api/quickstart/python')
 
 

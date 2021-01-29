@@ -6,9 +6,21 @@
         "FilterTitle": "Time period"
     },
     {
+        "FilterName": "Time_30yr_2011_2099",
+        "FilterPopUpText": "Choose a 30-year period average",
+        "FilterSubTitle": "Choose a time period",
+        "FilterTitle": "Time period"
+    },
+    {
         "FilterName": "Anomaly_MonAnn",
         "FilterPopUpText": "Choose a monthly anomaly or an annual anomaly",
         "FilterSubTitle": "Choose a month or annual",
+        "FilterTitle": "Anomaly period"
+    },
+    {
+        "FilterName": "Anomaly_Mon",
+        "FilterPopUpText": "Choose a monthly anomaly",
+        "FilterSubTitle": "Choose a month",
         "FilterTitle": "Anomaly period"
     },
     {
@@ -20,7 +32,7 @@
     {
         "FilterName": "Scenario_45_85",
         "FilterPopUpText": "Choose a scenario with medium (RCP4.5) or high (RCP8.5) greenhouse gas emissions",
-        "FilterSubTitle": "Choose a Scenario",
+        "FilterSubTitle": "Choose a scenario",
         "FilterTitle": "Scenario"
     },
     {
@@ -46,5 +58,23 @@
         "FilterPopUpText": "Choose a year",
         "FilterSubTitle": "Choose a year",
         "FilterTitle": "Year"
+    },
+    {
+        "FilterName": "HeatWave",
+        "FilterPopUpText": "Choose either the health definition or climate definition for heat waves",
+        "FilterSubTitle": "Choose a heat wave definition",
+        "FilterTitle": "Definition"
+    },
+    {
+        "FilterName": "MaxTemp",
+        "FilterPopUpText": "Choose a daily maximum temperature statistic (minimum, mean or maximum)",
+        "FilterSubTitle": "Choose a temperature statistic",
+        "FilterTitle": "Statistic"
+    },
+    {
+        "FilterName": "MinTemp",
+        "FilterPopUpText": "Choose a daily minimum temperature statistic (minimum, mean or maximum)",
+        "FilterSubTitle": "Choose a temperature statistic",
+        "FilterTitle": "Statistic"
     }
 ]

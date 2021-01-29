@@ -8,15 +8,16 @@ def write_md_files():
         texts = simplejson.load(reader)
 
         for text in texts:
-            title = text['Indicator']
+            title = text['PageTitle']
             file_name = title.replace(' ', '_')
             base_path = f'content/markdown/consolidated'
 
             if not os.path.exists(base_path):
                 os.makedirs(base_path)
 
-            mdFile = MdUtils(file_name=os.path.join(base_path, file_name))
-            mdFile.new_header(level=1, title=title)
+            mdFile = MdUtils(file_name=os.path.join(base_path, file_name), title=title)
+            mdFile.new_header(level=1, title=text['Indicator'])
+            #both page title and indicator name
             
             mdFile.new_header(level=2, title='Main')
             mdFile.new_paragraph(text['ConsolidatedText_Main'])
