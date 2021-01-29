@@ -70,6 +70,44 @@ def filters_consol_dicts_from_values(rows):
     return records[1:]
 
 
+def pop_up_plots_consol_dicts_from_values(rows):
+    records = []
+    indicator = rows[0][0]
+    element_num = 5
+
+    for i in range(1, len(rows[:]), element_num):
+        record = {}
+        record[indicator] = rows[i][0]
+
+        pop_up_dict = {}
+        climatology_dict = {}
+        for j in range(0, element_num):
+            element_name = rows[i+j][1]
+            try:
+                pop_up_element_value = rows[i+j][2]
+            except IndexError:
+                pop_up_element_value = ""
+            
+            pop_up_dict[element_name] = pop_up_element_value
+
+            try:
+                climatology_value = rows[i+j][3]
+            except IndexError:
+                climatology_value = ""
+
+            climatology_dict[element_name] = climatology_value
+
+        if not empty_dict_check(pop_up_dict):
+            record["PopUpElements"] = pop_up_dict
+        
+        if not empty_dict_check(climatology_dict):
+            record["ClimatologyElements"] = climatology_dict
+        
+        records.append(record)
+
+    return records
+
+
 def parse_google_spreadsheet():
     credentials = get_credentials()
     http = credentials.authorize(httplib2.Http())
@@ -89,7 +127,7 @@ def parse_google_spreadsheet():
         if work_sheet == 'FiltersConsol':
             records = filters_consol_dicts_from_values(values)
         elif work_sheet == 'PUPlotsConsol':
-            continue
+            records = pop_up_plots_consol_dicts_from_values(values)
         else:
             records = dicts_from_sheet_values(values)
 
