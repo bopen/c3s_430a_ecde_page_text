@@ -51,4 +51,4 @@ The data was collated on behalf of the Copernicus Climate Change Service (C3S). 
 
 |Title|SubTitle|HorizontalAxis|VerticalAxis|Labels|
 | :--- | :--- | :--- | :--- | :--- |
-|Time series of the Universal Thermal Climate Index (UTCI) in <NUTS>| Hover over the time series to display the values and the action buttons.|Year|°C||
+|Time series of the Universal Thermal Climate Index (UTCI) in `<NUTS>`| Hover over the time series to display the values and the action buttons.|Year|°C||

@@ -11,11 +11,11 @@ def find_table_contents(dicts, indicator, table_name):
             if isinstance(rows, list):
                 table = [list(rows[0].keys())]
                 for row in rows:
-                    values = [value.replace('\n', ' ') for value in list(row.values())]
+                    values = [value.replace('\n', ' ').replace('<', '`<').replace('>', '>`') for value in list(row.values())]
                     table.append(values)
             else:
                 table = [list(rows.keys())]
-                values = [value.replace('\n', ' ') for value in list(rows.values())]
+                values = [value.replace('\n', ' ').replace('<', '`<').replace('>', '>`') for value in list(rows.values())]
                 table.append(values)
 
             return table

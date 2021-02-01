@@ -51,4 +51,4 @@ The data was collated on behalf of the Copernicus Climate Change Service (C3S). 
 
 |Title|SubTitle|HorizontalAxis|VerticalAxis|Labels|
 | :--- | :--- | :--- | :--- | :--- |
-|The season length of the climatic suitability for the tiger mosquito in <NUTS> under <Scenario>.|Values represent a 30-year running average of the EURO-CORDEX ensemble mean and ensemble standard deviation (SD). Hover over the time series to display the values and the action buttons.|Year|Days|"+SD", "mean", "-SD"|
+|The season length of the climatic suitability for the tiger mosquito in `<NUTS>` under `<Scenario>`.|Values represent a 30-year running average of the EURO-CORDEX ensemble mean and ensemble standard deviation (SD). Hover over the time series to display the values and the action buttons.|Year|Days|"+SD", "mean", "-SD"|

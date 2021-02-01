@@ -54,7 +54,7 @@ The data was collated on behalf of the Copernicus Climate Change Service (C3S). 
 
 |Title|SubTitle|HorizontalAxis|VerticalAxis|Labels|
 | :--- | :--- | :--- | :--- | :--- |
-|The climate anomaly in the <anomaly period> number of tropical nights in <NUTS> under <scenario> for <time period>.|Showing the ensemble mean, ensemble maximum and ensemble minimum across 5 CMIP5 climate models. Hover over the time series to display the values and the action buttons.|Year|Days|"max", "mean", "min"|
+|The climate anomaly in the `<anomaly period>` number of tropical nights in `<NUTS>` under `<scenario>` for `<time period>`.|Showing the ensemble mean, ensemble maximum and ensemble minimum across 5 CMIP5 climate models. Hover over the time series to display the values and the action buttons.|Year|Days|"max", "mean", "min"|
   
 
 |Title|SubTitle|HorizontalAxis|VerticalAxis|Labels|
