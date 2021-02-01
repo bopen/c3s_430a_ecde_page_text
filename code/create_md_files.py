@@ -50,7 +50,9 @@ def write_md_files():
                 mdFile.new_line()
                 mdFile.new_table(columns=len(main_filter_table[0][:]), rows=len(main_filter_table[:]), 
                                  text=list(chain.from_iterable(main_filter_table)), text_align='left')
-
+            
+            mdFile.new_paragraph('<br />')
+            mdFile.new_line()
             mdFile.new_header(level=2, title='Explore')
             mdFile.new_paragraph(text['ConsolidatedText_Explore'])
 
@@ -62,13 +64,17 @@ def write_md_files():
 
             pop_up_plots_table = find_table_contents(pop_ups, indicator, 'PopUpElements')
             if pop_up_plots_table:
+                mdFile.new_paragraph('<br />')
                 mdFile.new_line()
+                mdFile.new_header(level=3, title='NUTS Pop Up Plot')
                 mdFile.new_table(columns=len(pop_up_plots_table[0][:]), rows=len(pop_up_plots_table[:]), 
                                  text=list(chain.from_iterable(pop_up_plots_table)), text_align='left')
 
             climatology_plots_table = find_table_contents(pop_ups, indicator, 'ClimatologyElements')
             if climatology_plots_table:
+                mdFile.new_paragraph('<br />')
                 mdFile.new_line()
+                mdFile.new_header(level=3, title='NUTS Climatology Plot')
                 mdFile.new_table(columns=len(climatology_plots_table[0][:]), rows=len(climatology_plots_table[:]), 
                                  text=list(chain.from_iterable(climatology_plots_table)), text_align='left')
             

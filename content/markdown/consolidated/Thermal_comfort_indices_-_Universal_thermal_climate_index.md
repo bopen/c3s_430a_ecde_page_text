@@ -26,6 +26,9 @@ The data was collated on behalf of the Copernicus Climate Change Service (C3S). 
 | :--- | :--- | :--- |
 |Month|Choose a month|Display data for the chosen month for each year of the dataset|
 
+
+<br />  
+
 ## Explore
 
 
@@ -47,7 +50,11 @@ The data was collated on behalf of the Copernicus Climate Change Service (C3S). 
 |Month|Choose a month|Display data for the chosen month for each year of the dataset|
 |Year|Choose a year|Choose a year|
 |NUTS level|Choose a NUTS level|Select the size of the regions shown on the map, from largest (NUTS-0) to smallest (NUTS-2)|
-  
+
+
+<br />  
+
+### NUTS Pop Up Plot
 
 |Title|SubTitle|HorizontalAxis|VerticalAxis|Labels|
 | :--- | :--- | :--- | :--- | :--- |

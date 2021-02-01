@@ -28,6 +28,9 @@ The data was collated on behalf of the Copernicus Climate Change Service (C3S). 
 |Definition|Choose a heat wave definition|Choose either the health definition or climate definition for heat waves|
 |Scenario|Choose a scenario|Choose a scenario with medium (RCP4.5) or high (RCP8.5) greenhouse gas emissions|
 
+
+<br />  
+
 ## Explore
 
 
@@ -51,7 +54,11 @@ The data was collated on behalf of the Copernicus Climate Change Service (C3S). 
 |Time period|Choose a time period|Choose a 30-year period average|
 |Scenario|Choose a scenario|Choose a scenario with medium (RCP4.5) or high (RCP8.5) greenhouse gas emissions|
 |NUTS level|Choose a NUTS level|Select the size of the regions shown on the map, from largest (NUTS-0) to smallest (NUTS-3)|
-  
+
+
+<br />  
+
+### NUTS Pop Up Plot
 
 |Title|SubTitle|HorizontalAxis|VerticalAxis|Labels|
 | :--- | :--- | :--- | :--- | :--- |

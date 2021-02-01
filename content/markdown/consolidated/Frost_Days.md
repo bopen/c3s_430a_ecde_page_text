@@ -25,6 +25,9 @@ The data was collated on behalf of the Copernicus Climate Change Service (C3S). 
 |Anomaly period|Choose a month or annual|Choose a monthly anomaly or an annual anomaly|
 |Scenario|Choose a scenario|Choose a scenario with low (RCP2.6) or high (RCP8.5 greenhouse gas emissions|
 
+
+<br />  
+
 ## Explore
 
 
@@ -50,12 +53,20 @@ The data was collated on behalf of the Copernicus Climate Change Service (C3S). 
 |Anomaly period|Choose a month or annual|Choose a monthly anomaly or an annual anomaly|
 |Scenario|Choose a scenario|Choose a scenario with low (RCP2.6) or high (RCP8.5 greenhouse gas emissions|
 |NUTS level|Choose a NUTS level|Select the size of the regions shown on the map, from largest (NUTS-0) to smallest (NUTS-3)|
-  
+
+
+<br />  
+
+### NUTS Pop Up Plot
 
 |Title|SubTitle|HorizontalAxis|VerticalAxis|Labels|
 | :--- | :--- | :--- | :--- | :--- |
 |The climate anomaly in the `<anomaly period>` number of frost days in `<NUTS>` under `<scenario>` for `<time period>`.|Showing the ensemble mean, ensemble maximum and ensemble minimum across 5 CMIP5 climate models. Hover over the time series to display the values and the action buttons.|Year|Days|"max", "mean", "min"|
-  
+
+
+<br />  
+
+### NUTS Climatology Plot
 
 |Title|SubTitle|HorizontalAxis|VerticalAxis|Labels|
 | :--- | :--- | :--- | :--- | :--- |

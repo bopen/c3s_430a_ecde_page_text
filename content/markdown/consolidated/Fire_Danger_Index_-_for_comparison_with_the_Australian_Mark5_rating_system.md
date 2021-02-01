@@ -29,6 +29,9 @@ The data was collated on behalf of the Copernicus Climate Change Service (C3S). 
 | :--- | :--- | :--- |
 |Month|Choose a month|Display data for the chosen month for each year of the dataset|
 
+
+<br />  
+
 ## Explore
 
 
