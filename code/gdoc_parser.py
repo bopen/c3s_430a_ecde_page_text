@@ -4,7 +4,7 @@ import httplib2
 import simplejson
 
 SPREAD_SHEET = '1BHVHR1-3DC-AJ1ZQUtGUOs25fiGrt0adwmZcSNDFMk0'
-WORK_SHEETS = ['MainElements', 'ExploreElements', 'FilterElements', 'Consolidated', 'FiltersConsol', 'PUPlotsConsol']
+WORK_SHEETS = ['MainElements', 'ExploreElements', 'FilterElements', 'Consolidated', 'FiltersConsol', 'PUPlotsConsol', 'Glossary']
 
 
 def empty_dict_check(dictionary):
