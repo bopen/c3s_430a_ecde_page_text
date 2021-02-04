@@ -22,11 +22,14 @@ To download the google sheets data and parse it to JSON, run this command;
 python code/gdoc_parser.py
 ```
 
-The first time you run this you will be prompted with a link in the terminal. Open the link in a web browser and login with google. You might be met with a warning afterwards, if so click 'Advanced' and continue through to the site. From here you can download the necessary secrets file. You will need to rename and move this file to this location;
+The first time you run this, an exception will be raised and you will be prompted with a [link](https://developers.google.com/sheets/api/quickstart/python) in the terminal. Open the link in a web browser and go to step one where there is a button called `Enable the Google Sheets API`. Click this and follow the steps, call your project what you like (or just leave it as 'Quickstart') and choose `Desktop app`. You can then click `Download Client Configuration`. You will need to rename and move this file to this location;
 
 ```
 {TOP_LEVEL_GIT_DIR}/client_secret.json
 ```
+
+The next time you run `gdoc_parser.py` you'll be prompted with another link. Follow this and sign in with google, you'll be met with a page saying the `Google hasn't verified this app`, click `Advanced`, then `Go to Quickstart (unsafe)`. Then grant permission to view google spread sheets.
+
 
 After that, `gdoc_parser.py` will have the information it needs to download the google sheets content.
 
