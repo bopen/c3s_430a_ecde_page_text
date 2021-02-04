@@ -16,6 +16,12 @@ Draft Google Sheet for ECDE indicators: https://docs.google.com/spreadsheets/d/1
 
 ## Usage ##
 
+First install the requirements;
+
+```bash
+pip install -r requirements.txt
+```
+
 To download the google sheets data and parse it to JSON, run this command;
 
 ```bash
@@ -28,7 +34,7 @@ The first time you run this, an exception will be raised and you will be prompte
 {TOP_LEVEL_GIT_DIR}/client_secret.json
 ```
 
-The next time you run `gdoc_parser.py` you'll be prompted with another link. Follow this and sign in with google, you'll be met with a page saying the `Google hasn't verified this app`, click `Advanced`, then `Go to Quickstart (unsafe)`. Then grant permission to view google spread sheets.
+The next time you run `gdoc_parser.py` (**If you are on a machine that can't open a browser, run with the argument `--noauth_local_webserver`**) you'll be prompted with another link. Follow this and sign in with google, you'll be met with a page saying the `Google hasn't verified this app`, click `Advanced`, then `Go to Quickstart (unsafe)`. Then grant permission to view google spread sheets (if you ran with `--noauth_local_webserver` you'll need to copy a code and paste it into the terminal prompt).
 
 
 After that, `gdoc_parser.py` will have the information it needs to download the google sheets content.
