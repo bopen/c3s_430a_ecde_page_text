@@ -1,6 +1,6 @@
 
-Biologially effective degree days
-=================================
+Biologically effective degree days
+==================================
 
 # Climate Anomaly in Biologically Effetive Degree Days
 

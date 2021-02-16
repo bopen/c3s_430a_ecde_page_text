@@ -7,7 +7,7 @@ Tropical Nights
 ## Main
 
 
-The number of tropical nights provides an indication of the occurrence of various pests.
+The number of tropical nights provides an indication of the likely occurrence of various pests.
 
 On a tropical night the minimum temperature remains above 20°C. The climate anomaly in the number of tropical nights is calculated relative to the 1981–2010 reference period from an ensemble average of 5 global climate model (GCM) simulations for 2 CMIP5 scenarios with different possible future greenhouse gas emissions; RCP2.6 (low emissions) and RCP8.5 (high emissions). The horizontal resolution of the data is 0.5°x0.5°.
 
