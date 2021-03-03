@@ -1,177 +1,205 @@
 [
     {
-        "Indicator": "Climatic suitability for the tiger mosquito - season length",
-        "PopUpElements": {
-            "Title": "The season length of the climatic suitability for the tiger mosquito in <NUTS> under <Scenario>.",
-            "SubTitle": "Values represent a 30-year running average of the EURO-CORDEX ensemble mean and ensemble standard deviation (SD).\nHover over the time series to display the values and the action buttons.",
-            "HorizontalAxis": "Year",
-            "VerticalAxis": "Days",
-            "Labels": "\"+SD\", \"mean\", \"-SD\""
+        "C3S_434_002": {
+            "Indicator": "Climatic suitability for the tiger mosquito - season length",
+            "PopUpElements": {
+                "Title": "The season length of the climatic suitability for the tiger mosquito in <NUTS> under <Scenario>.",
+                "SubTitle": "Values represent a 30-year running average of the EURO-CORDEX ensemble mean and ensemble standard deviation (SD).\nHover over the time series to display the values and the action buttons.",
+                "HorizontalAxis": "Year",
+                "VerticalAxis": "Days",
+                "Labels": "\"+SD\", \"mean\", \"-SD\""
+            }
         }
     },
     {
-        "Indicator": "Climatic suitability for the tiger mosquito - suitability index",
-        "PopUpElements": {
-            "Title": "The climatic suitability index for the tiger mosquito in <NUTS> under <scenario>.",
-            "SubTitle": "Values represent a 30-year running average of the EURO-CORDEX ensemble mean and ensemble standard deviation (SD).\nHover over the time series to display the values and the action buttons.",
-            "HorizontalAxis": "Year",
-            "VerticalAxis": "Suitability Index",
-            "Labels": "\"+SD\", \"mean\", \"-SD\""
+        "C3S_434_003": {
+            "Indicator": "Climatic suitability for the tiger mosquito - suitability index",
+            "PopUpElements": {
+                "Title": "The climatic suitability index for the tiger mosquito in <NUTS> under <scenario>.",
+                "SubTitle": "Values represent a 30-year running average of the EURO-CORDEX ensemble mean and ensemble standard deviation (SD).\nHover over the time series to display the values and the action buttons.",
+                "HorizontalAxis": "Year",
+                "VerticalAxis": "Suitability Index",
+                "Labels": "\"+SD\", \"mean\", \"-SD\""
+            }
         }
     },
     {
-        "Indicator": "Fire Weather Index"
-    },
-    {
-        "Indicator": "Fire Danger Index"
-    },
-    {
-        "Indicator": "Number of Heat Wave Days",
-        "PopUpElements": {
-            "Title": "The number of <definition> heat wave days in <NUTS> under <scenario>.",
-            "SubTitle": "Values represent a 30-year running average of the EURO-CORDEX ensemble mean and ensemble standard deviation (SD).\nHover over the time series to display the values and the action buttons.",
-            "HorizontalAxis": "Year",
-            "VerticalAxis": "Days",
-            "Labels": "\"+SD\", \"mean\", \"-SD\""
+        "C3S_434_004": {
+            "Indicator": "Fire Weather Index"
         }
     },
     {
-        "Indicator": "Mean Radiant Temperature",
-        "PopUpElements": {
-            "Title": "Time series of the Mean Radiant Temperature (MRT) in <NUTS>",
-            "SubTitle": "\nHover over the time series to display the values and the action buttons.",
-            "HorizontalAxis": "Year",
-            "VerticalAxis": "\u00b0C",
-            "Labels": ""
+        "C3S_434_005": {
+            "Indicator": "Fire Danger Index"
         }
     },
     {
-        "Indicator": "Universal Thermal Climate Index",
-        "PopUpElements": {
-            "Title": "Time series of the Universal Thermal Climate Index (UTCI) in <NUTS>",
-            "SubTitle": "\nHover over the time series to display the values and the action buttons.",
-            "HorizontalAxis": "Year",
-            "VerticalAxis": "\u00b0C",
-            "Labels": ""
+        "C3S_434_006": {
+            "Indicator": "Number of Heat Wave Days",
+            "PopUpElements": {
+                "Title": "The number of <definition> heat wave days in <NUTS> under <scenario>.",
+                "SubTitle": "Values represent a 30-year running average of the EURO-CORDEX ensemble mean and ensemble standard deviation (SD).\nHover over the time series to display the values and the action buttons.",
+                "HorizontalAxis": "Year",
+                "VerticalAxis": "Days",
+                "Labels": "\"+SD\", \"mean\", \"-SD\""
+            }
         }
     },
     {
-        "Indicator": "Climate Anomaly in Biologically Effetive Degree Days",
-        "PopUpElements": {
-            "Title": "The climate anomaly in the <anomaly period> biologically effective degree days in <NUTS> under <scenario> for <time period>.",
-            "SubTitle": "Showing the ensemble mean, ensemble maximum and ensemble minimum across 5 CMIP5 climate models.\nHover over the time series to display the values and the action buttons.",
-            "HorizontalAxis": "Year",
-            "VerticalAxis": "\u00b0C",
-            "Labels": "\"max\", \"mean\", \"min\""
-        },
-        "ClimatologyElements": {
-            "Title": "Climatology statistics for the monthly mean biologically effective degree days for the period 1981-2010.",
-            "SubTitle": "Based on ERA5 reanalysis data and showing the mean, standard deviation, and 5th and 95th percentiles of the climatology.",
-            "HorizontalAxis": "Month",
-            "VerticalAxis": "\u00b0C",
-            "Labels": "mean and standard deviation, 5th percentile, 95th percentile"
+        "C3S_434_007": {
+            "Indicator": "Mean Radiant Temperature",
+            "PopUpElements": {
+                "Title": "Time series of the Mean Radiant Temperature (MRT) in <NUTS>",
+                "SubTitle": "\nHover over the time series to display the values and the action buttons.",
+                "HorizontalAxis": "Year",
+                "VerticalAxis": "\u00b0C",
+                "Labels": ""
+            }
         }
     },
     {
-        "Indicator": "Climate Anomaly in the Number of Frost Days",
-        "PopUpElements": {
-            "Title": "The climate anomaly in the <anomaly period> number of frost days in <NUTS> under <scenario> for <time period>.",
-            "SubTitle": "Showing the ensemble mean, ensemble maximum and ensemble minimum across 5 CMIP5 climate models.\nHover over the time series to display the values and the action buttons.",
-            "HorizontalAxis": "Year",
-            "VerticalAxis": "Days",
-            "Labels": "\"max\", \"mean\", \"min\""
-        },
-        "ClimatologyElements": {
-            "Title": "Climatology statistics for the monthly mean number of frost days for the period 1981-2010.",
-            "SubTitle": "Based on ERA5 reanalysis data and showing the mean, standard deviation, and 5th and 95th percentiles of the climatology.",
-            "HorizontalAxis": "Month",
-            "VerticalAxis": "Days",
-            "Labels": "mean and standard deviation, 5th percentile, 95th percentile"
+        "C3S_434_008": {
+            "Indicator": "Universal Thermal Climate Index",
+            "PopUpElements": {
+                "Title": "Time series of the Universal Thermal Climate Index (UTCI) in <NUTS>",
+                "SubTitle": "\nHover over the time series to display the values and the action buttons.",
+                "HorizontalAxis": "Year",
+                "VerticalAxis": "\u00b0C",
+                "Labels": ""
+            }
         }
     },
     {
-        "Indicator": "Climate Anomaly in the Number of Tropical Nights",
-        "PopUpElements": {
-            "Title": "The climate anomaly in the <anomaly period> number of tropical nights in <NUTS> under <scenario> for <time period>.",
-            "SubTitle": "Showing the ensemble mean, ensemble maximum and ensemble minimum across 5 CMIP5 climate models.\nHover over the time series to display the values and the action buttons.",
-            "HorizontalAxis": "Year",
-            "VerticalAxis": "Days",
-            "Labels": "\"max\", \"mean\", \"min\""
-        },
-        "ClimatologyElements": {
-            "Title": "Climatology statistics for the monthly mean number of tropical nights for the period 1981-2010.",
-            "SubTitle": "Based on ERA5 reanalysis data and showing the mean, standard deviation, and 5th and 95th percentiles of the climatology.",
-            "HorizontalAxis": "Month",
-            "VerticalAxis": "Days",
-            "Labels": "mean and standard deviation, 5th percentile, 95th percentile"
+        "C3S_434_009": {
+            "Indicator": "Climate Anomaly in Biologically Effective Degree Days",
+            "PopUpElements": {
+                "Title": "The climate anomaly in the <anomaly period> biologically effective degree days in <NUTS> under <scenario> for <time period>.",
+                "SubTitle": "Showing the ensemble mean, ensemble maximum and ensemble minimum across 5 CMIP5 climate models.\nHover over the time series to display the values and the action buttons.",
+                "HorizontalAxis": "Year",
+                "VerticalAxis": "\u00b0C",
+                "Labels": "\"max\", \"mean\", \"min\""
+            },
+            "ClimatologyElements": {
+                "Title": "Climatology statistics for the monthly mean biologically effective degree days for the period 1981-2010.",
+                "SubTitle": "Based on ERA5 reanalysis data and showing the mean, standard deviation, and 5th and 95th percentiles of the climatology.",
+                "HorizontalAxis": "Month",
+                "VerticalAxis": "\u00b0C",
+                "Labels": "mean and standard deviation, 5th percentile, 95th percentile"
+            }
         }
     },
     {
-        "Indicator": "Climate Anomaly in Precipitation Sum",
-        "PopUpElements": {
-            "Title": "The <anomaly period> precipitation sum anomaly in <NUTS> under <scenario> for <time period>.",
-            "SubTitle": "Showing the ensemble mean, ensemble maximum and ensemble minimum across 5 CMIP5 climate models.\nHover over the time series to display the values and the action buttons.",
-            "HorizontalAxis": "Year",
-            "VerticalAxis": "% Change",
-            "Labels": "\"max\", \"mean\", \"min\""
-        },
-        "ClimatologyElements": {
-            "Title": "Climatology statistics for the monthly mean precipitation sum for the period 1981-2010",
-            "SubTitle": "Based on ERA5 reanalysis data and showing the mean, standard deviation, and 5th and 95th percentiles of the climatology.",
-            "HorizontalAxis": "Month",
-            "VerticalAxis": "mm",
-            "Labels": "mean and standard deviation, 5th percentile, 95th percentile"
+        "C3S_434_010": {
+            "Indicator": "Climate Anomaly in the Number of Frost Days",
+            "PopUpElements": {
+                "Title": "The climate anomaly in the <anomaly period> number of frost days in <NUTS> under <scenario> for <time period>.",
+                "SubTitle": "Showing the ensemble mean, ensemble maximum and ensemble minimum across 5 CMIP5 climate models.\nHover over the time series to display the values and the action buttons.",
+                "HorizontalAxis": "Year",
+                "VerticalAxis": "Days",
+                "Labels": "\"max\", \"mean\", \"min\""
+            },
+            "ClimatologyElements": {
+                "Title": "Climatology statistics for the monthly mean number of frost days for the period 1981-2010.",
+                "SubTitle": "Based on ERA5 reanalysis data and showing the mean, standard deviation, and 5th and 95th percentiles of the climatology.",
+                "HorizontalAxis": "Month",
+                "VerticalAxis": "Days",
+                "Labels": "mean and standard deviation, 5th percentile, 95th percentile"
+            }
         }
     },
     {
-        "Indicator": "Climate Anomaly in Monthly Average of Daily Maximum Temperature",
-        "PopUpElements": {
-            "Title": "The climate anomaly in <anomaly period> average daily maximum temperature in <NUTS> under <scenario> for <time period>.",
-            "SubTitle": "Showing the ensemble mean, ensemble maximum and ensemble minimum across 5 CMIP5 climate models.\nHover over the time series to display the values and the action buttons.",
-            "HorizontalAxis": "Year",
-            "VerticalAxis": "\u00b0C",
-            "Labels": "\"max\", \"mean\", \"min\""
-        },
-        "ClimatologyElements": {
-            "Title": "Climatology statistics for the monthly mean of daily maximum temperature for the period 1981-2010.",
-            "SubTitle": "Based on ERA5 reanalysis data and showing the mean, standard deviation, and 5th and 95th percentiles of the climatology.",
-            "HorizontalAxis": "Month",
-            "VerticalAxis": "\u00b0C",
-            "Labels": "mean and standard deviation, 5th percentile, 95th percentile"
+        "C3S_434_011": {
+            "Indicator": "Climate Anomaly in the Number of Tropical Nights",
+            "PopUpElements": {
+                "Title": "The climate anomaly in the <anomaly period> number of tropical nights in <NUTS> under <scenario> for <time period>.",
+                "SubTitle": "Showing the ensemble mean, ensemble maximum and ensemble minimum across 5 CMIP5 climate models.\nHover over the time series to display the values and the action buttons.",
+                "HorizontalAxis": "Year",
+                "VerticalAxis": "Days",
+                "Labels": "\"max\", \"mean\", \"min\""
+            },
+            "ClimatologyElements": {
+                "Title": "Climatology statistics for the monthly mean number of tropical nights for the period 1981-2010.",
+                "SubTitle": "Based on ERA5 reanalysis data and showing the mean, standard deviation, and 5th and 95th percentiles of the climatology.",
+                "HorizontalAxis": "Month",
+                "VerticalAxis": "Days",
+                "Labels": "mean and standard deviation, 5th percentile, 95th percentile"
+            }
         }
     },
     {
-        "Indicator": "Climate Anomaly in Monthly Average of Daily Minimum Temperature",
-        "PopUpElements": {
-            "Title": "The climate anomaly in <anomaly period> average daily minimum temperature in <NUTS> under <scenario> for <time period>.",
-            "SubTitle": "Showing the ensemble mean, ensemble maximum and ensemble minimum across 5 CMIP5 climate models.\nHover over the time series to display the values and the action buttons.",
-            "HorizontalAxis": "Year",
-            "VerticalAxis": "\u00b0C",
-            "Labels": "\"max\", \"mean\", \"min\""
-        },
-        "ClimatologyElements": {
-            "Title": "Climatology statistics for the monthly mean of daily minimum temperature for the period 1981-2010.",
-            "SubTitle": "Based on ERA5 reanalysis data and showing the mean, standard deviation, and 5th and 95th percentiles of the climatology.",
-            "HorizontalAxis": "Month",
-            "VerticalAxis": "\u00b0C",
-            "Labels": "mean and standard deviation, 5th percentile, 95th percentile"
+        "C3S_434_012": {
+            "Indicator": "Climate Anomaly in Precipitation Sum",
+            "PopUpElements": {
+                "Title": "The <anomaly period> precipitation sum anomaly in <NUTS> under <scenario> for <time period>.",
+                "SubTitle": "Showing the ensemble mean, ensemble maximum and ensemble minimum across 5 CMIP5 climate models.\nHover over the time series to display the values and the action buttons.",
+                "HorizontalAxis": "Year",
+                "VerticalAxis": "% Change",
+                "Labels": "\"max\", \"mean\", \"min\""
+            },
+            "ClimatologyElements": {
+                "Title": "Climatology statistics for the monthly mean precipitation sum for the period 1981-2010",
+                "SubTitle": "Based on ERA5 reanalysis data and showing the mean, standard deviation, and 5th and 95th percentiles of the climatology.",
+                "HorizontalAxis": "Month",
+                "VerticalAxis": "mm",
+                "Labels": "mean and standard deviation, 5th percentile, 95th percentile"
+            }
         }
     },
     {
-        "Indicator": "Climate Anomaly in Monthly Average of Daily Mean Temperature",
-        "PopUpElements": {
-            "Title": "The climate anomaly in <anomaly period> average daily mean temperature in <NUTS> under <scenario> for <time period>.",
-            "SubTitle": "Showing the ensemble mean, ensemble maximum and ensemble minimum across 5 CMIP5 climate models.\nHover over the time series to display the values and the action buttons.",
-            "HorizontalAxis": "Year",
-            "VerticalAxis": "\u00b0C",
-            "Labels": "\"max\", \"mean\", \"min\""
-        },
-        "ClimatologyElements": {
-            "Title": "Climatology statistics for the monthly mean of daily mean temperature for the period 1981-2010.",
-            "SubTitle": "Based on ERA5 reanalysis data and showing the mean, standard deviation, and 5th and 95th percentiles of the climatology.",
-            "HorizontalAxis": "Month",
-            "VerticalAxis": "\u00b0C",
-            "Labels": "mean and standard deviation, 5th percentile, 95th percentile"
+        "C3S_434_013": {
+            "Indicator": "Climate Anomaly in Monthly Average of Daily Maximum Temperature",
+            "PopUpElements": {
+                "Title": "The climate anomaly in <anomaly period> average daily maximum temperature in <NUTS> under <scenario> for <time period>.",
+                "SubTitle": "Showing the ensemble mean, ensemble maximum and ensemble minimum across 5 CMIP5 climate models.\nHover over the time series to display the values and the action buttons.",
+                "HorizontalAxis": "Year",
+                "VerticalAxis": "\u00b0C",
+                "Labels": "\"max\", \"mean\", \"min\""
+            },
+            "ClimatologyElements": {
+                "Title": "Climatology statistics for the monthly mean of daily maximum temperature for the period 1981-2010.",
+                "SubTitle": "Based on ERA5 reanalysis data and showing the mean, standard deviation, and 5th and 95th percentiles of the climatology.",
+                "HorizontalAxis": "Month",
+                "VerticalAxis": "\u00b0C",
+                "Labels": "mean and standard deviation, 5th percentile, 95th percentile"
+            }
+        }
+    },
+    {
+        "C3S_434_014": {
+            "Indicator": "Climate Anomaly in Monthly Average of Daily Minimum Temperature",
+            "PopUpElements": {
+                "Title": "The climate anomaly in <anomaly period> average daily minimum temperature in <NUTS> under <scenario> for <time period>.",
+                "SubTitle": "Showing the ensemble mean, ensemble maximum and ensemble minimum across 5 CMIP5 climate models.\nHover over the time series to display the values and the action buttons.",
+                "HorizontalAxis": "Year",
+                "VerticalAxis": "\u00b0C",
+                "Labels": "\"max\", \"mean\", \"min\""
+            },
+            "ClimatologyElements": {
+                "Title": "Climatology statistics for the monthly mean of daily minimum temperature for the period 1981-2010.",
+                "SubTitle": "Based on ERA5 reanalysis data and showing the mean, standard deviation, and 5th and 95th percentiles of the climatology.",
+                "HorizontalAxis": "Month",
+                "VerticalAxis": "\u00b0C",
+                "Labels": "mean and standard deviation, 5th percentile, 95th percentile"
+            }
+        }
+    },
+    {
+        "C3S_434_015": {
+            "Indicator": "Climate Anomaly in Monthly Average of Daily Mean Temperature",
+            "PopUpElements": {
+                "Title": "The climate anomaly in <anomaly period> average daily mean temperature in <NUTS> under <scenario> for <time period>.",
+                "SubTitle": "Showing the ensemble mean, ensemble maximum and ensemble minimum across 5 CMIP5 climate models.\nHover over the time series to display the values and the action buttons.",
+                "HorizontalAxis": "Year",
+                "VerticalAxis": "\u00b0C",
+                "Labels": "\"max\", \"mean\", \"min\""
+            },
+            "ClimatologyElements": {
+                "Title": "Climatology statistics for the monthly mean of daily mean temperature for the period 1981-2010.",
+                "SubTitle": "Based on ERA5 reanalysis data and showing the mean, standard deviation, and 5th and 95th percentiles of the climatology.",
+                "HorizontalAxis": "Month",
+                "VerticalAxis": "\u00b0C",
+                "Labels": "mean and standard deviation, 5th percentile, 95th percentile"
+            }
         }
     }
 ]

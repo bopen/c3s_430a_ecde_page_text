@@ -6,6 +6,7 @@ import simplejson
 
 def find_table_contents(dicts, indicator, table_name):
     for dictionary in dicts:
+        dictionary = list(dictionary.values())[0]
         if dictionary['Indicator'] == indicator and table_name in dictionary.keys():
             rows = dictionary[table_name]
             if isinstance(rows, list):
@@ -31,6 +32,7 @@ def write_md_files():
         pop_ups = simplejson.load(pop_up_reader)
 
         for text in texts:
+            text = list(text.values())[0]
             title = text['PageTitle']
             indicator = text['Indicator']
             file_name = title.replace(' ', '_')
