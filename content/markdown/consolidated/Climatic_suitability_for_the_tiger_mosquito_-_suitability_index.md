@@ -11,13 +11,13 @@ Climatic suitability for the tiger mosquito - suitability index
 The tiger mosquito (Aedes albopictus) transmits vector-borne diseases, such as dengue and chikungunya. Environmental factors such as temperature and rainfall impact the survival chance and seasonal activity of the tiger mosquito which is a serious threat for human health in Europe.
 
 **Definition**
-The climatic suitability index for the presence of the tiger mosquito  is determined by temperature statistics that are calculated either for the season (winter and summer) or for the whole year. The data covers the period 1971 to 2099 and statistics are averaged for 30 years in overlapping time periods set 10 years apart.  Finally, the time series are averaged for the model ensemble.
+The climatic suitability index for the presence of the tiger mosquito  is determined by temperature statistics that are calculated either for the season (winter and summer) or for the whole year.
 
 **Understand**
 A suitability index of 0 indicates that an area is not suitable (has no favourable environmental conditions) for tiger mosquito presence whereas an area with an index of 100 is totally suitable.
 
 **Data Sources**
-The tiger mosquito suitability statistics are calculated using bias-adjusted EURO-CORDEX data for two CMIP5 scenarios with different possible future greenhouse gas emissions; RCP4.5 (medium emissions) and RCP8.5 (high emissions).
+The tiger mosquito suitability statistics are calculated using bias-adjusted EURO-CORDEX data for two CMIP5 scenarios with different possible future greenhouse gas emissions; RCP4.5 (medium emissions) and RCP8.5 (high emissions). The data covers the period 1971 to 2099 and statistics are averaged for 30 years in overlapping time periods set 10 years apart.  Finally, the time series are averaged for the model ensemble.
 
 **Supporting Information**
 The data was collated on behalf of the Copernicus Climate Change Service (C3S).  Further information about this indicator can be found in the C3S documentation resources in the [Climate Data Store](https://cds.climate.copernicus.eu/cdsapp#!/dataset/sis-agroclimatic-indicators?tab=overview).
@@ -43,13 +43,13 @@ Statistics for the climatic suitability index of the tiger mosquito are also ava
 The tiger mosquito (Aedes albopictus) transmits vector-borne diseases, such as dengue and chikungunya. Environmental factors such as temperature and rainfall impact the survival chance and seasonal activity of the tiger mosquito which is a serious threat for human health in Europe.
 
 **Definition**
-The climatic suitability index for the presence of the tiger mosquito  is determined by temperature statistics that are calculated either for the season (winter and summer) or for the whole year. The data covers the period 1971 to 2099 and statistics are averaged for 30 years in overlapping time periods set 10 years apart.  Finally, the time series are averaged for the model ensemble.
+The climatic suitability index for the presence of the tiger mosquito  is determined by temperature statistics that are calculated either for the season (winter and summer) or for the whole year.
 
 **Understand**
 A suitability index of 0 indicates that an area is not suitable (has no favourable environmental conditions) for tiger mosquito presence whereas an area with an index of 100 is totally suitable.
 
 **Data Sources**
-The tiger mosquito suitability statistics are calculated using bias-adjusted EURO-CORDEX data for two CMIP5 scenarios with different possible future greenhouse gas emissions; RCP4.5 (medium emissions) and RCP8.5 (high emissions).
+The tiger mosquito suitability statistics are calculated using bias-adjusted EURO-CORDEX data for two CMIP5 scenarios with different possible future greenhouse gas emissions; RCP4.5 (medium emissions) and RCP8.5 (high emissions). The data covers the period 1971 to 2099 and statistics are averaged for 30 years in overlapping time periods set 10 years apart.  Finally, the time series are averaged for the model ensemble.
 
 **Supporting Information**
 The data was collated on behalf of the Copernicus Climate Change Service (C3S).  Further information about this indicator can be found in the C3S documentation resources in the [Climate Data Store](https://cds.climate.copernicus.eu/cdsapp#!/dataset/sis-agroclimatic-indicators?tab=overview).
