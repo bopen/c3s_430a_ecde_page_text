@@ -465,5 +465,73 @@
                 }
             ]
         }
+    },
+    {
+        "C3S_434_015": {
+            "Indicator": "Climate Anomaly in Monthly Average of Daily Mean Temperature",
+            "Main Filters": [
+                {
+                    "title": "Time period",
+                    "subtitle": "Choose a time period",
+                    "popUpText": "Choose a 30-year period average"
+                },
+                {
+                    "title": "Anomaly period",
+                    "subtitle": "Choose a month",
+                    "popUpText": "Choose a monthly anomaly"
+                },
+                {
+                    "title": "Scenario",
+                    "subtitle": "Choose a scenario",
+                    "popUpText": "Choose a scenario with low (RCP2.6) or high (RCP8.5 greenhouse gas emissions"
+                }
+            ],
+            "Explore Filters": [
+                {
+                    "title": "Time period",
+                    "subtitle ": "Choose a time period",
+                    "popUpText": "Choose a 30-year period average"
+                },
+                {
+                    "title": "Anomaly period",
+                    "subtitle ": "Choose a month",
+                    "popUpText": "Choose a monthly anomaly"
+                },
+                {
+                    "title": "Scenario",
+                    "subtitle ": "Choose a scenario",
+                    "popUpText": "Choose a scenario with low (RCP2.6) or high (RCP8.5 greenhouse gas emissions"
+                }
+            ]
+        }
+    },
+    {
+        "C3S_434_016": {
+            "Indicator": "Number of Health-Related Heatwave Days",
+            "Main Filters": [
+                {
+                    "title": "Scenario",
+                    "subtitle": "Choose a scenario",
+                    "popUpText": "Choose a scenario with medium (RCP4.5) or high (RCP8.5) greenhouse gas emissions"
+                }
+            ],
+            "Explore Filters": [
+                {
+                    "title": "Time period",
+                    "subtitle ": "Choose a time period",
+                    "popUpText": "Choose a 30-year period average"
+                },
+                {
+                    "title": "Scenario",
+                    "subtitle ": "Choose a scenario",
+                    "popUpText": "Choose a scenario with medium (RCP4.5) or high (RCP8.5) greenhouse gas emissions"
+                },
+                {
+                    "title": "NUTS level",
+                    "subtitle ": "Choose a NUTS level",
+                    "popUpText": "Select the size of the regions shown on the map, from largest (NUTS-0) to smallest (NUTS-3)"
+                }
+            ]
+        }
     }
 ]
