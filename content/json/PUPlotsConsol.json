@@ -71,9 +71,9 @@
     },
     {
         "C3S_434_009": {
-            "Indicator": "Climate Anomaly in Biologically Effective Degree Days",
+            "Indicator": "Projected change in Biologically Effective Degree Days",
             "PopUpElements": {
-                "Title": "The climate anomaly in the <anomaly period> biologically effective degree days in <NUTS> under <scenario> for <time period>.",
+                "Title": "The projected change in the <anomaly period> biologically effective degree days in <NUTS> under <scenario> for <time period>.",
                 "SubTitle": "Showing the ensemble mean, ensemble maximum and ensemble minimum across 5 CMIP5 climate models.\nHover over the time series to display the values and the action buttons.",
                 "HorizontalAxis": "Year",
                 "VerticalAxis": "\u00b0C",
@@ -90,9 +90,9 @@
     },
     {
         "C3S_434_010": {
-            "Indicator": "Climate Anomaly in the Number of Frost Days",
+            "Indicator": "Projected change in the Number of Frost Days",
             "PopUpElements": {
-                "Title": "The climate anomaly in the <anomaly period> number of frost days in <NUTS> under <scenario> for <time period>.",
+                "Title": "The projected change in the <anomaly period> number of frost days in <NUTS> under <scenario> for <time period>.",
                 "SubTitle": "Showing the ensemble mean, ensemble maximum and ensemble minimum across 5 CMIP5 climate models.\nHover over the time series to display the values and the action buttons.",
                 "HorizontalAxis": "Year",
                 "VerticalAxis": "Days",
@@ -109,9 +109,9 @@
     },
     {
         "C3S_434_011": {
-            "Indicator": "Climate Anomaly in the Number of Tropical Nights",
+            "Indicator": "Projected change in the Number of Tropical Nights",
             "PopUpElements": {
-                "Title": "The climate anomaly in the <anomaly period> number of tropical nights in <NUTS> under <scenario> for <time period>.",
+                "Title": "The projected change in the <anomaly period> number of tropical nights in <NUTS> under <scenario> for <time period>.",
                 "SubTitle": "Showing the ensemble mean, ensemble maximum and ensemble minimum across 5 CMIP5 climate models.\nHover over the time series to display the values and the action buttons.",
                 "HorizontalAxis": "Year",
                 "VerticalAxis": "Days",
@@ -128,7 +128,7 @@
     },
     {
         "C3S_434_012": {
-            "Indicator": "Climate Anomaly in Precipitation Sum",
+            "Indicator": "Projected change in Precipitation Sum",
             "PopUpElements": {
                 "Title": "The <anomaly period> precipitation sum anomaly in <NUTS> under <scenario> for <time period>.",
                 "SubTitle": "Showing the ensemble mean, ensemble maximum and ensemble minimum across 5 CMIP5 climate models.\nHover over the time series to display the values and the action buttons.",
@@ -147,9 +147,9 @@
     },
     {
         "C3S_434_013": {
-            "Indicator": "Climate Anomaly in Monthly Average of Daily Maximum Temperature",
+            "Indicator": "Projected change in the monthly average of Daily Maximum Temperature",
             "PopUpElements": {
-                "Title": "The climate anomaly in <anomaly period> average daily maximum temperature in <NUTS> under <scenario> for <time period>.",
+                "Title": "The projected change in <anomaly period> average daily maximum temperature in <NUTS> under <scenario> for <time period>.",
                 "SubTitle": "Showing the ensemble mean, ensemble maximum and ensemble minimum across 5 CMIP5 climate models.\nHover over the time series to display the values and the action buttons.",
                 "HorizontalAxis": "Year",
                 "VerticalAxis": "\u00b0C",
@@ -166,9 +166,9 @@
     },
     {
         "C3S_434_014": {
-            "Indicator": "Climate Anomaly in Monthly Average of Daily Minimum Temperature",
+            "Indicator": "Projected change in the monthly average of Daily Minimum Temperature",
             "PopUpElements": {
-                "Title": "The climate anomaly in <anomaly period> average daily minimum temperature in <NUTS> under <scenario> for <time period>.",
+                "Title": "The projected change in <anomaly period> average daily minimum temperature in <NUTS> under <scenario> for <time period>.",
                 "SubTitle": "Showing the ensemble mean, ensemble maximum and ensemble minimum across 5 CMIP5 climate models.\nHover over the time series to display the values and the action buttons.",
                 "HorizontalAxis": "Year",
                 "VerticalAxis": "\u00b0C",
@@ -185,9 +185,9 @@
     },
     {
         "C3S_434_015": {
-            "Indicator": "Climate Anomaly in Monthly Average of Daily Mean Temperature",
+            "Indicator": "Projected change in the monthly average of Daily Mean Temperature",
             "PopUpElements": {
-                "Title": "The climate anomaly in <anomaly period> average daily mean temperature in <NUTS> under <scenario> for <time period>.",
+                "Title": "The projected change in <anomaly period> average daily mean temperature in <NUTS> under <scenario> for <time period>.",
                 "SubTitle": "Showing the ensemble mean, ensemble maximum and ensemble minimum across 5 CMIP5 climate models.\nHover over the time series to display the values and the action buttons.",
                 "HorizontalAxis": "Year",
                 "VerticalAxis": "\u00b0C",

@@ -21,14 +21,14 @@ above +46: extreme heat stress; +38 to +46: very strong heat stress; +32 to +38:
 The universal thermal climate index (UTCI) is computed using data from the ECMWF ERA5 reanalysis and is part of the ERA5-HEAT (Human thErmAl comforT) dataset. 
 
 **Supporting Information**
-The data was collated on behalf of the Copernicus Climate Change Service (C3S).  Further information about this indicator can be found in the C3S documentation resources in the [Climate Data Store](https://cds.climate.copernicus.eu/cdsapp#!/dataset/derived-utci-historical?tab=overview).
+The data was collated on behalf of the Copernicus Climate Change Service (C3S).  Further information about this index can be found in the C3S documentation resources in the [Climate Data Store](https://cds.climate.copernicus.eu/cdsapp#!/dataset/derived-utci-historical?tab=overview).
 
 ***
 
 **Visualisation and Navigation**
 The universal thermal climate index (UTCI) based on the ERA5-HEAT dataset is presented for each month and year from 1979 to 2019.
 
-UTCI statistics are also available via the "Explore in Detail" button as national and sub-national area-means for which time series data can be plotted.  
+UTCI statistics are also available via the "Explore in Detail" button as national, sub-national and trans-national area-means for which time series data can be plotted.  
 
 |title|subtitle|popUpText|
 | :--- | :--- | :--- |
@@ -54,16 +54,16 @@ above +46: extreme heat stress; +38 to +46: very strong heat stress; +32 to +38:
 The universal thermal climate index (UTCI) is computed using data from the ECMWF ERA5 reanalysis and is part of the ERA5-HEAT (Human thErmAl comforT) dataset. 
 
 **Supporting Information**
-The data was collated on behalf of the Copernicus Climate Change Service (C3S).  Further information about this indicator can be found in the C3S documentation resources in the [Climate Data Store](https://cds.climate.copernicus.eu/cdsapp#!/dataset/derived-utci-historical?tab=overview).
+The data was collated on behalf of the Copernicus Climate Change Service (C3S).  Further information about this index can be found in the C3S documentation resources in the [Climate Data Store](https://cds.climate.copernicus.eu/cdsapp#!/dataset/derived-utci-historical?tab=overview).
 
 ***
 
 **Visualisation and Navigation**
-The universal thermal climate index (UTCI) for each month and year from 1979 to 2019 is plotted on a map showing the European NUTS regions. The EUROSTAT NUTS classification ([Nomenclature of Territorial Units for Statistics](https://ec.europa.eu/eurostat/web/nuts/background)) is a hierarchical system for dividing up the economic territory of Europe. The size of the regions shown on the map can be adjusted by selecting the appropriate NUTS level; NUTS-0: Countries, NUTS-1: major socio-economic regions and NUTS-2: basic regions.
+The universal thermal climate index (UTCI) for each month and year from 1979 to 2019 is plotted on a map showing the European NUTS aggregation regions. The EUROSTAT NUTS classification ([Nomenclature of Territorial Units for Statistics](https://ec.europa.eu/eurostat/web/nuts/background)) is a hierarchical system for dividing up the economic territory of Europe. The size of the regions shown on the map can be adjusted by selecting the appropriate NUTS level: national level (NUTS-0), first sub-national level (NUTS-1), and second sub-national level (NUTS-2).
 
-The map of NUTS regions facilitates dynamic access to the underlying data. Hover the mouse pointer over a region to view its name or click on a region to request a time series plot.
+The regions on the map facilitate dynamic access to the underlying data. Hover the mouse pointer over a region to view its name or click on a region to request a time series plot. Likewise, the trans-national average for the EEA member and cooperating countries (EEA 38) can be accessed via the "Europe" bounding box.
 
-The time series plot shows the area mean UTCI for the chosen NUTS region.  
+The time series plot shows the area mean UTCI for the chosen region.  
 
 Click and hover the mouse over the time series plot to view the data values and to reveal action buttons for features such as “zoom” and “download plot as a png”.  
 
@@ -71,7 +71,7 @@ Click and hover the mouse over the time series plot to view the data values and 
 | :--- | :--- | :--- |
 |Month|Choose a month|Display data for the chosen month for each year of the dataset|
 |Year|Choose a year|Choose a year|
-|NUTS level|Choose a NUTS level|Select the size of the regions shown on the map, from largest (NUTS-0) to smallest (NUTS-2)|
+|Regional aggregation|Choose a regional aggregation size|Select the size of the regions shown on the map, from the national level (NUTS-0) to the sub-national level (NUTS-2)|
 
 
 <br />  

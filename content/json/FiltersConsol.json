@@ -21,9 +21,9 @@
                     "popUpText": "Choose a scenario with medium (RCP4.5) or high (RCP8.5) greenhouse gas emissions"
                 },
                 {
-                    "title": "NUTS level",
-                    "subtitle ": "Choose a NUTS level",
-                    "popUpText": "Select the size of the regions shown on the map, from largest (NUTS-0) to smallest (NUTS-3)"
+                    "title": "Regional aggregation",
+                    "subtitle ": "Choose a regional aggregation size",
+                    "popUpText": "Select the size of the regions shown on the map, from the national level (NUTS-0) to the sub-national level (NUTS-3)"
                 }
             ]
         }
@@ -50,9 +50,9 @@
                     "popUpText": "Choose a scenario with medium (RCP4.5) or high (RCP8.5) greenhouse gas emissions"
                 },
                 {
-                    "title": "NUTS level",
-                    "subtitle ": "Choose a NUTS level",
-                    "popUpText": "Select the size of the regions shown on the map, from largest (NUTS-0) to smallest (NUTS-3)"
+                    "title": "Regional aggregation",
+                    "subtitle ": "Choose a regional aggregation size",
+                    "popUpText": "Select the size of the regions shown on the map, from the national level (NUTS-0) to the sub-national level (NUTS-3)"
                 }
             ]
         }
@@ -74,9 +74,9 @@
                     "popUpText": "Choose a year"
                 },
                 {
-                    "title": "NUTS level",
-                    "subtitle ": "Choose a NUTS level",
-                    "popUpText": "Select the size of the regions shown on the map, from largest (NUTS-0) to smallest (NUTS-2)"
+                    "title": "Regional aggregation",
+                    "subtitle ": "Choose a regional aggregation size",
+                    "popUpText": "Select the size of the regions shown on the map, from the national level (NUTS-0) to the sub-national level (NUTS-2)"
                 }
             ]
         }
@@ -98,9 +98,9 @@
                     "popUpText": "Choose a year"
                 },
                 {
-                    "title": "NUTS level",
-                    "subtitle ": "Choose a NUTS level",
-                    "popUpText": "Select the size of the regions shown on the map, from largest (NUTS-0) to smallest (NUTS-2)"
+                    "title": "Regional aggregation",
+                    "subtitle ": "Choose a regional aggregation size",
+                    "popUpText": "Select the size of the regions shown on the map, from the national level (NUTS-0) to the sub-national level (NUTS-2)"
                 }
             ]
         }
@@ -137,9 +137,9 @@
                     "popUpText": "Choose a scenario with medium (RCP4.5) or high (RCP8.5) greenhouse gas emissions"
                 },
                 {
-                    "title": "NUTS level",
-                    "subtitle ": "Choose a NUTS level",
-                    "popUpText": "Select the size of the regions shown on the map, from largest (NUTS-0) to smallest (NUTS-3)"
+                    "title": "Regional aggregation",
+                    "subtitle ": "Choose a regional aggregation size",
+                    "popUpText": "Select the size of the regions shown on the map, from the national level (NUTS-0) to the sub-national level (NUTS-3)"
                 }
             ]
         }
@@ -166,9 +166,9 @@
                     "popUpText": "Choose a year"
                 },
                 {
-                    "title": "NUTS level",
-                    "subtitle ": "Choose a NUTS level",
-                    "popUpText": "Select the size of the regions shown on the map, from largest (NUTS-0) to smallest (NUTS-2)"
+                    "title": "Regional aggregation",
+                    "subtitle ": "Choose a regional aggregation size",
+                    "popUpText": "Select the size of the regions shown on the map, from the national level (NUTS-0) to the sub-national level (NUTS-2)"
                 }
             ]
         }
@@ -195,16 +195,16 @@
                     "popUpText": "Choose a year"
                 },
                 {
-                    "title": "NUTS level",
-                    "subtitle ": "Choose a NUTS level",
-                    "popUpText": "Select the size of the regions shown on the map, from largest (NUTS-0) to smallest (NUTS-2)"
+                    "title": "Regional aggregation",
+                    "subtitle ": "Choose a regional aggregation size",
+                    "popUpText": "Select the size of the regions shown on the map, from the national level (NUTS-0) to the sub-national level (NUTS-2)"
                 }
             ]
         }
     },
     {
         "C3S_434_009": {
-            "Indicator": "Climate Anomaly in Biologically Effective Degree Days",
+            "Indicator": "Projected change in Biologically Effective Degree Days",
             "Main Filters": [
                 {
                     "title": "Time period",
@@ -212,9 +212,9 @@
                     "popUpText": "Choose a 30-year period average"
                 },
                 {
-                    "title": "Anomaly period",
+                    "title": "Change period",
                     "subtitle": "Choose a month or annual",
-                    "popUpText": "Choose a monthly anomaly or an annual anomaly"
+                    "popUpText": "Choose a change period: month or annual"
                 },
                 {
                     "title": "Scenario",
@@ -229,9 +229,9 @@
                     "popUpText": "Choose a 30-year period average"
                 },
                 {
-                    "title": "Anomaly period",
+                    "title": "Change period",
                     "subtitle ": "Choose a month or annual",
-                    "popUpText": "Choose a monthly anomaly or an annual anomaly"
+                    "popUpText": "Choose a change period: month or annual"
                 },
                 {
                     "title": "Scenario",
@@ -239,16 +239,16 @@
                     "popUpText": "Choose a scenario with low (RCP2.6) or high (RCP8.5 greenhouse gas emissions"
                 },
                 {
-                    "title": "NUTS level",
-                    "subtitle ": "Choose a NUTS level",
-                    "popUpText": "Select the size of the regions shown on the map, from largest (NUTS-0) to smallest (NUTS-3)"
+                    "title": "Regional aggregation",
+                    "subtitle ": "Choose a regional aggregation size",
+                    "popUpText": "Select the size of the regions shown on the map, from the national level (NUTS-0) to the sub-national level (NUTS-3)"
                 }
             ]
         }
     },
     {
         "C3S_434_010": {
-            "Indicator": "Climate Anomaly in the Number of Frost Days",
+            "Indicator": "Projected change in the Number of Frost Days",
             "Main Filters": [
                 {
                     "title": "Time period",
@@ -256,9 +256,9 @@
                     "popUpText": "Choose a 30-year period average"
                 },
                 {
-                    "title": "Anomaly period",
+                    "title": "Change period",
                     "subtitle": "Choose a month or annual",
-                    "popUpText": "Choose a monthly anomaly or an annual anomaly"
+                    "popUpText": "Choose a change period: month or annual"
                 },
                 {
                     "title": "Scenario",
@@ -273,9 +273,9 @@
                     "popUpText": "Choose a 30-year period average"
                 },
                 {
-                    "title": "Anomaly period",
+                    "title": "Change period",
                     "subtitle ": "Choose a month or annual",
-                    "popUpText": "Choose a monthly anomaly or an annual anomaly"
+                    "popUpText": "Choose a change period: month or annual"
                 },
                 {
                     "title": "Scenario",
@@ -283,16 +283,16 @@
                     "popUpText": "Choose a scenario with low (RCP2.6) or high (RCP8.5 greenhouse gas emissions"
                 },
                 {
-                    "title": "NUTS level",
-                    "subtitle ": "Choose a NUTS level",
-                    "popUpText": "Select the size of the regions shown on the map, from largest (NUTS-0) to smallest (NUTS-3)"
+                    "title": "Regional aggregation",
+                    "subtitle ": "Choose a regional aggregation size",
+                    "popUpText": "Select the size of the regions shown on the map, from the national level (NUTS-0) to the sub-national level (NUTS-3)"
                 }
             ]
         }
     },
     {
         "C3S_434_011": {
-            "Indicator": "Climate Anomaly in the Number of Tropical Nights",
+            "Indicator": "Projected change in the Number of Tropical Nights",
             "Main Filters": [
                 {
                     "title": "Time period",
@@ -300,9 +300,9 @@
                     "popUpText": "Choose a 30-year period average"
                 },
                 {
-                    "title": "Anomaly period",
+                    "title": "Change period",
                     "subtitle": "Choose a month or annual",
-                    "popUpText": "Choose a monthly anomaly or an annual anomaly"
+                    "popUpText": "Choose a change period: month or annual"
                 },
                 {
                     "title": "Scenario",
@@ -317,9 +317,9 @@
                     "popUpText": "Choose a 30-year period average"
                 },
                 {
-                    "title": "Anomaly period",
+                    "title": "Change period",
                     "subtitle ": "Choose a month or annual",
-                    "popUpText": "Choose a monthly anomaly or an annual anomaly"
+                    "popUpText": "Choose a change period: month or annual"
                 },
                 {
                     "title": "Scenario",
@@ -327,16 +327,16 @@
                     "popUpText": "Choose a scenario with low (RCP2.6) or high (RCP8.5 greenhouse gas emissions"
                 },
                 {
-                    "title": "NUTS level",
-                    "subtitle ": "Choose a NUTS level",
-                    "popUpText": "Select the size of the regions shown on the map, from largest (NUTS-0) to smallest (NUTS-3)"
+                    "title": "Regional aggregation",
+                    "subtitle ": "Choose a regional aggregation size",
+                    "popUpText": "Select the size of the regions shown on the map, from the national level (NUTS-0) to the sub-national level (NUTS-3)"
                 }
             ]
         }
     },
     {
         "C3S_434_012": {
-            "Indicator": "Climate Anomaly in Precipitation Sum",
+            "Indicator": "Projected change in Precipitation Sum",
             "Main Filters": [
                 {
                     "title": "Time period",
@@ -344,9 +344,9 @@
                     "popUpText": "Choose a 30-year period average"
                 },
                 {
-                    "title": "Anomaly period",
+                    "title": "Change period",
                     "subtitle": "Choose a month or annual",
-                    "popUpText": "Choose a monthly anomaly or an annual anomaly"
+                    "popUpText": "Choose a change period: month or annual"
                 },
                 {
                     "title": "Scenario",
@@ -361,9 +361,9 @@
                     "popUpText": "Choose a 30-year period average"
                 },
                 {
-                    "title": "Anomaly period",
+                    "title": "Change period",
                     "subtitle ": "Choose a month or annual",
-                    "popUpText": "Choose a monthly anomaly or an annual anomaly"
+                    "popUpText": "Choose a change period: month or annual"
                 },
                 {
                     "title": "Scenario",
@@ -371,16 +371,16 @@
                     "popUpText": "Choose a scenario with low (RCP2.6) or high (RCP8.5 greenhouse gas emissions"
                 },
                 {
-                    "title": "NUTS level",
-                    "subtitle ": "Choose a NUTS level",
-                    "popUpText": "Select the size of the regions shown on the map, from largest (NUTS-0) to smallest (NUTS-3)"
+                    "title": "Regional aggregation",
+                    "subtitle ": "Choose a regional aggregation size",
+                    "popUpText": "Select the size of the regions shown on the map, from the national level (NUTS-0) to the sub-national level (NUTS-3)"
                 }
             ]
         }
     },
     {
         "C3S_434_013": {
-            "Indicator": "Climate Anomaly in Monthly Average of Daily Maximum Temperature",
+            "Indicator": "Projected change in the monthly average of Daily Maximum Temperature",
             "Main Filters": [
                 {
                     "title": "Time period",
@@ -388,9 +388,9 @@
                     "popUpText": "Choose a 30-year period average"
                 },
                 {
-                    "title": "Anomaly period",
+                    "title": "Month",
                     "subtitle": "Choose a month",
-                    "popUpText": "Choose a monthly anomaly"
+                    "popUpText": "Choose a monthly change period"
                 },
                 {
                     "title": "Scenario",
@@ -410,9 +410,9 @@
                     "popUpText": "Choose a 30-year period average"
                 },
                 {
-                    "title": "Anomaly period",
+                    "title": "Month",
                     "subtitle ": "Choose a month",
-                    "popUpText": "Choose a monthly anomaly"
+                    "popUpText": "Choose a monthly change period"
                 },
                 {
                     "title": "Scenario",
@@ -424,7 +424,7 @@
     },
     {
         "C3S_434_014": {
-            "Indicator": "Climate Anomaly in Monthly Average of Daily Minimum Temperature",
+            "Indicator": "Projected change in the monthly average of Daily Minimum Temperature",
             "Main Filters": [
                 {
                     "title": "Time period",
@@ -432,9 +432,9 @@
                     "popUpText": "Choose a 30-year period average"
                 },
                 {
-                    "title": "Anomaly period",
+                    "title": "Month",
                     "subtitle": "Choose a month",
-                    "popUpText": "Choose a monthly anomaly"
+                    "popUpText": "Choose a monthly change period"
                 },
                 {
                     "title": "Scenario",
@@ -454,9 +454,9 @@
                     "popUpText": "Choose a 30-year period average"
                 },
                 {
-                    "title": "Anomaly period",
+                    "title": "Month",
                     "subtitle ": "Choose a month",
-                    "popUpText": "Choose a monthly anomaly"
+                    "popUpText": "Choose a monthly change period"
                 },
                 {
                     "title": "Scenario",
@@ -468,7 +468,7 @@
     },
     {
         "C3S_434_015": {
-            "Indicator": "Climate Anomaly in Monthly Average of Daily Mean Temperature",
+            "Indicator": "Projected change in the monthly average of Daily Mean Temperature",
             "Main Filters": [
                 {
                     "title": "Time period",
@@ -476,9 +476,9 @@
                     "popUpText": "Choose a 30-year period average"
                 },
                 {
-                    "title": "Anomaly period",
+                    "title": "Month",
                     "subtitle": "Choose a month",
-                    "popUpText": "Choose a monthly anomaly"
+                    "popUpText": "Choose a monthly change period"
                 },
                 {
                     "title": "Scenario",
@@ -493,9 +493,9 @@
                     "popUpText": "Choose a 30-year period average"
                 },
                 {
-                    "title": "Anomaly period",
+                    "title": "Month",
                     "subtitle ": "Choose a month",
-                    "popUpText": "Choose a monthly anomaly"
+                    "popUpText": "Choose a monthly change period"
                 },
                 {
                     "title": "Scenario",
@@ -527,9 +527,9 @@
                     "popUpText": "Choose a scenario with medium (RCP4.5) or high (RCP8.5) greenhouse gas emissions"
                 },
                 {
-                    "title": "NUTS level",
-                    "subtitle ": "Choose a NUTS level",
-                    "popUpText": "Select the size of the regions shown on the map, from largest (NUTS-0) to smallest (NUTS-3)"
+                    "title": "Regional aggregation",
+                    "subtitle ": "Choose a regional aggregation size",
+                    "popUpText": "Select the size of the regions shown on the map, from the national level (NUTS-0) to the sub-national level (NUTS-3)"
                 }
             ]
         }

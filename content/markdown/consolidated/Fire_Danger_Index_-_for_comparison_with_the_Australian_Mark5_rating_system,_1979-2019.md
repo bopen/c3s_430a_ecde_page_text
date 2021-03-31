@@ -24,14 +24,14 @@ Grassland danger classes are: 50 to 99: severe; 100 to 149: extreme; greater tha
 The fire danger index is calculated using weather forecasts from historical simulations provided by the ECMWF ERA5 reanalysis. 
 
 **Supporting Information**
-The data was collated on behalf of the Copernicus Climate Change Service (C3S).  Further information about this indicator can be found in the C3S documentation resources in the [Climate Data Store](https://cds.climate.copernicus.eu/cdsapp#!/dataset/cems-fire-historical?tab=overview).
+The data was collated on behalf of the Copernicus Climate Change Service (C3S).  Further information about this index can be found in the C3S documentation resources in the [Climate Data Store](https://cds.climate.copernicus.eu/cdsapp#!/dataset/cems-fire-historical?tab=overview).
 
 ***
 
 **Visualisation and Navigation**
 The fire danger index based on historical ERA5 Reanalysis data is presented for each month and year from 1979 to 2019.
 
-Historical fire danger index statistics are also available via the "Explore in Detail" button as national and sub-national area-means for which time series data can be plotted.  
+Historical fire danger index statistics are also available via the "Explore in Detail" button as national, sub-national and trans-national area-means for which time series data can be plotted.  
 
 |title|subtitle|popUpText|
 | :--- | :--- | :--- |
@@ -60,20 +60,20 @@ Grassland danger classes are: 50 to 99: severe; 100 to 149: extreme; greater tha
 The fire danger index is calculated using weather forecasts from historical simulations provided by the ECMWF ERA5 reanalysis. 
 
 **Supporting Information**
-The data was collated on behalf of the Copernicus Climate Change Service (C3S).  Further information about this indicator can be found in the C3S documentation resources in the [Climate Data Store](https://cds.climate.copernicus.eu/cdsapp#!/dataset/cems-fire-historical?tab=overview).
+The data was collated on behalf of the Copernicus Climate Change Service (C3S).  Further information about this index can be found in the C3S documentation resources in the [Climate Data Store](https://cds.climate.copernicus.eu/cdsapp#!/dataset/cems-fire-historical?tab=overview).
 
 ***
 
 **Visualisation and Navigation**
-The annual mean fire danger index for each year from 1979 to 2019 is plotted on a map showing the European NUTS regions.  The EUROSTAT NUTS classification ([Nomenclature of Territorial Units for Statistics](https://ec.europa.eu/eurostat/web/nuts/background)) is a hierarchical system for dividing up the economic territory of Europe. The size of the regions shown on the map can be adjusted by selecting the appropriate NUTS level; NUTS-0: Countries, NUTS-1: major socio-economic regions and NUTS-2: basic regions.
+The annual mean fire danger index for each year from 1979 to 2019 is plotted on a map showing the European NUTS aggregation regions.  The EUROSTAT NUTS classification ([Nomenclature of Territorial Units for Statistics](https://ec.europa.eu/eurostat/web/nuts/background)) is a hierarchical system for dividing up the economic territory of Europe. The size of the regions shown on the map can be adjusted by selecting the appropriate NUTS level: national level (NUTS-0), first sub-national level (NUTS-1), and second sub-national level (NUTS-2).
 
-The map of NUTS regions facilitates dynamic access to the underlying data. Hover the mouse pointer over a region to view its name or click on a region to request a time series plot.
+The regions on the map facilitate dynamic access to the underlying data. Hover the mouse pointer over a region to view its name or click on a region to request a time series plot. Likewise, the trans-national average for the EEA member and cooperating countries (EEA 38) can be accessed via the "Europe" bounding box.
 
-The time series plot shows the area mean fire danger index for the chosen NUTS region for each month of the chosen year. 
+The time series plot shows the area mean fire danger index for the chosen region for each month of the chosen year. 
 
 Click and hover the mouse over the time series plot to view the data values and to reveal action buttons for features such as “zoom” and “download plot as a png”.  
 
 |title|subtitle |popUpText|
 | :--- | :--- | :--- |
 |Year|Choose a year|Choose a year|
-|NUTS level|Choose a NUTS level|Select the size of the regions shown on the map, from largest (NUTS-0) to smallest (NUTS-2)|
+|Regional aggregation|Choose a regional aggregation size|Select the size of the regions shown on the map, from the national level (NUTS-0) to the sub-national level (NUTS-2)|
