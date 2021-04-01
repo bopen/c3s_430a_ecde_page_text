@@ -34,11 +34,8 @@ Statistics for the number of climatological heatwave days are also available via
 **Context**
 A climatological heatwave is a prolonged period of extremely high temperature for a particular region that exceeds a maximum threshold.  Heatwaves have consequences for health, agriculture, power, wildfire and infrastructure. 
 
-**Climate Definition**
+**Definition**
 The annual number of heatwave days is based on the climatological definition of a heatwave. A climatological heatwave is considered to be a period of at least 3 consecutive days on which the daily maximum temperature exceeds the 99th percentile of the daily maximum temperatures of the May to September season for the control period of 1971 to 2000.
-
-**Health Definition**
-
 
 **Data Sources**
 The climatological heatwave statistics are calculated using bias-adjusted EURO-CORDEX data for two CMIP5 scenarios with different possible future greenhouse gas emissions: RCP4.5 (medium emissions) and RCP8.5 (high emissions). The data covers the period 1971 to 2099 and statistics are averaged for 30 years in overlapping time periods set 10 years apart.  Finally, the time series are averaged for the model ensemble.

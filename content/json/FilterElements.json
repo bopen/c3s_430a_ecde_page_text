@@ -82,5 +82,11 @@
         "FilterTitle": "Statistic",
         "FilterSubTitle": "Choose a temperature statistic",
         "FilterPopUpText": "Choose a daily minimum temperature statistic (minimum, mean or maximum)"
+    },
+    {
+        "FilterName": "2040-2100_rcp85-45",
+        "FilterTitle": "Time period",
+        "FilterSubTitle": "Choose a time period",
+        "FilterPopUpText": "Choose a near future time period with high greenhouse gas emissions or a far future time period with medium greenhouse gas emissions."
     }
 ]

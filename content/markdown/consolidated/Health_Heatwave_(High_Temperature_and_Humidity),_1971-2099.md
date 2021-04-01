@@ -39,11 +39,8 @@ Statistics for the number of health-related heatwave days are also available via
 **Context**
 A health-related heatwave is a prolonged period of extremely high temperature and humidity for a particular region that exceeds both maximum and minimum thresholds.  Heatwaves have consequences for health, agriculture, power, wildfire and infrastructure. 
 
-**Climate Definition**
+**Definition**
 The annual number of heatwave days is based on the heatwave definition used by the health community. A health-related heatwave is considered to be a period of at least 2 consecutive days on which the maximum apparent temperature (Tappmax) exceeds the 90th percentile of Tappmax and the minimum temperature (Tmin) exceeds the 90th percentile of Tmin. Health heatwaves are calculated for each month of the summer period between June and August.  The apparent temperature is a measure of relative discomfort due to combined heat and high humidity.
-
-**Health Definition**
-
 
 **Data Sources**
 The health-related heatwave statistics are calculated using bias-adjusted EURO-CORDEX data for two CMIP5 scenarios with different possible future greenhouse gas emissions: RCP4.5 (medium emissions) and RCP8.5 (high emissions). The data covers the period 1971 to 2099 and statistics are averaged for 30 years in overlapping time periods set 10 years apart.  Finally, the time series are averaged for the model ensemble.
