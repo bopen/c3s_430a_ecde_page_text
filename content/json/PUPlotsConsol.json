@@ -225,5 +225,41 @@
                 "Labels": "\"+SD\", \"mean\", \"-SD\""
             }
         }
+    },
+    {
+        "C3S_434_018": {
+            "Indicator": "Projected change in the annual highest high water",
+            "PopUpElements": {
+                "Title": "",
+                "SubTitle": "\n",
+                "HorizontalAxis": "",
+                "VerticalAxis": "",
+                "Labels": ", , "
+            }
+        }
+    },
+    {
+        "C3S_434_019": {
+            "Indicator": "Projected change in mean sea level",
+            "PopUpElements": {
+                "Title": "",
+                "SubTitle": "\n",
+                "HorizontalAxis": "",
+                "VerticalAxis": "",
+                "Labels": ", , "
+            }
+        }
+    },
+    {
+        "C3S_434_020": {
+            "Indicator": "Projected change in the number of days with high fire danger",
+            "PopUpElements": {
+                "Title": "The number of days with high fire danger in <NUTS> under <scenario>.",
+                "SubTitle": "Showing the ensemble mean, ensemble maximum and ensemble minimum across # CMIP5 climate models downscaled for use in the GEFF model.\nHover over the time series to display the values and the action buttons.",
+                "HorizontalAxis": "Year",
+                "VerticalAxis": "Days",
+                "Labels": "\"worst case\", \"mean\", \"best case\""
+            }
+        }
     }
 ]

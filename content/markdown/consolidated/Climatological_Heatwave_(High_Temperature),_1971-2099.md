@@ -24,7 +24,12 @@ The data was collated on behalf of the Copernicus Climate Change Service (C3S). 
 **Visualisation and Navigation**
 The annual number of heatwave days are presented for the climatological definition of heatwaves for two CMIP5 scenarios: RCP4.5 with medium greenhouse gas emissions and RCP8.5 with high greenhouse gas emissions.
 
-Statistics for the number of climatological heatwave days are also available via the "Explore in Detail" button as national, sub-national and trans-national area-means for which time series data can be plotted.
+Statistics for the number of climatological heatwave days are also available via the "Explore in Detail" button as national, sub-national and trans-national area-means for which time series data can be plotted.  
+
+|title|subtitle|popUpText|
+| :--- | :--- | :--- |
+|Scenario|Choose a scenario|Choose a scenario with medium (RCP4.5) or high (RCP8.5) greenhouse gas emissions|
+
 
 <br />  
 
@@ -52,7 +57,14 @@ The regions on the map facilitate dynamic access to the underlying data. Hover t
 
 The time series plot shows the ensemble mean and standard deviation (SD) of climatological heat wave responses to the chosen scenario conditions across the EURO-CORDEX regional climate model ensemble. The values represent the centres of a 30-year running average from 1971 to 2100 which results in a time series covering the period from 1986 to 2085.
 
-Click and hover the mouse over the time series plot to view the data values and to reveal action buttons for features such as “zoom” and “download plot as a png”.
+Click and hover the mouse over the time series plot to view the data values and to reveal action buttons for features such as “zoom” and “download plot as a png”.  
+
+|title|subtitle |popUpText|
+| :--- | :--- | :--- |
+|Time period|Choose a time period|Choose a 30-year period average|
+|Scenario|Choose a scenario|Choose a scenario with medium (RCP4.5) or high (RCP8.5) greenhouse gas emissions|
+|Regional aggregation|Choose a regional aggregation size|Select the size of the regions shown on the map, from the national level (NUTS-0) to the sub-national level (NUTS-3)|
+
 
 <br />  
 

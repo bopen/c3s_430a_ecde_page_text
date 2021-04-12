@@ -14,7 +14,7 @@ The annual highest high water index informs an understanding of European coastal
 The annual highest high water (m) is calculated from tidal dyamics and sea level rise data based upon past observational data and future climate projections.  Storm surges caused by atmospheric forcing are not taken into account for this index.
 
 **Data Sources**
-The data covers the period from 1977 to 2100. It consists of a historical period, 1977-2005, based on the ERA5 reanalysis and a future period, 2070-2100, based on CMIP5 scenario RCP4.5 with medium greenhouse gas emissions. The data covers the period from 1977 to 2100. It consists of a historical period, 1977-2005, based on the ERA5 reanalysis and two future periods: 2040-2070 based on CMIP5 scenario RCP8.5 with high greenhouse gas emissions, and 2070-2100 based on CMIP5 scenario RCP4.5 with medium greenhouse gas emissions. Projected changes in the annual highest high water index are calculated relative to the mean of the historical portion of this dataset which covers the period from 1977-2005.
+The data covers the period from 1977 to 2100. It consists of a historical period, 1977-2005, based on the ERA5 reanalysis and a future period, 2070-2100, based on CMIP5 scenario RCP4.5 with medium greenhouse gas emissions. Projected changes in the annual highest high water index are calculated relative to the mean of the historical portion of this dataset which covers the period from 1977-2005.
 
 The index is generated using the Global Tide and Surge Model (GTSM, Deltares) and the Wave Model (WAM, ECMWF). High resolution forcing fields for the GTSM are provided by the Danish Meteorological Institute's regional model (HIRHAM5) which is downscaled from the EC-EARTH global climate model. Given that the projections of these climate scenarios are based on a single combination of the regional and global climate models, users of these data should take into consideration that there is an inevitable underestimation of the uncertainty associated with this dataset.
 
@@ -40,7 +40,7 @@ The annual highest high water index informs an understanding of European coastal
 The annual highest high water (m) is calculated from tidal dyamics and sea level rise data based upon past observational data and future climate projections.  Storm surges caused by atmospheric forcing are not taken into account for this index.
 
 **Data Sources**
-The data covers the period from 1977 to 2100. It consists of a historical period, 1977-2005, based on the ERA5 reanalysis and a future period, 2070-2100, based on CMIP5 scenario RCP4.5 with medium greenhouse gas emissions. The data covers the period from 1977 to 2100. It consists of a historical period, 1977-2005, based on the ERA5 reanalysis and two future periods: 2040-2070 based on CMIP5 scenario RCP8.5 with high greenhouse gas emissions, and 2070-2100 based on CMIP5 scenario RCP4.5 with medium greenhouse gas emissions. Projected changes in the annual highest high water index are calculated relative to the mean of the historical portion of this dataset which covers the period from 1977-2005.
+The data covers the period from 1977 to 2100. It consists of a historical period, 1977-2005, based on the ERA5 reanalysis and a future period, 2070-2100, based on CMIP5 scenario RCP4.5 with medium greenhouse gas emissions. Projected changes in the annual highest high water index are calculated relative to the mean of the historical portion of this dataset which covers the period from 1977-2005.
 
 The index is generated using the Global Tide and Surge Model (GTSM, Deltares) and the Wave Model (WAM, ECMWF). High resolution forcing fields for the GTSM are provided by the Danish Meteorological Institute's regional model (HIRHAM5) which is downscaled from the EC-EARTH global climate model. Given that the projections of these climate scenarios are based on a single combination of the regional and global climate models, users of these data should take into consideration that there is an inevitable underestimation of the uncertainty associated with this dataset.
 
@@ -51,3 +51,11 @@ The data was collated on behalf of the Copernicus Climate Change Service (C3S). 
 
 **Visualisation and Navigation**
 The annual highest high water is presented for the future period 2070-2100 based on CMIP5 scenario RCP4.5 with medium greenhouse gas emissions.
+
+<br />  
+
+### NUTS Pop Up Plot
+
+|Title|SubTitle|HorizontalAxis|VerticalAxis|Labels|
+| :--- | :--- | :--- | :--- | :--- |
+|| |||, , |

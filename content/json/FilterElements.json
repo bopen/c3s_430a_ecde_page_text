@@ -88,5 +88,11 @@
         "FilterTitle": "Time period",
         "FilterSubTitle": "Choose a time period",
         "FilterPopUpText": "Choose a near future time period with high greenhouse gas emissions or a far future time period with medium greenhouse gas emissions."
+    },
+    {
+        "FilterName": "Scenario_26_45_85",
+        "FilterTitle": "Scenario",
+        "FilterSubTitle": "Choose a scenario",
+        "FilterPopUpText": "Choose a scenario with low (RCP2.6) medium (RCP4.5) or high (RCP8.5) greenhouse gas emissions"
     }
 ]
