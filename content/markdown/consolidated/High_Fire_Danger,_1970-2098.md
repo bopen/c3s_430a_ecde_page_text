@@ -11,7 +11,7 @@ High Fire Danger, 1970-2098
 The Canadian Fire Weather Index System (FWI) is used to assess fire danger in a harmonized way across Europe. The FWI uses information about fuel moisture and weather conditions to determine fire behaviour.
 
 **Definition**
-The incedence of high fire danger is expressed as the number of days per year with a FWI greater than 30.  The calculation of the FWI is based on 24-hour accumulated precipitation and daily noon values of air temperature, relative humidity, and wind speed. The projected change in the number of days with high fire danger is calculated relative to the 1986-2005 period.
+The incidence of high fire danger is expressed as the number of days per year with a FWI greater than 30.  The calculation of the FWI is based on 24-hour accumulated precipitation and daily noon values of air temperature, relative humidity, and wind speed. The projected change in the number of days with high fire danger is calculated relative to the 1986-2005 period.
 
 **Understand**
 The FWI can be understood in terms of six danger classes based on the [European Forest fire Information System (EFFIS)](https://effis.jrc.ec.europa.eu/about-effis/technical-background/fire-danger-forecast/) classification.
@@ -44,7 +44,7 @@ Statistics for the number of days with high fire danger are also available via t
 The Canadian Fire Weather Index System (FWI) is used to assess fire danger in a harmonized way across Europe. The FWI uses information about fuel moisture and weather conditions to determine fire behaviour.
 
 **Definition**
-The incedence of high fire danger is expressed as the number of days per year with a FWI greater than 30.  The calculation of the FWI is based on 24-hour accumulated precipitation and daily noon values of air temperature, relative humidity, and wind speed. The projected change in the number of days with high fire danger is calculated relative to the 1986-2005 period.
+The incidence of high fire danger is expressed as the number of days per year with a FWI greater than 30.  The calculation of the FWI is based on 24-hour accumulated precipitation and daily noon values of air temperature, relative humidity, and wind speed. The projected change in the number of days with high fire danger is calculated relative to the 1986-2005 period.
 
 **Understand**
 The FWI can be understood in terms of six danger classes based on the [European Forest fire Information System (EFFIS)](https://effis.jrc.ec.europa.eu/about-effis/technical-background/fire-danger-forecast/) classification.
