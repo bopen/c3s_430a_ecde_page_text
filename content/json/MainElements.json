@@ -740,7 +740,7 @@
             "Index_2": "24-hour accumulated precipitation and daily noon values of air temperature, relative humidity, and wind speed.",
             "Calculation_1": "The projected change in the number of days with high fire danger is calculated relative to the 1986-2005 period.",
             "Calculation_2": "The FWI is generated using the Global ECMWF Fire Forecasting model (GEFF).",
-            "Calculation_3": "The incedence of high fire danger is expressed as the number of days per year with a FWI greater than 30. ",
+            "Calculation_3": "The incidence of high fire danger is expressed as the number of days per year with a FWI greater than 30. ",
             "Calculation_4": "The projected changes to fire danger under future climate conditions are calculated relative to the 1986-2005 period.",
             "DataSource_1": "Projections from multiple global climate models downscaled to a regional climate model were used to generate the meteorological input for the GEFF model.",
             "DataSource_2": "The GEFF model was run for four different climate scenarios: the present climate (labelled 'historical'), and three Representative Concentration Pathway (RCP) scenarios consistent with an optimistic emission scenario where emissions start declining beyond 2020 (RCP2.6), a scenario where emissions start declining beyond 2040 (RCP4.5) and a pessimistic scenario where emissions continue to rise throughout the century (RCP8.5).",
