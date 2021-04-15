@@ -30,6 +30,12 @@
         "FilterPopUpText": "Choose a change period: month or annual"
     },
     {
+        "FilterName": "Change_SeasonMon",
+        "FilterTitle": "Season",
+        "FilterSubTitle": "Choose a month or season",
+        "FilterPopUpText": "Choose a seasonal change period: month or season"
+    },
+    {
         "FilterName": "Scenario_26_85",
         "FilterTitle": "Scenario",
         "FilterSubTitle": "Choose a scenario",
@@ -94,5 +100,11 @@
         "FilterTitle": "Scenario",
         "FilterSubTitle": "Choose a scenario",
         "FilterPopUpText": "Choose a scenario with low (RCP2.6) medium (RCP4.5) or high (RCP8.5) greenhouse gas emissions"
+    },
+    {
+        "FilterName": "Elevation",
+        "FilterTitle": "Elevation",
+        "FilterSubTitle": "Choose an elevation",
+        "FilterPopUpText": "Choose a land-surface elevation level."
     }
 ]

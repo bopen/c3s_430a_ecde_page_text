@@ -254,11 +254,30 @@
         "C3S_434_020": {
             "Indicator": "Projected change in the number of days with high fire danger",
             "PopUpElements": {
-                "Title": "The number of days with high fire danger in <NUTS> under <scenario>.",
+                "Title": "The projected change in the number of days with high fire danger in <NUTS> under <scenario>.",
                 "SubTitle": "Showing the ensemble mean, ensemble maximum and ensemble minimum across # CMIP5 climate models downscaled for use in the GEFF model.\nHover over the time series to display the values and the action buttons.",
                 "HorizontalAxis": "Year",
                 "VerticalAxis": "Days",
                 "Labels": "\"worst case\", \"mean\", \"best case\""
+            }
+        }
+    },
+    {
+        "C3S_434_021": {
+            "Indicator": "Projected change in total snow precipitation from November to April",
+            "PopUpElements": {
+                "Title": "The projected change in total snowfall (Nov-Apr) in <NUTS> under <scenario> at <elevation>.",
+                "SubTitle": "Showing the ensemble mean and a range of percentiles for multiple GCM RCM parings.\nHover over the time series to display the values and the action buttons.",
+                "HorizontalAxis": "Year",
+                "VerticalAxis": "kg m-2",
+                "Labels": "\"upper percentile\", \"mean\", \"lower percentile\""
+            },
+            "ClimatologyElements": {
+                "Title": "Historical (Nov-Apr) snowfall statistics from the UERRA reanalysis.",
+                "SubTitle": "",
+                "HorizontalAxis": "Year",
+                "VerticalAxis": "kg m-2",
+                "Labels": ", , "
             }
         }
     }

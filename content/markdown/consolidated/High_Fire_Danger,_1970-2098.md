@@ -28,7 +28,12 @@ The data was collated on behalf of the Copernicus Climate Change Service (C3S). 
 **Visualisation and Navigation**
 The projected change in the number of days per year with high fire danger (FWI greater than 30) is presented for three CMIP5 scenarios: RCP2.6 with low greenhouse gas emissions, RCP4.5 with medium greenhouse gas emissions and RCP8.5 with high greenhouse gas emissions.
 
-Statistics for the number of days with high fire danger are also available via the "Explore in Detail" button as national, sub-national and trans-national area-means for which time series data can be plotted.
+Statistics for the number of days with high fire danger are also available via the "Explore in Detail" button as national, sub-national and trans-national area-means for which time series data can be plotted.  
+
+|title|subtitle|popUpText|
+| :--- | :--- | :--- |
+|Scenario|Choose a scenario|Choose a scenario with low (RCP2.6) medium (RCP4.5) or high (RCP8.5) greenhouse gas emissions|
+
 
 <br />  
 
@@ -54,13 +59,20 @@ The data was collated on behalf of the Copernicus Climate Change Service (C3S). 
 ***
 
 **Visualisation and Navigation**
-The map shows the 30-year average of the number of days with high fire danger for the chosen time period and scenario plotted as area means for each region. The EUROSTAT NUTS classification ([Nomenclature of Territorial Units for Statistics](https://ec.europa.eu/eurostat/web/nuts/background)) is a hierarchical system for dividing up the economic territory of Europe. The size of the regions shown on the map can be adjusted by selecting the appropriate NUTS level: national level (NUTS-0), first sub-national level (NUTS-1), second sub-national level (NUTS-2), and third sub-national level (NUTS-3).
+The map shows the 30-year average of the projected change in the number of days with high fire danger for the chosen time period and scenario plotted as area means for each region. The EUROSTAT NUTS classification ([Nomenclature of Territorial Units for Statistics](https://ec.europa.eu/eurostat/web/nuts/background)) is a hierarchical system for dividing up the economic territory of Europe. The size of the regions shown on the map can be adjusted by selecting the appropriate NUTS level: national level (NUTS-0), first sub-national level (NUTS-1), second sub-national level (NUTS-2), and third sub-national level (NUTS-3).
 
 The regions on the map facilitate dynamic access to the underlying data. Hover the mouse pointer over a region to view the value of the area mean or click on a region to request a time series plot.  Likewise, the trans-national average for the EEA member and cooperating countries (EEA 38) can be accessed via the "Europe" bounding box.
 
-The statistical uncertainty associated with the climate projections is conveyed by showing the mean, best case, and worst case of the multi-model outcomes on the time series plot. The values represent the centres of a 30-year running average from 1971 to 2100 which results in a time series covering the period from 1986 to 2085.
+The statistical uncertainty associated with the climate projections is conveyed by showing the mean, best case, and worst case of the multi-model outcomes on the time series plot. 
 
-Click and hover the mouse over the time series plot to view the data values and to reveal action buttons for features such as “zoom” and “download plot as a png”.
+Click and hover the mouse over the time series plot to view the data values and to reveal action buttons for features such as “zoom” and “download plot as a png”.  
+
+|title|subtitle |popUpText|
+| :--- | :--- | :--- |
+|Time period|Choose a time period|Choose a 30-year period average|
+|Scenario|Choose a scenario|Choose a scenario with low (RCP2.6) medium (RCP4.5) or high (RCP8.5) greenhouse gas emissions|
+|Regional aggregation|Choose a regional aggregation size|Select the size of the regions shown on the map, from the national level (NUTS-0) to the sub-national level (NUTS-3)|
+
 
 <br />  
 
@@ -68,4 +80,4 @@ Click and hover the mouse over the time series plot to view the data values and 
 
 |Title|SubTitle|HorizontalAxis|VerticalAxis|Labels|
 | :--- | :--- | :--- | :--- | :--- |
-|The number of days with high fire danger in `<NUTS>` under `<scenario>`.|Showing the ensemble mean, ensemble maximum and ensemble minimum across # CMIP5 climate models downscaled for use in the GEFF model. Hover over the time series to display the values and the action buttons.|Year|Days|"worst case", "mean", "best case"|
+|The projected change in the number of days with high fire danger in `<NUTS>` under `<scenario>`.|Showing the ensemble mean, ensemble maximum and ensemble minimum across # CMIP5 climate models downscaled for use in the GEFF model. Hover over the time series to display the values and the action buttons.|Year|Days|"worst case", "mean", "best case"|

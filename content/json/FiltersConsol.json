@@ -562,5 +562,73 @@
                 }
             ]
         }
+    },
+    {
+        "C3S_434_020": {
+            "Indicator": "Projected change in the number of days with high fire danger",
+            "Main Filters": [
+                {
+                    "title": "Scenario",
+                    "subtitle": "Choose a scenario",
+                    "popUpText": "Choose a scenario with low (RCP2.6) medium (RCP4.5) or high (RCP8.5) greenhouse gas emissions"
+                }
+            ],
+            "Explore Filters": [
+                {
+                    "title": "Time period",
+                    "subtitle ": "Choose a time period",
+                    "popUpText": "Choose a 30-year period average"
+                },
+                {
+                    "title": "Scenario",
+                    "subtitle ": "Choose a scenario",
+                    "popUpText": "Choose a scenario with low (RCP2.6) medium (RCP4.5) or high (RCP8.5) greenhouse gas emissions"
+                },
+                {
+                    "title": "Regional aggregation",
+                    "subtitle ": "Choose a regional aggregation size",
+                    "popUpText": "Select the size of the regions shown on the map, from the national level (NUTS-0) to the sub-national level (NUTS-3)"
+                }
+            ]
+        }
+    },
+    {
+        "C3S_434_021": {
+            "Indicator": "Projected change in total snow precipitation from November to April",
+            "Main Filters": [
+                {
+                    "title": "Time period",
+                    "subtitle": "Choose a time period",
+                    "popUpText": "Choose a 30-year period average"
+                },
+                {
+                    "title": "Scenario",
+                    "subtitle": "Choose a scenario",
+                    "popUpText": "Choose a scenario with medium (RCP4.5) or high (RCP8.5) greenhouse gas emissions"
+                },
+                {
+                    "title": "Elevation",
+                    "subtitle": "Choose an elevation",
+                    "popUpText": "Choose a land-surface elevation level."
+                }
+            ],
+            "Explore Filters": [
+                {
+                    "title": "Time period",
+                    "subtitle ": "Choose a time period",
+                    "popUpText": "Choose a 30-year period average"
+                },
+                {
+                    "title": "Scenario",
+                    "subtitle ": "Choose a scenario",
+                    "popUpText": "Choose a scenario with medium (RCP4.5) or high (RCP8.5) greenhouse gas emissions"
+                },
+                {
+                    "title": "Elevation",
+                    "subtitle ": "Choose an elevation",
+                    "popUpText": "Choose a land-surface elevation level."
+                }
+            ]
+        }
     }
 ]
