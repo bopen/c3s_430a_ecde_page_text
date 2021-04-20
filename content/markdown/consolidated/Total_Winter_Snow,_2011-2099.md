@@ -11,7 +11,7 @@ Total Winter Snow, 2011-2099
 Snow indices for Europe can be used to characterize the operating conditions of winter ski resorts under future climate scenarios. They are used in the assessment of snow reliability for mountainous regions across Europe.
 
 **Definition**
-Total snow precipitation is the cumulative value of snowfall over the winter sports season (November year N-1 to April year N). The projected change in cumulative snowfall for each region and elevation is calculated relative to the [UERRA](https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-uerra-europe-complete?tab=overview) historical reanalysis data. 
+Total snow precipitation is the cumulative value of snowfall over the winter sports season (November year N-1 to April year N). The projected change in cumulative snowfall for each region and elevation is calculated relative to the 1981-2010 period of the [UERRA](https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-uerra-europe-complete?tab=overview) historical reanalysis. 
 
 **Data Sources**
 Snow indices are generated using the Crocus snowpack model, a multi-layer snowpack model embedded in the SURFEX land surface model. The SURFEX (Surface Externalisée) model is forced with atmospheric fields provided by adjusted EURO-CORDEX ensemble climate projections. The data covers the period from 2011-2099. It consists of two climate change scenarios: RCP4.5 with medium greenhouse gas emissions and RCP8.5 with high greenhouse gas emissions.
@@ -42,7 +42,7 @@ Statistics for cumulative snowfall are also available via the "Explore in Detail
 Snow indices for Europe can be used to characterize the operating conditions of winter ski resorts under future climate scenarios. They are used in the assessment of snow reliability for mountainous regions across Europe.
 
 **Definition**
-Total snow precipitation is the cumulative value of snowfall over the winter sports season (November year N-1 to April year N). The projected change in cumulative snowfall for each region and elevation is calculated relative to the [UERRA](https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-uerra-europe-complete?tab=overview) historical reanalysis data. 
+Total snow precipitation is the cumulative value of snowfall over the winter sports season (November year N-1 to April year N). The projected change in cumulative snowfall for each region and elevation is calculated relative to the 1981-2010 period of the [UERRA](https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-uerra-europe-complete?tab=overview) historical reanalysis. 
 
 **Data Sources**
 Snow indices are generated using the Crocus snowpack model, a multi-layer snowpack model embedded in the SURFEX land surface model. The SURFEX (Surface Externalisée) model is forced with atmospheric fields provided by adjusted EURO-CORDEX ensemble climate projections. The data covers the period from 2011-2099. It consists of two climate change scenarios: RCP4.5 with medium greenhouse gas emissions and RCP8.5 with high greenhouse gas emissions.
@@ -59,9 +59,9 @@ The map shows the 30-year average of the projected change in total snow precipit
 
 The regions on the map facilitate dynamic access to the underlying data. Hover the mouse pointer over a region to see it's name, if there is data at the selected elevation the area mean will also be shown. Click on a region that contains data at the selected elevation to request a century-long timeseries plot.
 
-The time series plot shows the ensemble mean and a range of percentiles derived from multiple global climate model (GCM) and regional climate model (RCM) pairings. 
+The time series plot shows the ensemble mean and range derived from eight global climate model (GCM) and regional climate model (RCM) pairings. 
 
-Click and hover the mouse over the time series plot to view the data values and to reveal action buttons for features such as “zoom” and “download plot as a png”.
+Click and hover the mouse over the time series plot to view the data values and to reveal action buttons for features such as “zoom” and “download plot as a png”.  Links below the plot enable the download of time series data in the spreadsheet compatible .csv format.
 
 This index is expressed as a change relative to a reference period so the historical time series of the UERRA reanalysis data is also shown.  
 
@@ -78,7 +78,7 @@ This index is expressed as a change relative to a reference period so the histor
 
 |Title|SubTitle|HorizontalAxis|VerticalAxis|Labels|
 | :--- | :--- | :--- | :--- | :--- |
-|The projected change in total snowfall (Nov-Apr) in `<NUTS>` under `<scenario>` at `<elevation>`.|Showing the ensemble mean and a range of percentiles for multiple GCM RCM parings. Hover over the time series to display the values and the action buttons.|Year|kg m-2|"upper percentile", "mean", "lower percentile"|
+|The projected change in total snowfall (Nov-Apr) in `<NUTS>` under `<scenario>` at `<elevation>`.|Showing the ensemble mean and range for eight GCM-RCM pairings. Hover over the time series to display the values and the action buttons.|Year|kg m-2|"max", "mean", "min"|
 
 
 <br />  

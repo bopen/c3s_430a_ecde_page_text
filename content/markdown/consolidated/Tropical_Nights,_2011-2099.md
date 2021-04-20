@@ -2,7 +2,7 @@
 Tropical Nights, 2011-2099
 ==========================
 
-# Projected change in the Number of Tropical Nights
+# Projected change in the number of tropical nights
 
 ## Main
 
@@ -63,7 +63,7 @@ The projected change of the monthly and annual number of tropical nights for the
 
 The regions on the map facilitate dynamic access to the underlying data. Hover the mouse pointer over a region to view the value of the area mean or click on a region to request a time series plot.  Likewise, the trans-national average for the EEA member and cooperating countries (EEA 38) can be accessed via the "Europe" bounding box.
 
-The time series plot shows the ensemble mean and range of tropical night responses to the chosen scenario conditions across an ensemble of five CMIP5 climate models. Click and hover the mouse over the time series plot to view the data values and to reveal action buttons for features such as “zoom” and “download plot as a png”.
+The time series plot shows the ensemble mean and range of tropical night responses to the chosen scenario conditions across an ensemble of five CMIP5 climate models. Click and hover the mouse over the time series plot to view the data values and to reveal action buttons for features such as “zoom” and “download plot as a png”.  Links below the plot enable the download of time series data in the spreadsheet compatible .csv format.
 
 This index is expressed as a change relative to a reference period so the (1981-2010) ERA5 reference climatology is also provided. The reference climate contains the mean climatology, the standard deviation from the mean, and the 5th and 95th percentiles.  
 

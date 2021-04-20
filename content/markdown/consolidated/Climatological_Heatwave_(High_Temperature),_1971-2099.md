@@ -2,7 +2,7 @@
 Climatological Heatwave (High Temperature), 1971-2099
 =====================================================
 
-# Number of Climatological Heatwave Days
+# Number of climatological heatwave days
 
 ## Main
 
@@ -57,7 +57,7 @@ The regions on the map facilitate dynamic access to the underlying data. Hover t
 
 The time series plot shows the ensemble mean and standard deviation (SD) of climatological heat wave responses to the chosen scenario conditions across the EURO-CORDEX regional climate model ensemble. The values represent the centres of a 30-year running average from 1971 to 2100 which results in a time series covering the period from 1986 to 2085.
 
-Click and hover the mouse over the time series plot to view the data values and to reveal action buttons for features such as “zoom” and “download plot as a png”.  
+Click and hover the mouse over the time series plot to view the data values and to reveal action buttons for features such as “zoom” and “download plot as a png”.  Links below the plot enable the download of time series data in the spreadsheet compatible .csv format.  
 
 |title|subtitle |popUpText|
 | :--- | :--- | :--- |

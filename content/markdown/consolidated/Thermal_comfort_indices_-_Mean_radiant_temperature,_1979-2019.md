@@ -1,8 +1,8 @@
 
-Thermal comfort indices - Mean radiant temperature, 1979-2019
+Thermal Comfort Indices - Mean Radiant Temperature, 1979-2019
 =============================================================
 
-# Mean Radiant Temperature
+# Mean radiant temperature
 
 ## Main
 
@@ -14,7 +14,7 @@ The mean radiant temperature (MRT) is a human biometeorology parameter that is u
 The mean radiant temperature (°C) is a numerical representation of how human beings experience radiation. The mean radiant temperature (MRT) is based on the principle that the net exchange of radiant energy between objects is approximately proportional to their temperature difference multiplied by their ability to emit and absorb heat (emissivity). In this context the MRT applies to a person in an outdoor environment and is a function of the direct, diffuse and reflected thermal and solar radiation they experience.  
 
 **Data Sources**
-The mean radiant temperature (MRT) is computed using solar and thermal data from the ECMWF ERA5 reanalysis and is part of the ERA5-HEAT (Human thErmAl comforT) dataset. 
+The mean radiant temperature (MRT) is computed using solar and thermal data from the ECMWF ERA5 reanalysis. 
 
 **Supporting Information**
 The data was collated on behalf of the Copernicus Climate Change Service (C3S).  Further information about this index can be found in the C3S documentation resources in the [Climate Data Store](https://cds.climate.copernicus.eu/cdsapp#!/dataset/derived-utci-historical?tab=overview).
@@ -22,7 +22,7 @@ The data was collated on behalf of the Copernicus Climate Change Service (C3S). 
 ***
 
 **Visualisation and Navigation**
-The mean radiant temperature (MRT) based on the ERA5-HEAT dataset is presented for each month and year from 1979 to 2019.
+The mean radiant temperature (MRT) is presented for each month and year from 1979 to 2019.
 
 MRT statistics are also available via the "Explore in Detail" button as national, sub-national and trans-national area-means for which time series data can be plotted.  
 
@@ -43,7 +43,7 @@ The mean radiant temperature (MRT) is a human biometeorology parameter that is u
 The mean radiant temperature (°C) is a numerical representation of how human beings experience radiation.  The mean radiant temperature (MRT) is based on the principle that the net exchange of radiant energy between objects is approximately proportional to their temperature difference multiplied by their ability to emit and absorb heat (emissivity). In this context the MRT applies to a person in an outdoor environment and is a function of the direct, diffuse and reflected thermal and solar radiation they experience.  
 
 **Data Sources**
-The mean radiant temperature (MRT) is computed using solar and thermal data from the ECMWF ERA5 reanalysis and is part of the ERA5-HEAT (Human thErmAl comforT) dataset. 
+The mean radiant temperature (MRT) is computed using solar and thermal data from the ECMWF ERA5 reanalysis. 
 
 **Supporting Information**
 The data was collated on behalf of the Copernicus Climate Change Service (C3S).  Further information about this index can be found in the C3S documentation resources in the [Climate Data Store](https://cds.climate.copernicus.eu/cdsapp#!/dataset/derived-utci-historical?tab=overview).
@@ -57,7 +57,7 @@ The regions on the map facilitate dynamic access to the underlying data. Hover t
 
 The time series plot shows the area mean MRT for the chosen region.  
 
-Click and hover the mouse over the time series plot to view the data values and to reveal action buttons for features such as “zoom” and “download plot as a png”.  
+Click and hover the mouse over the time series plot to view the data values and to reveal action buttons for features such as “zoom” and “download plot as a png”.  Links below the plot enable the download of time series data in the spreadsheet compatible .csv format.  
 
 |title|subtitle |popUpText|
 | :--- | :--- | :--- |

@@ -30,11 +30,6 @@
         "Source": "https://www.ecmwf.int/en/forecasts/datasets/reanalysis-datasets/era5"
     },
     {
-        "Term": "ERA5-HEAT",
-        "Explanation": "ERA5\u2010HEAT is a global gridded historical dataset of human thermal comfort indices calculated from the ERA5 climate reanalysis.",
-        "Source": "https://doi.org/10.1002/gdj3.102"
-    },
-    {
         "Term": "GCM",
         "Explanation": "Global Climate Model. Climate models use equations to represent the processes and interactions that drive the Earth\u2019s climate. These cover the atmosphere, oceans, land and ice-covered regions of the planet.",
         "Source": "https://www.carbonbrief.org/qa-how-do-climate-models-work"
@@ -93,5 +88,15 @@
         "Term": "SD",
         "Explanation": "Standard Deviation. The standard deviation is a measure of the amount of variation in a set of values. A low standard deviation indicates that the values tend to be close to the mean, while a high standard deviation indicates that the values are spread out over a wider range.",
         "Source": "https://en.wikipedia.org/wiki/Standard_deviation"
+    },
+    {
+        "Term": "Crocus",
+        "Explanation": "A multi-layer snowpack model embedded in the SURFEX land surface model.",
+        "Source": ""
+    },
+    {
+        "Term": "SURFEX ",
+        "Explanation": "A land surface model... ",
+        "Source": ""
     }
 ]

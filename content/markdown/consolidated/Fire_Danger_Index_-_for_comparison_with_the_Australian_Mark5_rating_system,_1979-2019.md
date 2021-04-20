@@ -1,8 +1,8 @@
 
-Fire Danger Index - for comparison with the Australian Mark5 rating system, 1979-2019
+Fire Danger Index - for Comparison with the Australian Mark5 Rating System, 1979-2019
 =====================================================================================
 
-# Fire Danger Index
+# Fire danger index
 
 ## Main
 
@@ -71,7 +71,7 @@ The regions on the map facilitate dynamic access to the underlying data. Hover t
 
 The time series plot shows the area mean fire danger index for the chosen region for each month of the chosen year. 
 
-Click and hover the mouse over the time series plot to view the data values and to reveal action buttons for features such as “zoom” and “download plot as a png”.  
+Click and hover the mouse over the time series plot to view the data values and to reveal action buttons for features such as “zoom” and “download plot as a png”.  Links below the plot enable the download of time series data in the spreadsheet compatible .csv format.  
 
 |title|subtitle |popUpText|
 | :--- | :--- | :--- |

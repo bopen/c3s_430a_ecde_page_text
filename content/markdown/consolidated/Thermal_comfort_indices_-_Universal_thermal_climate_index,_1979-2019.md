@@ -1,8 +1,8 @@
 
-Thermal comfort indices - Universal thermal climate index, 1979-2019
+Thermal Comfort Indices - Universal Thermal Climate Index, 1979-2019
 ====================================================================
 
-# Universal Thermal Climate Index
+# Universal thermal climate index
 
 ## Main
 
@@ -18,7 +18,7 @@ There are 10 UTCI thermal stress categories that correspond to specific human ph
 above +46: extreme heat stress; +38 to +46: very strong heat stress; +32 to +38: strong heat stress; +26 to +32: moderate heat stress; +9 to +26: no thermal stress; +9 to 0: slight cold stress; 0 to -13: moderate cold stress; -13 to -27: strong cold stress; -27 to -40: very strong cold stress; below -40: extreme cold stress.
 
 **Data Sources**
-The universal thermal climate index (UTCI) is computed using data from the ECMWF ERA5 reanalysis and is part of the ERA5-HEAT (Human thErmAl comforT) dataset. 
+The universal thermal climate index (UTCI) is computed using data from the ECMWF ERA5 reanalysis. 
 
 **Supporting Information**
 The data was collated on behalf of the Copernicus Climate Change Service (C3S).  Further information about this index can be found in the C3S documentation resources in the [Climate Data Store](https://cds.climate.copernicus.eu/cdsapp#!/dataset/derived-utci-historical?tab=overview).
@@ -26,7 +26,7 @@ The data was collated on behalf of the Copernicus Climate Change Service (C3S). 
 ***
 
 **Visualisation and Navigation**
-The universal thermal climate index (UTCI) based on the ERA5-HEAT dataset is presented for each month and year from 1979 to 2019.
+The universal thermal climate index (UTCI) is presented for each month and year from 1979 to 2019.
 
 UTCI statistics are also available via the "Explore in Detail" button as national, sub-national and trans-national area-means for which time series data can be plotted.  
 
@@ -51,7 +51,7 @@ There are 10 UTCI thermal stress categories that correspond to specific human ph
 above +46: extreme heat stress; +38 to +46: very strong heat stress; +32 to +38: strong heat stress; +26 to +32: moderate heat stress; +9 to +26: no thermal stress; +9 to 0: slight cold stress; 0 to -13: moderate cold stress; -13 to -27: strong cold stress; -27 to -40: very strong cold stress; below -40: extreme cold stress.
 
 **Data Sources**
-The universal thermal climate index (UTCI) is computed using data from the ECMWF ERA5 reanalysis and is part of the ERA5-HEAT (Human thErmAl comforT) dataset. 
+The universal thermal climate index (UTCI) is computed using data from the ECMWF ERA5 reanalysis. 
 
 **Supporting Information**
 The data was collated on behalf of the Copernicus Climate Change Service (C3S).  Further information about this index can be found in the C3S documentation resources in the [Climate Data Store](https://cds.climate.copernicus.eu/cdsapp#!/dataset/derived-utci-historical?tab=overview).
@@ -65,7 +65,7 @@ The regions on the map facilitate dynamic access to the underlying data. Hover t
 
 The time series plot shows the area mean UTCI for the chosen region.  
 
-Click and hover the mouse over the time series plot to view the data values and to reveal action buttons for features such as “zoom” and “download plot as a png”.  
+Click and hover the mouse over the time series plot to view the data values and to reveal action buttons for features such as “zoom” and “download plot as a png”.  Links below the plot enable the download of time series data in the spreadsheet compatible .csv format.  
 
 |title|subtitle |popUpText|
 | :--- | :--- | :--- |

@@ -59,7 +59,7 @@
     },
     {
         "C3S_434_004": {
-            "Indicator": "Fire Weather Index",
+            "Indicator": "Fire weather index",
             "Main Filters": [
                 {
                     "title": "Month",
@@ -83,7 +83,7 @@
     },
     {
         "C3S_434_005": {
-            "Indicator": "Fire Danger Index",
+            "Indicator": "Fire danger index",
             "Main Filters": [
                 {
                     "title": "Month",
@@ -107,7 +107,7 @@
     },
     {
         "C3S_434_006": {
-            "Indicator": "Number of Heat Wave Days",
+            "Indicator": "Number of heat wave days",
             "Main Filters": [
                 {
                     "title": "Definition",
@@ -146,7 +146,7 @@
     },
     {
         "C3S_434_007": {
-            "Indicator": "Mean Radiant Temperature",
+            "Indicator": "Mean radiant temperature",
             "Main Filters": [
                 {
                     "title": "Month",
@@ -175,7 +175,7 @@
     },
     {
         "C3S_434_008": {
-            "Indicator": "Universal Thermal Climate Index",
+            "Indicator": "Universal thermal climate index",
             "Main Filters": [
                 {
                     "title": "Month",
@@ -204,7 +204,7 @@
     },
     {
         "C3S_434_009": {
-            "Indicator": "Projected change in Biologically Effective Degree Days",
+            "Indicator": "Projected change in biologically effective degree days",
             "Main Filters": [
                 {
                     "title": "Time period",
@@ -248,7 +248,7 @@
     },
     {
         "C3S_434_010": {
-            "Indicator": "Projected change in the Number of Frost Days",
+            "Indicator": "Projected change in the number of frost days",
             "Main Filters": [
                 {
                     "title": "Time period",
@@ -292,7 +292,7 @@
     },
     {
         "C3S_434_011": {
-            "Indicator": "Projected change in the Number of Tropical Nights",
+            "Indicator": "Projected change in the number of tropical nights",
             "Main Filters": [
                 {
                     "title": "Time period",
@@ -336,7 +336,7 @@
     },
     {
         "C3S_434_012": {
-            "Indicator": "Projected change in Precipitation Sum",
+            "Indicator": "Projected change in precipitation sum",
             "Main Filters": [
                 {
                     "title": "Time period",
@@ -380,7 +380,7 @@
     },
     {
         "C3S_434_013": {
-            "Indicator": "Projected change in the monthly average of Daily Maximum Temperature",
+            "Indicator": "Projected change in the monthly average of daily maximum temperature",
             "Main Filters": [
                 {
                     "title": "Time period",
@@ -424,7 +424,7 @@
     },
     {
         "C3S_434_014": {
-            "Indicator": "Projected change in the monthly average of Daily Minimum Temperature",
+            "Indicator": "Projected change in the monthly average of daily minimum temperature",
             "Main Filters": [
                 {
                     "title": "Time period",
@@ -468,7 +468,7 @@
     },
     {
         "C3S_434_015": {
-            "Indicator": "Projected change in the monthly average of Daily Mean Temperature",
+            "Indicator": "Projected change in the monthly average of daily mean temperature",
             "Main Filters": [
                 {
                     "title": "Time period",
@@ -507,7 +507,7 @@
     },
     {
         "C3S_434_016": {
-            "Indicator": "Number of Health-Related Heatwave Days",
+            "Indicator": "Number of health-related heatwave days",
             "Main Filters": [
                 {
                     "title": "Scenario",
@@ -536,7 +536,7 @@
     },
     {
         "C3S_434_017": {
-            "Indicator": "Number of Climatological Heatwave Days",
+            "Indicator": "Number of climatological heatwave days",
             "Main Filters": [
                 {
                     "title": "Scenario",
