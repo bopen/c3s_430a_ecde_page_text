@@ -106,5 +106,11 @@
         "Explanation": "Standard Deviation. The standard deviation is a measure of the amount of variation in a set of values. A low standard deviation indicates that the values tend to be close to the mean, while a high standard deviation indicates that the values are spread out over a wider range.",
         "Source: Formal": "https://en.wikipedia.org/wiki/Standard_deviation",
         "Source: Informal": ""
+    },
+    {
+        "Term": "diapause",
+        "Explanation": "Diapause is a period of suspended or arrested development during an insect's life cycle, usually as a result of environmental factors.",
+        "Source: Formal": "https://www.amentsoc.org/insects/glossary/terms/diapause",
+        "Source: Informal": ""
     }
 ]
