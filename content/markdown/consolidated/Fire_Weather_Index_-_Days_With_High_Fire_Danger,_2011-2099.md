@@ -13,12 +13,12 @@ The Canadian Fire Weather Index System (FWI) is used to assess fire danger in a 
 **Definition**
 The incidence of high fire danger is expressed as the number of days per year with a FWI greater than 30.  The calculation of the FWI is based on 24-hour accumulated precipitation and daily noon values of air temperature, relative humidity, and wind speed. The projected change in the number of days with high fire danger is calculated relative to the 1986-2005 period.
 
+**Data Sources**
+The FWI is generated using the Global ECMWF Fire Forecasting model (GEFF). Projections from multiple global climate models downscaled to a regional climate model were used to generate the meteorological input for the GEFF model. The GEFF model was run for four different climate scenarios: the present climate (labelled 'historical'), and three Representative Concentration Pathway (RCP) scenarios consistent with an optimistic emission scenario where emissions start declining beyond 2020 (RCP2.6), a scenario where emissions start declining beyond 2040 (RCP4.5) and a pessimistic scenario where emissions continue to rise throughout the century (RCP8.5). The projected changes to fire danger under future climate conditions are calculated relative to the 1986-2005 period.
+
 **Understand**
 The FWI can be understood in terms of six danger classes based on the [European Forest fire Information System (EFFIS)](https://effis.jrc.ec.europa.eu/about-effis/technical-background/fire-danger-forecast/) classification.
 Very low danger: FWI is less than 5.2. Low danger: FWI is between 5.2 and 11.2. Moderate danger: FWI is between 11.2 and 21.3. High danger: FWI is between 21.3 and 38.0.  Very high danger: FWI is between 38.0 and 50. Extreme danger: FWI is greater than 50.
-
-**Data Sources**
-The FWI is generated using the Global ECMWF Fire Forecasting model (GEFF). Projections from multiple global climate models downscaled to a regional climate model were used to generate the meteorological input for the GEFF model. The GEFF model was run for four different climate scenarios: the present climate (labelled 'historical'), and three Representative Concentration Pathway (RCP) scenarios consistent with an optimistic emission scenario where emissions start declining beyond 2020 (RCP2.6), a scenario where emissions start declining beyond 2040 (RCP4.5) and a pessimistic scenario where emissions continue to rise throughout the century (RCP8.5). The projected changes to fire danger under future climate conditions are calculated relative to the 1986-2005 period.
 
 **Supporting Information**
 The data was collated on behalf of the Copernicus Climate Change Service (C3S).  Further information about this index can be found in the C3S documentation resources in the [Climate Data Store](https://cds.climate.copernicus.eu/cdsapp#!/dataset/sis-tourism-fire-danger-indicators?tab=overview).
@@ -46,12 +46,12 @@ The Canadian Fire Weather Index System (FWI) is used to assess fire danger in a 
 **Definition**
 The incidence of high fire danger is expressed as the number of days per year with a FWI greater than 30.  The calculation of the FWI is based on 24-hour accumulated precipitation and daily noon values of air temperature, relative humidity, and wind speed. The projected change in the number of days with high fire danger is calculated relative to the 1986-2005 period.
 
+**Data Sources**
+The FWI is generated using the Global ECMWF Fire Forecasting model (GEFF). Projections from multiple global climate models downscaled to a regional climate model were used to generate the meteorological input for the GEFF model. The GEFF model was run for four different climate scenarios: the present climate (labelled 'historical'), and three Representative Concentration Pathway (RCP) scenarios consistent with an optimistic emission scenario where emissions start declining beyond 2020 (RCP2.6), a scenario where emissions start declining beyond 2040 (RCP4.5) and a pessimistic scenario where emissions continue to rise throughout the century (RCP8.5). The projected changes to fire danger under future climate conditions are calculated relative to the 1986-2005 period.
+
 **Understand**
 The FWI can be understood in terms of six danger classes based on the [European Forest fire Information System (EFFIS)](https://effis.jrc.ec.europa.eu/about-effis/technical-background/fire-danger-forecast/) classification.
 Very low danger: FWI is less than 5.2. Low danger: FWI is between 5.2 and 11.2. Moderate danger: FWI is between 11.2 and 21.3. High danger: FWI is between 21.3 and 38.0.  Very high danger: FWI is between 38.0 and 50. Extreme danger: FWI is greater than 50.
-
-**Data Sources**
-The FWI is generated using the Global ECMWF Fire Forecasting model (GEFF). Projections from multiple global climate models downscaled to a regional climate model were used to generate the meteorological input for the GEFF model. The GEFF model was run for four different climate scenarios: the present climate (labelled 'historical'), and three Representative Concentration Pathway (RCP) scenarios consistent with an optimistic emission scenario where emissions start declining beyond 2020 (RCP2.6), a scenario where emissions start declining beyond 2040 (RCP4.5) and a pessimistic scenario where emissions continue to rise throughout the century (RCP8.5). The projected changes to fire danger under future climate conditions are calculated relative to the 1986-2005 period.
 
 **Supporting Information**
 The data was collated on behalf of the Copernicus Climate Change Service (C3S).  Further information about this index can be found in the C3S documentation resources in the [Climate Data Store](https://cds.climate.copernicus.eu/cdsapp#!/dataset/sis-tourism-fire-danger-indicators?tab=overview).

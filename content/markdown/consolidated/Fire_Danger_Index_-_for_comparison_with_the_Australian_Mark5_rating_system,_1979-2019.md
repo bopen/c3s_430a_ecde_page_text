@@ -13,15 +13,15 @@ Fire danger metrics are part of a dataset produced by the Copernicus Emergency M
 **Definition**
 The fire danger index is a metric related to the chances of a fire starting, its rate of spread, its intensity, and its difficulty of suppression.  The fire danger index is calculated using the Australian McArthur (Mark 5) rating system. The fire danger model used to produce the dataset is the Global ECMWF Fire Forecast model (GEFF).  The fire danger model takes into account temperature, relative humidity, wind speed, precipitation, drought conditions, fuel availability, vegetation characteristics and topography.
 
+**Data Sources**
+The fire danger index is calculated using weather forecasts from historical simulations provided by the ECMWF ERA5 reanalysis. 
+
 **Understand**
 It is customary to quote a danger class as well as an index number. The fire danger index relates to 6 classes of danger as follows:
 0 to 11: low to moderate; 12 to 25: high; 25 to 49: very high.
 Thereafter the danger class depends on the type of vegetation, forest or grassland. 
 Forest danger classes are: 50 to 75: severe; 75 to 99: extreme; greater than 100: catastrophic.
 Grassland danger classes are: 50 to 99: severe; 100 to 149: extreme; greater than 150: catastrophic.
-
-**Data Sources**
-The fire danger index is calculated using weather forecasts from historical simulations provided by the ECMWF ERA5 reanalysis. 
 
 **Supporting Information**
 The data was collated on behalf of the Copernicus Climate Change Service (C3S).  Further information about this index can be found in the C3S documentation resources in the [Climate Data Store](https://cds.climate.copernicus.eu/cdsapp#!/dataset/cems-fire-historical?tab=overview).
@@ -49,15 +49,15 @@ Fire danger metrics are part of a dataset produced by the Copernicus Emergency M
 **Definition**
 The fire danger index is a metric related to the chances of a fire starting, its rate of spread, its intensity, and its difficulty of suppression.   The fire danger index is calculated using the Australian McArthur (Mark 5) rating system. The fire danger model used to produce the dataset is the Global ECMWF Fire Forecast model (GEFF).  The fire danger model takes into account temperature, relative humidity, wind speed, precipitation, drought conditions, fuel availability, vegetation characteristics and topography.
 
+**Data Sources**
+The fire danger index is calculated using weather forecasts from historical simulations provided by the ECMWF ERA5 reanalysis. 
+
 **Understand**
 It is customary to quote a danger class as well as an index number. The fire danger index relates to 6 classes of danger as follows:
 0 to 11: low to moderate; 12 to 25: high; 25 to 49: very high.
 Thereafter the danger class depends on the type of vegetation, forest or grassland. 
 Forest danger classes are: 50 to 75: severe; 75 to 99: extreme; greater than 100: catastrophic.
 Grassland danger classes are: 50 to 99: severe; 100 to 149: extreme; greater than 150: catastrophic.
-
-**Data Sources**
-The fire danger index is calculated using weather forecasts from historical simulations provided by the ECMWF ERA5 reanalysis. 
 
 **Supporting Information**
 The data was collated on behalf of the Copernicus Climate Change Service (C3S).  Further information about this index can be found in the C3S documentation resources in the [Climate Data Store](https://cds.climate.copernicus.eu/cdsapp#!/dataset/cems-fire-historical?tab=overview).

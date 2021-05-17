@@ -13,12 +13,12 @@ The Canadian Fire Weather Index System (FWI) is used to assess fire danger in a 
 **Definition**
 The fire weather index indicates fire intensity by combining the rate of fire spread with the amount of fuel being consumed. The fire weather index is calculated using the Canadian Forest Service Fire Weather Index rating system (FWI). The fire danger model used to produce the dataset is the Global ECMWF Fire Forecast model (GEFF).  The fire danger model takes into account temperature, relative humidity, wind speed, precipitation, drought conditions, fuel availability, vegetation characteristics and topography.
 
+**Data Sources**
+The fire weather index is calculated using weather forecasts from historical simulations provided by the ECMWF ERA5 reanalysis. The fire weather index is part of a dataset produced by the Copernicus Emergency Management Service (CEMS) for the [European Forest fire Information System (EFFIS)](https://effis.jrc.ec.europa.eu/about-effis/technical-background/fire-danger-forecast/).
+
 **Understand**
 It is customary to quote a danger class as well as an index number. The fire weather index can be categorised into 6 classes of danger as follows:
 Very low danger: FWI is less than 5.2. Low danger: FWI is between 5.2 and 11.2. Moderate danger: FWI is between 11.2 and 21.3. High danger: FWI is between 21.3 and 38.0.  Very high danger: FWI is between 38.0 and 50. Extreme danger: FWI is greater than 50.
-
-**Data Sources**
-The fire weather index is calculated using weather forecasts from historical simulations provided by the ECMWF ERA5 reanalysis. The fire weather index is part of a dataset produced by the Copernicus Emergency Management Service (CEMS) for the [European Forest fire Information System (EFFIS)](https://effis.jrc.ec.europa.eu/about-effis/technical-background/fire-danger-forecast/).
 
 **Supporting Information**
 The data was collated on behalf of the Copernicus Climate Change Service (C3S).  Further information about this index can be found in the C3S documentation resources in the [Climate Data Store](https://cds.climate.copernicus.eu/cdsapp#!/dataset/cems-fire-historical?tab=overview).
@@ -46,12 +46,12 @@ The Canadian Fire Weather Index System (FWI) is used to assess fire danger in a 
 **Definition**
 The fire weather index indicates fire intensity by combining the rate of fire spread with the amount of fuel being consumed.  The fire weather index is calculated using the Canadian Forest Service Fire Weather Index rating system (FWI). The fire danger model used to produce the dataset is the Global ECMWF Fire Forecast model (GEFF).  The fire danger model takes into account temperature, relative humidity, wind speed, precipitation, drought conditions, fuel availability, vegetation characteristics and topography.
 
+**Data Sources**
+The fire weather index is calculated using weather forecasts from historical simulations provided by the ECMWF ERA5 reanalysis. The fire weather index is part of a dataset produced by the Copernicus Emergency Management Service (CEMS) for the [European Forest fire Information System (EFFIS)](https://effis.jrc.ec.europa.eu/about-effis/technical-background/fire-danger-forecast/).
+
 **Understand**
 It is customary to quote a danger class as well as an index number. The fire weather index can be categorised into 6 classes of danger as follows:
 Very low danger: FWI is less than 5.2. Low danger: FWI is between 5.2 and 11.2. Moderate danger: FWI is between 11.2 and 21.3. High danger: FWI is between 21.3 and 38.0.  Very high danger: FWI is between 38.0 and 50. Extreme danger: FWI is greater than 50.
-
-**Data Sources**
-The fire weather index is calculated using weather forecasts from historical simulations provided by the ECMWF ERA5 reanalysis. The fire weather index is part of a dataset produced by the Copernicus Emergency Management Service (CEMS) for the [European Forest fire Information System (EFFIS)](https://effis.jrc.ec.europa.eu/about-effis/technical-background/fire-danger-forecast/).
 
 **Supporting Information**
 The data was collated on behalf of the Copernicus Climate Change Service (C3S).  Further information about this index can be found in the C3S documentation resources in the [Climate Data Store](https://cds.climate.copernicus.eu/cdsapp#!/dataset/cems-fire-historical?tab=overview).

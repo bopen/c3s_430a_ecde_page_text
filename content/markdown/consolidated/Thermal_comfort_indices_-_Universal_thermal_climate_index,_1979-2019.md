@@ -13,12 +13,12 @@ The universal thermal climate index (UTCI) is a human biometeorology parameter t
 **Definition**
 The universal thermal climate index (UTCI) is an equivalent temperature (°C), it is a measure of the human physiological response to the thermal environment. The universal thermal climate index (UTCI) describes the synergistic heat exchanges between the thermal environment and the human body, namely its energy budget, physiology and clothing. UTCI takes into consideration the clothing adaptation of the population in response to actual environmental temperature. There are four variables required to calculate the UTCI: 2m air temperature, 2m dew point temperature (or relative humidity), wind speed at 10m above ground level and mean radiant temperature (MRT).
 
+**Data Sources**
+The universal thermal climate index (UTCI) is computed using data from the ECMWF ERA5 reanalysis. 
+
 **Understand**
 There are 10 UTCI thermal stress categories that correspond to specific human physiological responses to the thermal environment. The categories relate to UTCI values as follows:
 above +46: extreme heat stress; +38 to +46: very strong heat stress; +32 to +38: strong heat stress; +26 to +32: moderate heat stress; +9 to +26: no thermal stress; +9 to 0: slight cold stress; 0 to -13: moderate cold stress; -13 to -27: strong cold stress; -27 to -40: very strong cold stress; below -40: extreme cold stress.
-
-**Data Sources**
-The universal thermal climate index (UTCI) is computed using data from the ECMWF ERA5 reanalysis. 
 
 **Supporting Information**
 The data was collated on behalf of the Copernicus Climate Change Service (C3S).  Further information about this index can be found in the C3S documentation resources in the [Climate Data Store](https://cds.climate.copernicus.eu/cdsapp#!/dataset/derived-utci-historical?tab=overview).
@@ -46,12 +46,12 @@ The universal thermal climate index (UTCI) is a human biometeorology parameter t
 **Definition**
 The universal thermal climate index (UTCI) is an equivalent temperature (°C), it is a measure of the human physiological response to the thermal environment.  The universal thermal climate index (UTCI) describes the synergistic heat exchanges between the thermal environment and the human body, namely its energy budget, physiology and clothing. UTCI takes into consideration the clothing adaptation of the population in response to actual environmental temperature. There are four variables required to calculate the UTCI: 2m air temperature, 2m dew point temperature (or relative humidity), wind speed at 10m above ground level and mean radiant temperature (MRT).
 
+**Data Sources**
+The universal thermal climate index (UTCI) is computed using data from the ECMWF ERA5 reanalysis. 
+
 **Understand**
 There are 10 UTCI thermal stress categories that correspond to specific human physiological responses to the thermal environment. The categories relate to UTCI values as follows:
 above +46: extreme heat stress; +38 to +46: very strong heat stress; +32 to +38: strong heat stress; +26 to +32: moderate heat stress; +9 to +26: no thermal stress; +9 to 0: slight cold stress; 0 to -13: moderate cold stress; -13 to -27: strong cold stress; -27 to -40: very strong cold stress; below -40: extreme cold stress.
-
-**Data Sources**
-The universal thermal climate index (UTCI) is computed using data from the ECMWF ERA5 reanalysis. 
 
 **Supporting Information**
 The data was collated on behalf of the Copernicus Climate Change Service (C3S).  Further information about this index can be found in the C3S documentation resources in the [Climate Data Store](https://cds.climate.copernicus.eu/cdsapp#!/dataset/derived-utci-historical?tab=overview).

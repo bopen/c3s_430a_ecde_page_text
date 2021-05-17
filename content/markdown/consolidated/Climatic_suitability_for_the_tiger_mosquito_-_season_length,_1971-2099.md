@@ -13,11 +13,11 @@ The tiger mosquito (Aedes albopictus) transmits vector-borne diseases, such as d
 **Definition**
 The season length, in days, of the climatic suitability for the presence of the tiger mosquito is determined by temperature statistics and hours of sunlight (photoperiod). The egg hatching in spring is based on two criteria: the photoperiod should be above 11.25 hours and the spring temperature should be above 10.5 °C. The autumn diapause of the mosquito is determined by the autumn temperature that should be below 9.5 °C and the photoperiod that should be below 13.5 hours.
 
-**Understand**
-The duration of tiger mosquito presence is also known as the mosquito season.  It begins when the insect’s eggs hatch after winter and continues until the eggs are no longer hatching (going in diapause) in autumn.
-
 **Data Sources**
 The season length for tiger mosquito suitability is calculated using bias-adjusted EURO-CORDEX data for two CMIP5 scenarios with different possible future greenhouse gas emissions: RCP4.5 (medium emissions) and RCP8.5 (high emissions). The data covers the period 1971 to 2099 and statistics are averaged for 30 years in overlapping time periods set 10 years apart.  Finally, the time series are averaged for the model ensemble.
+
+**Understand**
+The duration of tiger mosquito presence is also known as the mosquito season.  It begins when the insect’s eggs hatch after winter and continues until the eggs are no longer hatching (going in diapause) in autumn.
 
 **Supporting Information**
 The data was collated on behalf of the Copernicus Climate Change Service (C3S).  Further information about this index can be found in the C3S documentation resources in the [Climate Data Store](https://cds.climate.copernicus.eu/cdsapp#!/dataset/sis-health-vector?tab=overview).
@@ -45,11 +45,11 @@ The tiger mosquito (Aedes albopictus) transmits vector-borne diseases, such as d
 **Definition**
 The season length, in days, of the climatic suitability for the presence of the tiger mosquito is determined by temperature statistics and hours of sunlight (photoperiod). The egg hatching in spring is based on two criteria: the photoperiod should be above 11.25 hours and the spring temperature should be above 10.5 °C. The autumn diapause of the mosquito is determined by the autumn temperature that should be below 9.5 °C and the photoperiod that should be below 13.5 hours.
 
-**Understand**
-The duration of tiger mosquito presence is also known as the mosquito season.  It begins when the insect’s eggs hatch after winter and continues until the eggs are no longer hatching (going in diapause) in autumn.
-
 **Data Sources**
 The season length for tiger mosquito suitability is calculated using bias-adjusted EURO-CORDEX data for two CMIP5 scenarios with different possible future greenhouse gas emissions: RCP4.5 (medium emissions) and RCP8.5 (high emissions). The data covers the period 1971 to 2099 and statistics are averaged for 30 years in overlapping time periods set 10 years apart.  Finally, the time series are averaged for the model ensemble.
+
+**Understand**
+The duration of tiger mosquito presence is also known as the mosquito season.  It begins when the insect’s eggs hatch after winter and continues until the eggs are no longer hatching (going in diapause) in autumn.
 
 **Supporting Information**
 The data was collated on behalf of the Copernicus Climate Change Service (C3S).  Further information about this index can be found in the C3S documentation resources in the [Climate Data Store](https://cds.climate.copernicus.eu/cdsapp#!/dataset/sis-health-vector?tab=overview).
