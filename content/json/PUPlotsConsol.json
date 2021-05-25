@@ -280,5 +280,24 @@
                 "Labels": ", , "
             }
         }
+    },
+    {
+        "C3S_434_022": {
+            "Indicator": "Projected change in the period with a high amount of natural snow",
+            "PopUpElements": {
+                "Title": "The projected change in the number of days with a high amount of natural snow (Aug-Jul) in <NUTS> under <scenario> at <elevation>.",
+                "SubTitle": "Showing the ensemble mean and range for eight GCM-RCM pairings.\nHover over the time series to display the values and the action buttons.",
+                "HorizontalAxis": "Year",
+                "VerticalAxis": "Days",
+                "Labels": "\"max\", \"mean\", \"min\""
+            },
+            "ClimatologyElements": {
+                "Title": "Historical (Aug-Jul) days with high natural snow amount from the UERRA reanalysis.",
+                "SubTitle": "",
+                "HorizontalAxis": "Year",
+                "VerticalAxis": "Days",
+                "Labels": ", , "
+            }
+        }
     }
 ]
