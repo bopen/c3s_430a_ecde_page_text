@@ -8,7 +8,7 @@ Health Heatwave (High Temperature and Humidity), 1971-2099
 
 
 **Context**
-A health-related heatwave is a prolonged period of extremely high temperature and humidity for a particular region during which daily minima and maxima both exceed thresholds.  Heatwaves have consequences for health, agriculture, power, wildfire and infrastructure. 
+A health-related heatwave is a prolonged period of extremely high temperature and humidity for a particular region during which daily minima and maxima both exceed thresholds.  Heatwaves with high humidity are problematic for human health and well-being.
 
 **Definition**
 The annual number of heatwave days is based on the heatwave definition used by the health community. A health-related heatwave is considered to be a period of at least 2 consecutive days on which the maximum apparent temperature (Tappmax) exceeds the 90th percentile of Tappmax and the minimum temperature (Tmin) exceeds the 90th percentile of Tmin. Health heatwaves are calculated for each month of the summer period between June and August.  The apparent temperature is a measure of relative discomfort due to combined heat and high humidity.
@@ -37,7 +37,7 @@ Statistics for the number of health-related heatwave days are also available via
 
 
 **Context**
-A health-related heatwave is a prolonged period of extremely high temperature and humidity for a particular region during which daily minima and maxima both exceed thresholds.  Heatwaves have consequences for health, agriculture, power, wildfire and infrastructure. 
+A health-related heatwave is a prolonged period of extremely high temperature and humidity for a particular region during which daily minima and maxima both exceed thresholds.  Heatwaves with high humidity are problematic for human health and well-being.
 
 **Definition**
 The annual number of heatwave days is based on the heatwave definition used by the health community. A health-related heatwave is considered to be a period of at least 2 consecutive days on which the maximum apparent temperature (Tappmax) exceeds the 90th percentile of Tappmax and the minimum temperature (Tmin) exceeds the 90th percentile of Tmin. Health heatwaves are calculated for each month of the summer period between June and August.  The apparent temperature is a measure of relative discomfort due to combined heat and high humidity.
