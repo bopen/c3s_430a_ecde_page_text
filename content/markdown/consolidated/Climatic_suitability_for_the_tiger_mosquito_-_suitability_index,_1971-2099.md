@@ -11,7 +11,7 @@ Climatic Suitability for the Tiger Mosquito - Suitability Index, 1971-2099
 The tiger mosquito (Aedes albopictus) transmits vector-borne diseases, such as dengue and chikungunya. Environmental factors such as temperature and rainfall impact the survival chance and seasonal activity of the tiger mosquito which is a serious threat for human health in Europe.
 
 **Definition**
-The climatic suitability index for the presence of the tiger mosquito  is determined by January temperature and annual rainfall statistics. If the January temperature is below 0 °C and the annual rainfall below 500 mm, then the location is not suitable for the mosquito to survive the winter.
+The climatic suitability index for the presence of the tiger mosquito is determined by annual rainfall, summer temperatures and January temperatures. For annual rainfall, the suitability is zero when rainfall is lower than 450 mm, maximum suitability is reached when the annual rainfall is higher than 800 mm. For summer temperatures, the suitability is zero when temperatures are lower than 15 °C and higher than 30 °C, and maximum between 20 °C and 25 °C. For January temperatures, the suitability is zero when temperatures are lower than - 1°C and maximum when temperatures are higher than 3 °C. 
 
 **Data Sources**
 The tiger mosquito suitability statistics are calculated using bias-adjusted EURO-CORDEX data for two CMIP5 scenarios with different possible future greenhouse gas emissions: RCP4.5 (medium emissions) and RCP8.5 (high emissions). The data covers the period 1971 to 2099 and statistics are averaged for 30 years in overlapping time periods set 10 years apart.  Finally, the time series are averaged for the model ensemble.
@@ -43,7 +43,7 @@ Statistics for the climatic suitability index of the tiger mosquito are also ava
 The tiger mosquito (Aedes albopictus) transmits vector-borne diseases, such as dengue and chikungunya. Environmental factors such as temperature and rainfall impact the survival chance and seasonal activity of the tiger mosquito which is a serious threat for human health in Europe.
 
 **Definition**
-The climatic suitability index for the presence of the tiger mosquito  is determined by January temperature and annual rainfall statistics. If the January temperature is below 0 °C and the annual rainfall below 500 mm, then the location is not suitable for the mosquito to survive the winter.
+The climatic suitability index for the presence of the tiger mosquito is determined by annual rainfall, summer temperatures and January temperatures. For annual rainfall, the suitability is zero when rainfall is lower than 450 mm, maximum suitability is reached when the annual rainfall is higher than 800 mm. For summer temperatures, the suitability is zero when temperatures are lower than 15 °C and higher than 30 °C, and maximum between 20 °C and 25 °C. For January temperatures, the suitability is zero when temperatures are lower than - 1°C and maximum when temperatures are higher than 3 °C. 
 
 **Data Sources**
 The tiger mosquito suitability statistics are calculated using bias-adjusted EURO-CORDEX data for two CMIP5 scenarios with different possible future greenhouse gas emissions: RCP4.5 (medium emissions) and RCP8.5 (high emissions). The data covers the period 1971 to 2099 and statistics are averaged for 30 years in overlapping time periods set 10 years apart.  Finally, the time series are averaged for the model ensemble.
