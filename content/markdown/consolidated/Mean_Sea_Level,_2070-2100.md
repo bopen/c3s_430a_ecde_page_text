@@ -24,9 +24,9 @@ The data was collated on behalf of the Copernicus Climate Change Service (C3S). 
 ***
 
 **Visualisation and Navigation**
-The mean sea level is presented for the future period 2070-2100 based on CMIP5 scenario RCP4.5 with medium greenhouse gas emissions.
+The projected change in mean sea level is presented for the future period 2070-2100 based on CMIP5 scenario RCP4.5 with medium greenhouse gas emissions.
 
-Further statistics for mean sea level are also available via the "Explore in Detail" button .
+Regional statistics for the projected change in mean sea level are also available via the "Explore in Detail" button .
 
 <br />  
 
@@ -50,7 +50,7 @@ The data was collated on behalf of the Copernicus Climate Change Service (C3S). 
 ***
 
 **Visualisation and Navigation**
-The mean sea level is presented for the future period 2070-2100 based on CMIP5 scenario RCP4.5 with medium greenhouse gas emissions.
+The projected change in mean sea level is presented for the future period 2070-2100 based on CMIP5 scenario RCP4.5 with medium greenhouse gas emissions.
 
 <br />  
 
