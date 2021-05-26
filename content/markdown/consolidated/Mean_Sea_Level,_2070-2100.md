@@ -11,7 +11,7 @@ Mean Sea Level, 2070-2100
 The mean sea level index informs an understanding of European coastal hydrodynamics under the impact of climate change. It provides added value for various coastal sectors and studies such as port, shipping, and coastal management with particular relvance to coastal management.
 
 **Definition**
-The mean sea level (m) is calculated from tidal dyamics and sea level rise data based upon past observational data and future climate projections.  Projected changes in the mean sea level index are calculated relative to the mean of the mean sea level during the historical portion of this dataset which covers the period from 1977-2005. Storm surges caused by atmospheric forcing, and coastal subsidence and/or uplifting  are not taken into account for this index.
+The projected change in mean sea level (m) is calculated relative to the mean of the mean sea level during the historical period from 1977-2005. Tidal dyamics and sea level rise data are taken into account in the calculation of this index. However, storm surges caused by atmospheric forcing, and coastal subsidence and/or uplifting are not taken into account for this index.
 
 **Data Sources**
 The data covers the period from 2070 to 2100 based on CMIP5 scenario RCP4.5 with medium greenhouse gas emissions.
@@ -37,7 +37,7 @@ Further statistics for mean sea level are also available via the "Explore in Det
 The mean sea level index informs an understanding of European coastal hydrodynamics under the impact of climate change. It provides added value for various coastal sectors and studies such as port, shipping, and coastal management with particular relvance to coastal management.
 
 **Definition**
-The mean sea level (m) is calculated from tidal dyamics and sea level rise data based upon past observational data and future climate projections.  Projected changes in the mean sea level index are calculated relative to the mean of the mean sea level during the historical portion of this dataset which covers the period from 1977-2005. Storm surges caused by atmospheric forcing, and coastal subsidence and/or uplifting  are not taken into account for this index.
+The projected change in mean sea level (m) is calculated relative to the mean of the mean sea level during the historical period from 1977-2005. Tidal dyamics and sea level rise data are taken into account in the calculation of this index. However, storm surges caused by atmospheric forcing, and coastal subsidence and/or uplifting are not taken into account for this index.
 
 **Data Sources**
 The data covers the period from 2070 to 2100 based on CMIP5 scenario RCP4.5 with medium greenhouse gas emissions.
