@@ -364,7 +364,7 @@
     },
     {
         "C3S_434_013": {
-            "IndexTitle": "Projected change in the monthly average of daily maximum temperature",
+            "IndexTitle": "Projected change in monthly and seasonal statistics of daily maximum 2m air temperature",
             "Filter_1": "MaxTemp",
             "Filter_2": "Time_30yr_2011_2099",
             "Filter_3": "Change_Mon",
@@ -379,7 +379,7 @@
             "PUActionsShort": "Hover over the time series to display the values and the action buttons.",
             "IfAnomaly_1": "This index is expressed as a change relative to a reference period so the (1981-2010) ERA5 reference climatology is also provided.",
             "IfAnomaly_2": "The reference climate contains the mean climatology, the standard deviation from the mean, and the 5th and 95th percentiles.",
-            "PopUpTitle": "The projected change in <anomaly period> average daily maximum temperature in <NUTS> under <scenario> for <time period>.",
+            "PopUpTitle": "The projected change in the <<month>/<season> seasonal mean of the monthly/annual mean of the monthly> <maximum/mean/minimum> value of daily maximum 2m surface air temperature in <NUTS> under <scenario>.",
             "PopUpSubtitle": "Showing the ensemble mean, ensemble maximum and ensemble minimum across 5 CMIP5 climate models.",
             "PopUpHorizAxis": "Year",
             "PopUpVertAxis": "\u00b0C",
@@ -397,7 +397,7 @@
     },
     {
         "C3S_434_014": {
-            "IndexTitle": "Projected change in the monthly average of daily minimum temperature",
+            "IndexTitle": "Projected change in monthly and seasonal statistics of daily minimum 2m air temperature",
             "Filter_1": "MinTemp",
             "Filter_2": "Time_30yr_2011_2099",
             "Filter_3": "Change_Mon",
@@ -412,7 +412,7 @@
             "PUActionsShort": "Hover over the time series to display the values and the action buttons.",
             "IfAnomaly_1": "This index is expressed as a change relative to a reference period so the (1981-2010) ERA5 reference climatology is also provided.",
             "IfAnomaly_2": "The reference climate contains the mean climatology, the standard deviation from the mean, and the 5th and 95th percentiles.",
-            "PopUpTitle": "The projected change in <anomaly period> average daily minimum temperature in <NUTS> under <scenario> for <time period>.",
+            "PopUpTitle": "The projected change in the <<month>/<season> seasonal mean of the monthly/annual mean of the monthly> <maximum/mean/minimum> value of daily minimum 2m surface air temperature in <NUTS> under <scenario>.",
             "PopUpSubtitle": "Showing the ensemble mean, ensemble maximum and ensemble minimum across 5 CMIP5 climate models.",
             "PopUpHorizAxis": "Year",
             "PopUpVertAxis": "\u00b0C",
@@ -430,7 +430,7 @@
     },
     {
         "C3S_434_015": {
-            "IndexTitle": "Projected change in the monthly average of daily mean temperature",
+            "IndexTitle": "Projected change in monthly and seasonal statistics of daily mean 2m suface air temperature",
             "Filter_1": "Time_30yr_2011_2099",
             "Filter_2": "Change_Mon",
             "Filter_3": "Scenario_26_85",
@@ -445,7 +445,7 @@
             "PUActionsShort": "Hover over the time series to display the values and the action buttons.",
             "IfAnomaly_1": "This index is expressed as a change relative to a reference period so the (1981-2010) ERA5 reference climatology is also provided.",
             "IfAnomaly_2": "The reference climate contains the mean climatology, the standard deviation from the mean, and the 5th and 95th percentiles.",
-            "PopUpTitle": "The projected change in <anomaly period> average daily mean temperature in <NUTS> under <scenario> for <time period>.",
+            "PopUpTitle": "The projected change in the <<month>/<season> seasonal mean of the monthly/annual mean of the monthly> mean value of daily mean 2m surface air temperature in <NUTS> under <scenario>.",
             "PopUpSubtitle": "Showing the ensemble mean, ensemble maximum and ensemble minimum across 5 CMIP5 climate models.",
             "PopUpHorizAxis": "Year",
             "PopUpVertAxis": "\u00b0C",

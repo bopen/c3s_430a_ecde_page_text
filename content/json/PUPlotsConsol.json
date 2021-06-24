@@ -147,9 +147,9 @@
     },
     {
         "C3S_434_013": {
-            "Indicator": "Projected change in the monthly average of daily maximum temperature",
+            "Indicator": "Projected change in monthly and seasonal statistics of daily maximum 2m air temperature",
             "PopUpElements": {
-                "Title": "The projected change in <anomaly period> average daily maximum temperature in <NUTS> under <scenario> for <time period>.",
+                "Title": "The projected change in the <<month>/<season> seasonal mean of the monthly/annual mean of the monthly> <maximum/mean/minimum> value of daily maximum 2m surface air temperature in <NUTS> under <scenario>.",
                 "SubTitle": "Showing the ensemble mean, ensemble maximum and ensemble minimum across 5 CMIP5 climate models.\nHover over the time series to display the values and the action buttons.",
                 "HorizontalAxis": "Year",
                 "VerticalAxis": "\u00b0C",
@@ -166,9 +166,9 @@
     },
     {
         "C3S_434_014": {
-            "Indicator": "Projected change in the monthly average of daily minimum temperature",
+            "Indicator": "Projected change in monthly and seasonal statistics of daily minimum 2m air temperature",
             "PopUpElements": {
-                "Title": "The projected change in <anomaly period> average daily minimum temperature in <NUTS> under <scenario> for <time period>.",
+                "Title": "The projected change in the <<month>/<season> seasonal mean of the monthly/annual mean of the monthly> <maximum/mean/minimum> value of daily minimum 2m surface air temperature in <NUTS> under <scenario>.",
                 "SubTitle": "Showing the ensemble mean, ensemble maximum and ensemble minimum across 5 CMIP5 climate models.\nHover over the time series to display the values and the action buttons.",
                 "HorizontalAxis": "Year",
                 "VerticalAxis": "\u00b0C",
@@ -185,9 +185,9 @@
     },
     {
         "C3S_434_015": {
-            "Indicator": "Projected change in the monthly average of daily mean temperature",
+            "Indicator": "Projected change in monthly and seasonal statistics of daily mean 2m suface air temperature",
             "PopUpElements": {
-                "Title": "The projected change in <anomaly period> average daily mean temperature in <NUTS> under <scenario> for <time period>.",
+                "Title": "The projected change in the <<month>/<season> seasonal mean of the monthly/annual mean of the monthly> mean value of daily mean 2m surface air temperature in <NUTS> under <scenario>.",
                 "SubTitle": "Showing the ensemble mean, ensemble maximum and ensemble minimum across 5 CMIP5 climate models.\nHover over the time series to display the values and the action buttons.",
                 "HorizontalAxis": "Year",
                 "VerticalAxis": "\u00b0C",

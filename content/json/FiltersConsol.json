@@ -380,7 +380,7 @@
     },
     {
         "C3S_434_013": {
-            "Indicator": "Projected change in the monthly average of daily maximum temperature",
+            "Indicator": "Projected change in monthly and seasonal statistics of daily maximum 2m air temperature",
             "Main Filters": [
                 {
                     "title": "Time period",
@@ -424,7 +424,7 @@
     },
     {
         "C3S_434_014": {
-            "Indicator": "Projected change in the monthly average of daily minimum temperature",
+            "Indicator": "Projected change in monthly and seasonal statistics of daily minimum 2m air temperature",
             "Main Filters": [
                 {
                     "title": "Time period",
@@ -468,7 +468,7 @@
     },
     {
         "C3S_434_015": {
-            "Indicator": "Projected change in the monthly average of daily mean temperature",
+            "Indicator": "Projected change in monthly and seasonal statistics of daily mean 2m suface air temperature",
             "Main Filters": [
                 {
                     "title": "Time period",
