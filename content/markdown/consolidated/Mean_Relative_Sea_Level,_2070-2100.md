@@ -11,7 +11,7 @@ Mean Relative Sea Level, 2070-2100
 The mean relative sea level index informs an understanding of European coastal hydrodynamics under the impact of climate change. It provides added value for various coastal sectors and studies such as port, shipping, and coastal management with particular relvance to coastal management.
 
 **Definition**
-The projected change in mean relative sea level (m) is calculated relative to the mean of the mean sea level during the historical period from 1977-2005. Tidal dynamics, and sea level change data from climate models are taken into account in the calculation of this index. Storm surges caused by atmospheric forcing are not taken into account for this index.
+The projected change in mean relative sea level (m) is calculated relative to the mean of the mean sea level during the historical period from 1977-2005. Tidal dynamics, sea level change data from climate models, and large-scale long-term changes to land height due to post-glacial rebound are taken into account in the calculation of this index. Storm surges caused by atmospheric forcing are not taken into account for this index.
 
 **Data Sources**
 The data covers the period from 2070 to 2100 based on CMIP5 scenario RCP4.5 with medium greenhouse gas emissions.
@@ -41,7 +41,7 @@ Regional statistics for the projected change in mean relative sea level are also
 The mean relative sea level index informs an understanding of European coastal hydrodynamics under the impact of climate change. It provides added value for various coastal sectors and studies such as port, shipping, and coastal management with particular relvance to coastal management.
 
 **Definition**
-The projected change in mean relative sea level (m) is calculated relative to the mean of the mean sea level during the historical period from 1977-2005. Tidal dynamics, and sea level change data from climate models are taken into account in the calculation of this index. Storm surges caused by atmospheric forcing are not taken into account for this index.
+The projected change in mean relative sea level (m) is calculated relative to the mean of the mean sea level during the historical period from 1977-2005. Tidal dynamics, sea level change data from climate models, and large-scale long-term changes to land height due to post-glacial rebound are taken into account in the calculation of this index. Storm surges caused by atmospheric forcing are not taken into account for this index.
 
 **Data Sources**
 The data covers the period from 2070 to 2100 based on CMIP5 scenario RCP4.5 with medium greenhouse gas emissions.
