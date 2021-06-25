@@ -157,7 +157,7 @@
             },
             "ClimatologyElements": {
                 "Title": "Climatology statistics for the monthly mean of daily maximum temperature for the period 1981-2010.",
-                "SubTitle": "Based on ERA5 reanalysis data and showing the mean, standard deviation, and 5th and 95th percentiles of the climatology.",
+                "SubTitle": "Based on ERA5 reanalysis data and showing the mean, standard deviation, and 5th and 95th percentiles of the climatology.  The monthly mean climatology shown here is independent of the choice made in the selection menu.",
                 "HorizontalAxis": "Month",
                 "VerticalAxis": "\u00b0C",
                 "Labels": "mean and standard deviation, 5th percentile, 95th percentile"
@@ -176,7 +176,7 @@
             },
             "ClimatologyElements": {
                 "Title": "Climatology statistics for the monthly mean of daily minimum temperature for the period 1981-2010.",
-                "SubTitle": "Based on ERA5 reanalysis data and showing the mean, standard deviation, and 5th and 95th percentiles of the climatology.",
+                "SubTitle": "Based on ERA5 reanalysis data and showing the mean, standard deviation, and 5th and 95th percentiles of the climatology.  The monthly mean climatology shown here is independent of the choice made in the selection menu.",
                 "HorizontalAxis": "Month",
                 "VerticalAxis": "\u00b0C",
                 "Labels": "mean and standard deviation, 5th percentile, 95th percentile"
@@ -195,7 +195,7 @@
             },
             "ClimatologyElements": {
                 "Title": "Climatology statistics for the monthly mean of daily mean temperature for the period 1981-2010.",
-                "SubTitle": "Based on ERA5 reanalysis data and showing the mean, standard deviation, and 5th and 95th percentiles of the climatology.",
+                "SubTitle": "Based on ERA5 reanalysis data and showing the mean, standard deviation, and 5th and 95th percentiles of the climatology.  The monthly mean climatology shown here is independent of the choice made in the selection menu.",
                 "HorizontalAxis": "Month",
                 "VerticalAxis": "\u00b0C",
                 "Labels": "mean and standard deviation, 5th percentile, 95th percentile"

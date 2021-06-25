@@ -89,4 +89,4 @@ This index is expressed as a change relative to a reference period so the (1981-
 
 |Title|SubTitle|HorizontalAxis|VerticalAxis|Labels|
 | :--- | :--- | :--- | :--- | :--- |
-|Climatology statistics for the monthly mean of daily mean temperature for the period 1981-2010.|Based on ERA5 reanalysis data and showing the mean, standard deviation, and 5th and 95th percentiles of the climatology.|Month|°C|mean and standard deviation, 5th percentile, 95th percentile|
+|Climatology statistics for the monthly mean of daily mean temperature for the period 1981-2010.|Based on ERA5 reanalysis data and showing the mean, standard deviation, and 5th and 95th percentiles of the climatology.  The monthly mean climatology shown here is independent of the choice made in the selection menu.|Month|°C|mean and standard deviation, 5th percentile, 95th percentile|
