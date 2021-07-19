@@ -468,7 +468,7 @@
     },
     {
         "C3S_434_015": {
-            "Indicator": "Projected change in monthly and seasonal statistics of daily mean 2m suface air temperature",
+            "Indicator": "Projected change in monthly and seasonal statistics of daily mean 2m surface air temperature",
             "Main Filters": [
                 {
                     "title": "Time period",
