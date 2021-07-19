@@ -527,7 +527,7 @@
             "HazardCategory": "Heat and Cold",
             "HazardType": "Mean Temperature",
             "PageTitle": "Daily Mean Temperature - Monthly Statistics",
-            "IndexTitle": "Projected change in monthly and seasonal statistics of daily mean 2m suface air temperature",
+            "IndexTitle": "Projected change in monthly and seasonal statistics of daily mean 2m surface air temperature",
             "IndexSentence": "Monthly and seasonal statistics of daily mean 2m surface air temperature are",
             "Units": "(\u00b0C)",
             "DateRange": "2011-2099",

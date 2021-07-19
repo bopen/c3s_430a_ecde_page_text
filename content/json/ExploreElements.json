@@ -430,7 +430,7 @@
     },
     {
         "C3S_434_015": {
-            "IndexTitle": "Projected change in monthly and seasonal statistics of daily mean 2m suface air temperature",
+            "IndexTitle": "Projected change in monthly and seasonal statistics of daily mean 2m surface air temperature",
             "Filter_1": "Time_30yr_2011_2099",
             "Filter_2": "Change_Mon",
             "Filter_3": "Scenario_26_85",

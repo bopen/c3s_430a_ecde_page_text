@@ -2,7 +2,7 @@
 Daily Mean Temperature - Monthly Statistics, 2011-2099
 ======================================================
 
-# Projected change in monthly and seasonal statistics of daily mean 2m suface air temperature
+# Projected change in monthly and seasonal statistics of daily mean 2m surface air temperature
 
 ## Main
 

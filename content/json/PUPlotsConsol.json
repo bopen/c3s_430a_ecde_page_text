@@ -185,7 +185,7 @@
     },
     {
         "C3S_434_015": {
-            "Indicator": "Projected change in monthly and seasonal statistics of daily mean 2m suface air temperature",
+            "Indicator": "Projected change in monthly and seasonal statistics of daily mean 2m surface air temperature",
             "PopUpElements": {
                 "Title": "The projected change in the <<month>/<season> seasonal mean of the monthly/annual mean of the monthly> mean value of daily mean 2m surface air temperature in <NUTS> under <scenario>.",
                 "SubTitle": "Showing the ensemble mean, ensemble maximum and ensemble minimum across 5 CMIP5 climate models.\nHover over the time series to display the values and the action buttons.",
