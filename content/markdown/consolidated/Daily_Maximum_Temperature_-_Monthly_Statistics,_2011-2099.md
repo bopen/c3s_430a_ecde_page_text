@@ -11,7 +11,7 @@ Daily Maximum Temperature - Monthly Statistics, 2011-2099
 The daily maximum temperature index provides information on long-term climate variability and change. Temperature plays a fundamental role in agricultural productivity, biodiversity and public health.
 
 **Definition**
-The daily maximum air temperature (°C) is representative of the temperature at a height of 2m above the surface.  This index provides values for the monthly maximum, monthly minimum, and monthly mean of daily maximum air temperature. The seasonal and annual statistics for this index are averages of these monthly values.
+The daily maximum air temperature (°C) is representative of the temperature at a height of 2m above the surface.  This index provides values for the monthly, seasonal, and annual maxima, minima, and mean of daily maximum air temperature. e.g. the annual maximum of daiy maximum temperature is the hotest day of the year.
 
 **Data Sources**
 Monthly and seasonal statistics of daily maximum 2m surface air temperature are calculated from an ensemble of five global climate model (GCM) simulations for two CMIP5 scenario projections: RCP2.6 (with low greenhouse gas emissions) and RCP8.5 (with high greenhouse gas emissions). Projected changes are calculated relative to a (1981–2010) ERA5 reference period.
@@ -45,7 +45,7 @@ Statistics for the mean value of daily maximum temperature, the maximum value of
 The daily maximum temperature index provides information on long-term climate variability and change. Temperature plays a fundamental role in agricultural productivity, biodiversity and public health.
 
 **Definition**
-The daily maximum air temperature (°C) is representative of the temperature at a height of 2m above the surface.  This index provides values for the monthly maximum, monthly minimum, and monthly mean of daily maximum air temperature. The seasonal and annual statistics for this index are averages of these monthly values.
+The daily maximum air temperature (°C) is representative of the temperature at a height of 2m above the surface.  This index provides values for the monthly, seasonal, and annual maxima, minima, and mean of daily maximum air temperature. e.g. the annual maximum of daiy maximum temperature is the hotest day of the year.
 
 **Data Sources**
 Monthly and seasonal statistics of daily maximum 2m surface air temperature are calculated from an ensemble of five global climate model (GCM) simulations for two CMIP5 scenario projections: RCP2.6 (with low greenhouse gas emissions) and RCP8.5 (with high greenhouse gas emissions). Projected changes are calculated relative to a (1981–2010) ERA5 reference period.
