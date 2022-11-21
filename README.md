@@ -22,10 +22,11 @@ First install the requirements;
 pip install -r requirements.txt
 ```
 
-To download the google sheets data and parse it to JSON, run this command;
+To download the google sheets data and parse it to JSON, run the following commands;
 
 ```bash
-python code/gdoc_parser.py
+cd code
+python gdoc_parser.py
 ```
 
 The first time you run this, an exception will be raised and you will be prompted with a [link](https://developers.google.com/sheets/api/quickstart/python) in the terminal. Open the link in a web browser and go to step one where there is a button called `Enable the Google Sheets API`. Click this and follow the steps, call your project what you like (or just leave it as 'Quickstart') and choose `Desktop app`. You can then click `Download Client Configuration`. You will need to rename and move this file to this location;
